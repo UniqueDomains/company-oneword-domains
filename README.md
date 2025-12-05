@@ -30,7 +30,7 @@ If you want to search & filters the complete database of [.COMPANY one word doma
 | abaxial.company    | available | 54       | 2%     | 7      |           |         |         |
 | abbatial.company   | available | 50       | 1%     | 8      |           |         |         |
 | abdicable.company  | available | 50       | 1%     | 9      |           |         |         |
-| abdominal.company  | available | 82       | 1%     | 9      |           |         |         |
+| abdominal.company  | available | 82       | 5%     | 9      |           |         |         |
 | abdominous.company | available | 56       | 1%     | 10     |           |         |         |
 | abducens.company   | available | 54       | 1%     | 8      |           |         |         |
 | abducent.company   | available | 68       | 1%     | 8      |           |         |         |
@@ -39,7 +39,7 @@ If you want to search & filters the complete database of [.COMPANY one word doma
 | aberdonian.company | available | 68       | 1%     | 10     |           |         |         |
 | aberrant.company   | available | 74       | 7%     | 8      |           |         |         |
 | abeyant.company    | available | 56       | 2%     | 7      |           |         |         |
-| abhorrent.company  | available | 54       | 1%     | 9      |           |         |         |
+| abhorrent.company  | available | 54       | 3%     | 9      |           |         |         |
 | abiding.company    | available | 106      | 5%     | 7      |           |         |         |
 | abient.company     | available | 54       | 1%     | 6      |           |         |         |
 | ability.company    | available | 92       | 18%    | 7      |           |         |         |
@@ -90,7 +90,6 @@ If you want to search & filters the complete database of [.COMPANY one word doma
 | -------- | ------------ | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
 | Expired  | 23,050       | [Github](https://github.com/UniqueDomains/expired-oneword-domains)  | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.link)  |
 | Expiring | 51,568       | [Github](https://github.com/UniqueDomains/expiring-oneword-domains) | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expiring-oneword-domains&utm_content=table.link) |
-| All      | 3,508,809    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
 ## By TLD
 
 | Name           | Total Number | Extract                                                                  | Full Database                                                                                                                                   |
