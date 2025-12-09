@@ -3050,6 +3050,7 @@ a78c7ca6-b3a3-47eb-afd1-a3410e1a11a3,land.company,resell,62,28,4,"Sav.com, LLC -
 29fc7707-f354-4dd8-b307-0a7900e8025b,landscape.company,resell,92,22,9,Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn),06/02/2022 13:15,06/02/2026 13:15
 61bf2621-732e-4611-b620-c78d0b50bfe2,language.company,resell,116,24,8,Dynadot Inc,14/10/2019 23:37,14/10/2026 23:37
 7ec6407d-b7e0-4afa-9ec6-792b96588ce6,lapse.company,available,88,7,5,,,
+68b0c51d-0ab3-433c-b434-f771d06d0177,laptop.company,resell,90,18,6,"GoDaddy.com, LLC",20/07/2015 06:40,20/07/2026 06:40
 c76dd6eb-7c5c-4eb0-9d2d-89023de9d586,largely.company,available,60,1,7,,,
 39575e1d-8c8d-4e8d-97ab-41466f73ebb0,larger.company,available,76,4,6,,,
 32ec70ad-9975-446e-8bdb-35ca0097473e,lasting.company,available,84,7,7,,,
@@ -3061,11 +3062,17 @@ cc0468f5-7a59-45b3-a28e-f69025ce7f1d,later.company,available,74,15,5,,,
 3c786793-2078-417b-b5df-4c51f896938f,latter.company,available,72,6,6,,,
 6ca15212-381b-4be7-ae68-1eab0b7d48ad,laudable.company,available,58,4,8,,,
 059a96ba-5117-4487-81ee-37086576f7bf,laughable.company,available,68,3,9,,,
+f6129919-c7ca-43ae-bd65-7bb2cb11b697,lava.company,resell,64,31,4,Dynadot Inc,23/11/2025 18:32,23/11/2026 18:32
 39f2099d-1db0-4487-8ce9-866eeff26e9f,law.company,resell,82,42,3,"GoDaddy.com, LLC",24/06/2015 19:33,24/06/2026 19:33
 d1122276-7121-4d0f-b5a6-19659952bf10,lawless.company,available,40,14,7,,,
+3aad0023-57c3-4779-ac2e-85d0dc81974f,lawn.company,resell,64,18,4,"GoDaddy.com, LLC",24/04/2017 18:01,24/04/2026 18:01
+9a151245-aaa6-404c-a226-263778caee1c,laws.company,available,74,13,4,,,
 aa3084c0-fdce-442b-bc43-61a4be8c7f4f,lay.company,available,62,9,3,,,
 745c01eb-922f-4183-9f54-9fd35a24fd5d,laziness.company,available,58,2,8,,,
 415207c6-8b24-4523-ab3f-da530791e524,lazuline.company,available,46,3,8,,,
+ff937671-13a5-43e8-bffc-cf2b191ee44a,lcd.company,available,76,10,3,,,
+d20fe6aa-d45f-4bf5-859c-a0f099528aa0,league.company,resell,68,24,6,"Xiamen ChinaSource Internet Service Co., Ltd",13/02/2024 17:00,13/02/2026 17:00
+831708e2-fad8-46e2-a38a-010dbde99ecf,leak.company,available,58,17,4,,,
 40d12abb-1e5e-4a35-b936-23498b286952,leaning.company,available,58,5,7,,,
 da72f7cf-6068-4333-8701-bf59365b20ef,learned.company,available,71,6,7,,,
 316895ee-3f2b-47f9-99f4-f63d61070167,learning.company,resell,76,32,8,"GoDaddy.com, LLC",25/06/2015 20:56,25/06/2026 20:56
@@ -3073,8 +3080,14 @@ da72f7cf-6068-4333-8701-bf59365b20ef,learned.company,available,71,6,7,,,
 f8a81bd1-2ed9-4a62-9b28-57482ac58407,least.company,available,106,7,5,,,
 a52e97c6-799e-4b19-955c-79e27f32bde5,leave.company,available,96,12,5,,,
 ad1fa395-e9b2-4eab-a880-c37b45a6fd69,leaving.company,available,76,5,7,,,
+4a399518-4100-401d-8c32-0849e50c14e2,lecture.company,available,96,7,7,,,
+7427a25f-f56b-487b-bbb0-6145b9dd34d1,leg.company,available,116,11,3,,,
 9f46ee4c-40f8-4ab5-b4f0-46ea8a597f09,legion.company,resell,108,22,6,"Xiamen ChinaSource Internet Service Co., Ltd",01/06/2025 15:15,01/06/2026 15:15
+2a80f5ea-dcea-4acc-a94f-190d3754b721,legs.company,available,76,10,4,,,
+cb59b1b8-9f5b-4e0b-bd2e-575850f71af3,leisure.company,resell,70,18,7,"GoDaddy.com, LLC",19/05/2023 07:34,19/05/2027 07:34
 45319316-aad3-4503-9e40-8a3d279024f8,lemon.company,resell,66,36,5,Super Registry Ltd,05/04/2014 19:15,05/04/2026 19:15
+2962391e-8282-4ba7-bbd0-ca222ef04234,lend.company,resell,90,15,4,Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn),26/03/2022 17:00,26/03/2026 17:00
+74f883d6-457c-484a-921f-6a7c9f3b0304,length.company,available,92,4,6,,,
 0e89bfbb-3819-4a33-a93d-018c6a1cc060,lenitive.company,available,84,1,8,,,
 90e58dbf-ac5f-41a5-9140-d3254348c296,lens.company,resell,62,21,4,"GoDaddy.com, LLC",06/04/2014 17:02,06/04/2026 17:02
 f932f76b-773e-4977-9a3c-718c59801bab,lesson.company,available,98,11,6,,,
@@ -3083,6 +3096,7 @@ fca3a730-5399-40d6-8be7-c28fb055463b,letalone.company,available,52,1,9,,,
 796265dc-c0f5-43b3-9dbb-6c550b4aa182,level.company,resell,74,29,5,"Chengdu West Dimension Digital Technology Co., Ltd.",26/04/2023 15:15,26/04/2034 15:15
 b68b4619-3960-4e85-b942-b28eb52055e8,licenced.company,available,68,2,8,,,
 ce1311d2-077c-4a88-a06f-4dab83fbcb61,licensed.company,available,68,5,8,,,
+5229d4a8-8e90-4714-98a5-8fa0dade3354,lie.company,available,66,13,3,,,
 be54a6da-2e4b-4b95-9acd-7bd3e79467f0,light.company,resell,62,37,5,Dynadot Inc,19/03/2014 16:00,19/03/2026 16:00
 85a89e8e-b31f-4fd0-9afb-a8fd2570662c,lightbulb.company,available,70,16,10,,,
 0e95e6c7-756d-41a6-b588-9de7cd2ff254,lightly.company,available,64,5,7,,,
@@ -3091,7 +3105,9 @@ be54a6da-2e4b-4b95-9acd-7bd3e79467f0,light.company,resell,62,37,5,Dynadot Inc,19
 cc794904-80a2-4ab3-84f1-7384fb5b66d9,liked.company,available,76,5,5,,,
 8fe1d799-7125-45a1-9b76-3847036790db,likely.company,available,72,8,6,,,
 4905fe90-74bc-4d71-a379-a6c5b3ce4e53,likewise.company,available,60,8,8,,,
+d9dbf3c3-834d-4908-9ae4-33ee51ccc7f4,limestone.company,available,64,11,9,,,
 6af492d7-4167-4c98-b75f-a9aa94735c08,limit.company,available,108,16,5,,,
+6b6e9625-0ca8-41a5-a874-44fe24081ea1,limitation.company,available,56,3,10,,,
 d9ca65a8-15f3-44d0-85de-fa5c1a7c9782,limiting.company,available,65,2,8,,,
 14232e9b-ab12-4637-b7c3-ebdba475a0b1,limitless.company,resell,76,48,9,"GoDaddy.com, LLC",02/10/2022 13:15,02/10/2026 13:15
 a016be86-767b-431f-8529-7f86596b38ed,lindsay.company,available,70,15,7,,,
@@ -3104,6 +3120,7 @@ c05150e8-7323-46bf-94e3-af07e5a4910a,lisboa.company,available,66,12,6,,,
 e0b41547-e2bd-4a20-8ea0-4c3f3bbde042,lisbon.company,available,90,12,6,,,
 4f4ca015-fd5d-45ba-8554-0c9d18e01417,list.company,resell,70,30,4,"Xiamen ChinaSource Internet Service Co., Ltd",22/09/2025 15:15,22/09/2026 15:15
 64ae0d72-6d09-4093-8c56-e2bebedcdaa9,listen.company,resell,104,25,6,"Xiamen ChinaSource Internet Service Co., Ltd",18/09/2025 15:16,18/09/2026 15:16
+4ef30bd5-398d-42ad-88bd-c0f4bddd8224,lithuania.company,available,60,4,9,,,
 7f430e56-efcf-42ea-afa4-96fe7ae39fc1,littlejoe.company,available,52,3,10,,,
 d7c0103d-3272-478c-ada8-754b729678b8,liv.company,resell,72,28,3,"Sav.com, LLC - 31",24/10/2024 17:00,24/10/2025 17:00
 b130e8c8-c66b-4f48-bbc0-8038e5e62a3b,live.company,resell,108,33,4,"Spaceship, Inc.",17/09/2023 15:15,17/09/2026 15:15
@@ -3117,12 +3134,15 @@ b8a57035-f545-42a2-b1f1-38881b06cd65,located.company,available,62,4,7,,,
 71a79a71-5318-403d-884f-9176e329bec8,location.company,available,70,20,8,,,
 bbe186ae-08d5-49d1-819b-c40f3ddd8bba,lockbox.company,available,68,12,7,,,
 3b157d0a-d97a-4b4c-8f8a-c1caac19a401,loft.company,resell,64,28,4,"Xiamen ChinaSource Internet Service Co., Ltd",23/01/2019 00:26,23/01/2026 00:26
+9d95bdc2-4a4c-4a97-ac5d-da88aa50f41d,logo.company,resell,64,32,4,"Spaceship, Inc.",20/08/2019 09:08,20/08/2026 09:08
 d03c649f-9dad-42fb-972d-1563087e041e,longdozen.company,available,62,1,10,,,
 3d051932-48f8-4b39-8204-12ceeae289e9,longer.company,available,74,10,6,,,
 93b84e99-4051-40be-be51-700d39e1b88c,longest.company,available,64,5,7,,,
+7ca92c66-53ff-4243-a42c-be12440d6a02,longitude.company,available,66,10,9,,,
 f68e602e-a35c-49ab-a1e1-d768c0988150,look.company,available,80,28,4,,,
 011c7387-9f4c-4d3c-a7f9-d562251f1392,lookingat.company,available,64,2,10,,,
 53b8ac8e-607b-4396-aeeb-9e56e9a4ee46,lookinto.company,available,70,2,9,,,
+8d1dece7-3268-462b-b7bc-438b4a69e5e7,lookout.company,available,74,14,7,,,
 ddc63538-745a-4cab-baf6-99cbd5b00115,loony.company,available,74,5,5,,,
 5d1d9060-4ad2-42bc-8fac-b162ceb00683,loop.company,available,72,26,4,,,
 20309a30-a03f-4876-95c5-49517adf0a0c,loopy.company,available,52,13,5,,,
@@ -3155,6 +3175,7 @@ df8de1b7-1f29-4ff3-a472-39dbfa23c768,luminous.company,available,64,24,8,,,
 53669354-964b-43f3-af84-6b2eac163898,lunch.company,resell,111,20,5,"NameCheap, Inc.",07/05/2017 19:27,07/05/2026 19:27
 24b73d8e-5727-4a87-98c2-4b9b9df214d5,luncheon.company,available,96,3,8,,,
 abe61089-fb29-4f53-895f-6a22483d0b06,luxembourg.company,available,60,3,10,,,
+8521ed6b-98a8-4944-a1b9-dbeff88b16b8,luxury.company,resell,98,32,6,GoDaddy Online Services Cayman Islands Ltd.,25/06/2015 13:13,25/06/2026 13:13
 1f74b160-1aa5-46e6-a143-2b61b156b84b,lvii.company,available,56,2,4,,,
 87a4c9ae-4a24-451d-b56d-dd275e2916c6,lviii.company,available,56,1,5,,,
 03ffb84c-b200-433e-8f4f-ce1661628920,lxi.company,available,52,5,3,,,
@@ -3234,6 +3255,7 @@ a1659816-ebc8-403c-8895-f37de026d7c3,mavin.company,available,74,8,5,,,
 b3f36a6b-1381-4661-ae42-5b6bd388c5cc,meantime.company,available,82,5,8,,,
 cd24f249-572b-4c65-9bda-f3e15c23c142,meanwhile.company,available,80,11,9,,,
 a97a1e98-482a-4649-a0e0-bc8276269275,mechanic.company,resell,62,13,8,GoDaddy Online Services Cayman Islands Ltd.,29/06/2017 15:02,29/06/2026 15:02
+1713ada2-98f4-41c0-a2d6-73c1c1b1cdf1,medal.company,available,70,10,5,,,
 5fca9dc3-6fc0-4cac-a24d-847f5bd069e1,median.company,available,100,8,6,,,
 665d044b-e309-466a-8114-c7fc165b742f,medical.company,premium,100,22,7,,,
 435a0356-5eff-4772-b4b6-4ab12c2fe370,melancholy.company,available,76,5,10,,,
@@ -3664,6 +3686,7 @@ fcc2a03e-fa6d-4222-96e8-a08ace7caa31,property.company,resell,90,32,8,GoDaddy Onl
 0878b259-dcb5-44c3-9299-673caa2283e5,prototypal.company,available,56,1,10,,,
 0da8a6a2-b770-4a0a-8871-b3c6b757359c,prototypic.company,available,56,2,10,,,
 0b48ca35-46d6-4874-8672-f034d580c2f2,proud.company,resell,79,16,5,"Chengdu West Dimension Digital Technology Co., Ltd.",14/04/2023 17:01,14/04/2026 17:01
+a195a0af-0576-49ee-8db7-3e25a7a850b3,prove.company,available,98,15,5,,,
 ebd329ea-3d60-4914-adf0-9ba8ac640d74,proved.company,available,73,4,6,,,
 d1d7727b-3e65-4d84-b0d3-93a0358ea693,provisions.company,available,70,8,10,,,
 53ee7d38-2fc8-4e07-a7e4-2a70ce886923,provoke.company,available,68,9,7,,,
@@ -3692,6 +3715,7 @@ eb780bc2-0bd7-4146-b55d-bcfa2e2e6fc2,puzzled.company,available,64,7,7,,,
 d0d8b49c-55b3-45e9-8785-2bf54c5f9bca,quadruplet.company,available,54,2,10,,,
 319f96be-33a6-44d3-977f-8bc494787409,quality.company,resell,92,27,7,"Name.com, Inc.",21/03/2019 09:15,21/03/2027 09:15
 21ff14b0-cfa7-41e7-9d9a-59a33d801d44,quarter.company,available,56,11,7,,,
+7e65f097-e7d1-418d-b478-924e868f3806,quarters.company,available,68,6,8,,,
 b4f2c504-edd4-4058-9385-7caa223420a1,quartet.company,available,62,7,7,,,
 2ee5a997-fab7-40f1-96ce-2a46a6442204,quatern.company,available,54,2,7,,,
 4e2b19ed-d592-48cd-93a3-29a24733a60c,quaternary.company,available,46,3,10,,,
@@ -3786,6 +3810,8 @@ e2ce51c3-8fe2-4f7a-b943-f2f631d83f5e,respond.company,available,92,12,7,,,
 66b75159-cc23-4f70-8553-87b8e35bf02b,respondent.company,available,88,3,10,,,
 940defa8-bfa5-4791-bfd3-33f5eb73e71f,restaurant.company,resell,78,27,10,"Spaceship, Inc.",04/06/2023 15:15,04/06/2026 15:15
 c7c4c9c9-a51b-4971-91c0-b1e39bf9b2de,rested.company,available,73,5,6,,,
+73ec7924-b280-4f44-a999-e8f03f838214,restrain.company,available,58,2,8,,,
+7018e586-fbdd-46d3-ad9c-f5f960d7af3b,restrict.company,available,74,3,8,,,
 db102839-bf25-40c2-9c46-732c78d581ea,restricted.company,available,62,9,10,,,
 fafbfab5-0e82-4dee-b0c9-11a62de296c3,resultant.company,available,76,3,9,,,
 0617bda5-d590-4dff-a0c6-0a060dea445f,resume.company,resell,98,26,6,Dynadot Inc,27/05/2020 02:02,27/05/2026 02:02
@@ -3904,6 +3930,7 @@ cfea8bfa-a19e-4daa-b51c-03cb866f79b2,screen.company,resell,72,26,6,"NameSilo, LL
 78b4f3d0-bbb9-4aa3-9bd4-fd6c24ca7b1b,scummy.company,available,50,2,6,,,
 b36bbb4c-15f0-4fc4-8e11-b9461810c8b5,scurrilous.company,available,40,2,10,,,
 7ff55cd8-373c-4dec-837d-b981296f2907,scurvy.company,available,68,3,6,,,
+5bc74ffa-7ccb-4ea9-a386-c9ba3985d4a2,search.company,resell,70,,6,"GoDaddy.com, LLC",25/06/2015 22:08,25/06/2026 22:08
 a3f07495-8e6d-49f3-a5f2-fab4151b1ab1,searching.company,available,84,9,9,,,
 b35972b9-466a-428d-8a61-bc0e09cfd5ac,seasick.company,available,52,3,7,,,
 339964cf-3a31-4032-956e-cf3a39ca30c2,season.company,resell,102,16,6,"Xiamen ChinaSource Internet Service Co., Ltd",16/07/2025 23:32,16/07/2026 23:32
@@ -4034,7 +4061,7 @@ a2ae5956-4185-4bc8-a130-1b910f4af008,slanting.company,available,62,2,8,,,
 0df9b993-ae1f-4bd1-aec4-cda43ba2b7e7,slave.company,available,66,19,5,,,
 d0be4375-d2b3-427b-be45-8ea5e7ccc37c,sliced.company,available,74,7,6,,,
 0fb871c5-063b-459f-b74d-f74c34865d40,slick.company,available,66,15,5,,,
-59c32cf0-f7e5-4adc-9dde-d2cdf7e4a0cb,slide.company,available,90,,5,,,
+59c32cf0-f7e5-4adc-9dde-d2cdf7e4a0cb,slide.company,available,90,27,5,,,
 d91e6b23-cdf7-42fd-8739-8faed2c9ec19,sliding.company,available,78,4,7,,,
 35ad2f9d-11d9-4f18-bc0d-4ad606bfe346,slight.company,available,64,4,6,,,
 4300474f-6851-4bd9-b08f-c6fc02e9fb08,slighting.company,available,56,1,9,,,
@@ -4241,6 +4268,7 @@ df105b1c-8620-45b7-bfbe-29eb967ede63,tedious.company,available,60,5,7,,,
 17c5e190-6e4b-40a1-9dff-c04b07014073,tempting.company,available,88,4,8,,,
 e3f14fd0-a7fa-42f5-93e6-bbb4f4d47bff,tend.company,available,76,16,4,,,
 e93c2c57-c098-4e7b-8efc-81d02c77bc94,tenner.company,available,66,4,6,,,
+fd9ba777-73d4-4e6e-8902-411efb849bf2,tennis.company,available,72,24,6,,,
 c60f7496-43e5-47fd-a0b5-810f4e25ecb0,tentative.company,available,81,3,9,,,
 a4f645c2-d92c-4c52-b909-6221239e18e3,tercet.company,available,59,3,6,,,
 49540fd5-f80b-421f-a298-412f50542a69,term.company,available,112,17,4,,,
@@ -4472,6 +4500,7 @@ ab9ee992-80ba-4cf7-92fd-df161215de41,vexatious.company,available,38,3,9,,,
 9df7c1b1-0c70-4f7d-a8c7-ba34326b8e6e,vexing.company,available,66,4,6,,,
 682bfec3-9a31-4d91-a925-4f77e18afa43,victim.company,available,64,8,6,,,
 7cd6adbc-838f-4894-8226-3ead444cdd43,victorian.company,available,81,7,9,,,
+7192f6e2-276f-4cbc-a6b7-16e5cd6e7a1e,viewer.company,available,68,8,6,,,
 437e1637-bb28-44d8-a81d-7ce7064b3a10,vigor.company,available,80,16,5,,,
 3247f90e-d508-4867-883e-b88b64759353,vii.company,available,54,13,3,,,
 31342f9b-9b30-4ad2-ad4e-a34bd821f46e,viii.company,available,54,6,4,,,
@@ -4514,6 +4543,7 @@ adea83f6-0ee9-41bc-be67-b60289ce5a0b,wandering.company,available,72,13,9,,,
 763c4245-2bde-49df-a87b-2a4b3183f0d2,washington.company,available,81,17,10,,,
 c65d5173-9c24-413e-80ef-56773fac9b48,waste.company,resell,104,21,5,"GoDaddy.com, LLC",28/08/2019 02:39,28/08/2026 02:39
 b2ad260d-8ec5-405b-b99c-347f21791548,wasteland.company,available,44,9,9,,,
+67e81215-4f19-48c8-b6c6-0fe0ad57e261,watch.company,resell,94,33,5,"Name.com, Inc.",08/09/2017 23:22,08/09/2029 23:22
 d017ad83-24f1-42b2-84de-206a8debb350,watchful.company,available,64,6,8,,,
 9b8bb2d0-790c-4334-a504-d59b8c551c56,watermelon.company,resell,70,21,10,Super Registry Ltd,05/04/2014 19:15,05/04/2026 19:15
 2d24d4ab-1ff1-46c5-be97-714d20d91c51,waters.company,available,66,13,6,,,
