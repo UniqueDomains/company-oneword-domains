@@ -103,7 +103,7 @@ e4368403-308e-4008-b240-0783338a3abe,acaudal.company,available,50,1,7,,,
 727af185-0495-4151-84e3-b9b3fd7e8439,acaudate.company,available,46,1,8,,,
 850da573-4c90-4572-ae12-7535a7caf9aa,accented.company,available,58,2,8,,,
 503652c7-93f3-4d8b-a3c8-1485cf1530c4,accentual.company,available,54,2,9,,,
-5bdb5211-f4fc-4b76-b2d3-d090c0cfedb2,accept.company,available,103,15,6,,,
+5bdb5211-f4fc-4b76-b2d3-d090c0cfedb2,accept.company,available,103,14,6,,,
 80940b28-8c14-45d9-86a0-2cd4d5e6ffe9,acceptable.company,available,78,5,10,,,
 a70ff083-5bea-4c46-9517-e3005f10fbc6,acceptant.company,available,78,1,9,,,
 25e7cda0-f28a-449c-8e78-dfbf61c502ea,accepted.company,available,78,5,8,,,
@@ -1694,8 +1694,8 @@ ece9b390-5ccd-4e47-9e1b-a64a6558db4b,biggame.company,available,74,8,8,,,
 f500eb9a-7b2e-421a-8852-99631102881f,billgates.company,available,72,8,10,,,
 85bac0bd-b825-46ac-8c49-9671557b3be8,bio.company,resell,78,40,3,"Spaceship, Inc.",24/06/2015 16:00,24/06/2026 16:00
 a101e6ff-be46-4aa8-b0c6-9db3f50f61de,biological.company,available,92,5,10,,,
-35ea3cb8-8a41-49ba-8e1d-1be729e5e068,bird.company,resell,72,39,4,Dynadot Inc,17/09/2020 08:10,17/09/2026 08:10
-a5a5043f-407a-4c9f-aa12-018569529cd2,birth.company,resell,114,16,5,"Chengdu West Dimension Digital Technology Co., Ltd.",06/01/2020 08:09,06/01/2034 08:09
+35ea3cb8-8a41-49ba-8e1d-1be729e5e068,bird.company,resell,72,38,4,Dynadot Inc,17/09/2020 08:10,17/09/2026 08:10
+a5a5043f-407a-4c9f-aa12-018569529cd2,birth.company,resell,114,15,5,"Chengdu West Dimension Digital Technology Co., Ltd.",06/01/2020 08:09,06/01/2034 08:09
 a78f1c9a-fd32-403e-ad94-0aaff9634346,birthcertificate.company,available,66,4,17,,,
 5b2c3012-07bb-46ee-89fc-12d596b44426,biteme.company,available,62,11,7,,,
 5b4b93d1-e876-417d-b391-5bd48fd1ea30,biting.company,available,72,2,6,,,
@@ -1742,6 +1742,7 @@ d9c2da10-77c9-4332-bd5a-9e1891bd83ec,bolster.company,available,66,11,7,,,
 5bef89bc-e8cf-4d56-a986-6e67765b5eca,bomb.company,available,66,19,4,,,
 aeb2ea91-91c1-4886-b22c-ee81af4115a1,bond.company,resell,74,32,4,"Xiamen ChinaSource Internet Service Co., Ltd",21/03/2023 17:00,21/03/2026 17:00
 bcff3f10-b941-4d34-8f4a-775855cc2bd6,bones.company,available,52,12,5,,,
+f4c6b692-b363-491c-99da-b66ce2763224,boo.company,available,100,23,3,,,
 9ec4d92d-ccc6-4da9-a717-223f013ca69a,boob.company,available,78,13,4,,,
 26618299-94e1-4de6-bcb4-c6dd412b750c,book.company,resell,82,46,4,Dynadot Inc,08/04/2023 15:15,08/04/2026 15:15
 420a8f72-da3b-44a3-adaa-98e8249f5f25,booklist.company,available,70,5,8,,,
@@ -1757,7 +1758,7 @@ d7e5a87e-3c01-48bf-b991-1afc23749fd4,boozer.company,available,48,4,6,,,
 93ddb98e-8ada-400e-ae13-2c5b1f16ed92,boss.company,resell,76,32,4,Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn),04/06/2020 23:18,04/06/2026 23:18
 198761ae-4cdf-40e4-b1a1-5b4d57564f15,bossy.company,available,70,11,5,,,
 450e0aa1-4558-4e54-8096-c1161060d9d6,boston.company,resell,80,29,6,"GoDaddy.com, LLC",20/10/2025 23:42,20/10/2026 23:42
-414cf796-487e-4e45-9f62-e3a9e68e6ad7,bot.company,resell,98,58,3,Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn),13/05/2019 08:57,13/05/2026 08:57
+414cf796-487e-4e45-9f62-e3a9e68e6ad7,bot.company,resell,98,56,3,Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn),13/05/2019 08:57,13/05/2026 08:57
 e5c33f3b-d377-4d40-86b4-6909112b1cc7,bothered.company,available,64,1,8,,,
 cfd1201a-617f-4650-805c-424af2964100,bothersome.company,available,39,1,10,,,
 a3f48c28-a544-4568-981b-e0ce6181373d,bottom.company,available,48,8,6,,,
@@ -1778,11 +1779,11 @@ d0423943-98f3-4353-86c9-c8bbe94dfbb9,box.company,resell,68,34,3,Dynadot Inc,30/0
 38e6372c-448f-427e-bf25-e124dfe88407,brag.company,available,114,9,4,,,
 a3a34ac0-707d-489e-a393-4ff4355537f1,brainwash.company,available,80,6,9,,,
 c07bc54b-a35f-4cbd-9db4-98a0063e21da,braless.company,available,36,4,7,,,
-b616a000-d4ed-480d-ba98-103ff2763f5c,brand.company,resell,66,45,5,"Spaceship, Inc.",05/09/2023 15:15,05/09/2026 15:15
+b616a000-d4ed-480d-ba98-103ff2763f5c,brand.company,resell,66,44,5,"Spaceship, Inc.",05/09/2023 15:15,05/09/2026 15:15
 f27b0c6c-d548-4fcf-b45c-fa19bae94a10,brass.company,resell,108,16,5,"Sav.com, LLC - 24",19/08/2025 15:15,19/08/2026 15:15
 cfa14147-7914-4ab0-af6b-4853978686c8,brave.company,resell,76,38,5,"GoDaddy.com, LLC",23/04/2020 14:55,23/04/2026 14:55
 4ee8669f-af45-4984-b555-9c52dd282a27,bravo.company,available,66,14,5,,,
-21d3f2a5-91ee-4199-b78f-f44bbc161be9,bread.company,resell,102,31,5,"Spaceship, Inc.",30/06/2015 22:14,30/06/2026 22:14
+21d3f2a5-91ee-4199-b78f-f44bbc161be9,bread.company,resell,102,30,5,"Spaceship, Inc.",30/06/2015 22:14,30/06/2026 22:14
 a1ffee0e-a782-4f9c-a662-40d4cc9bab30,breakeven.company,available,82,5,10,,,
 1ec1b93c-0032-4c9e-bc61-ab3c574e31c5,breakinto.company,available,68,2,10,,,
 06971396-68c9-4812-af84-dece01d15538,breakoutroom.company,available,66,2,13,,,
@@ -1792,22 +1793,22 @@ a1ffee0e-a782-4f9c-a662-40d4cc9bab30,breakeven.company,available,82,5,10,,,
 fc794e50-b3d5-4cbb-812f-a95dedbbd2ca,breathtaking.company,available,70,7,12,,,
 c411d81b-6586-4909-bc6c-9f278b30d7a7,briary.company,available,48,2,6,,,
 d36b3d17-9c36-4f76-9ff9-6330113c7ff4,bridges.company,available,74,22,7,,,
-be2c296a-dc19-40a5-a262-b6d5311f1348,bridget.company,available,86,9,7,,,
-11669aa6-8d37-4c04-87f7-a09988fa83cc,brie.company,available,70,9,4,,,
+be2c296a-dc19-40a5-a262-b6d5311f1348,bridget.company,available,86,8,7,,,
+11669aa6-8d37-4c04-87f7-a09988fa83cc,brie.company,available,70,8,4,,,
 22784fa1-13c6-4b64-a387-963992385c9e,brief.company,resell,124,18,5,"Sav.com, LLC - 18",21/07/2025 15:15,21/07/2026 15:15
 21d02536-87c9-42f4-8895-cabfc11ce5fc,briefing.company,available,66,8,8,,,
 8c8cfb61-f6dd-43ca-acea-642d13594499,briefingnote.company,available,70,1,13,,,
 44e3ef5e-2ab0-41a9-a125-3e96eeab4dc5,briefly.company,available,65,11,7,,,
-13845c34-a331-4ee5-b3a8-01cc9d0f565d,briefs.company,available,74,8,6,,,
+13845c34-a331-4ee5-b3a8-01cc9d0f565d,briefs.company,available,74,7,6,,,
 f1c307ad-6872-4c01-aebd-1b2228bb7975,briery.company,available,66,1,6,,,
 890d4ede-cbf8-4bf9-bc99-fec40a0b7368,bright.company,resell,74,32,6,"Spaceship, Inc.",18/09/2016 10:01,18/09/2026 10:01
 f973ae7b-e789-4f43-a911-ffe7ee64b939,brighten.company,available,80,7,8,,,
-0b04b211-baa6-468c-98cf-970fdd783aca,brightness.company,resell,72,6,10,Dynadot Inc,05/10/2025 16:46,05/10/2026 16:46
+0b04b211-baa6-468c-98cf-970fdd783aca,brightness.company,resell,72,5,10,Dynadot Inc,05/10/2025 16:46,05/10/2026 16:46
 3d548637-2b5c-46a4-948b-8071fbdfa4a3,brilliant.company,resell,96,28,9,"GoDaddy.com, LLC",14/02/2017 02:39,14/02/2026 02:39
 55d673f5-b904-43ea-af1d-2a5aab0ccc66,bringback.company,available,66,3,10,,,
 e40532f2-0108-4984-9867-b37f02f1c806,bringhome.company,available,72,5,10,,,
 beabb76b-52d1-472d-89f5-3fb33702b9f9,bringin.company,available,74,3,8,,,
-a184c47d-b303-4afb-a660-9873c670ee12,bringing.company,available,66,1,8,,,
+a184c47d-b303-4afb-a660-9873c670ee12,bringing.company,available,66,2,8,,,
 2dac9a9e-19dc-4a30-b950-a046a3292525,bringit.company,available,98,8,8,,,
 532eb8c8-1cb9-4ca2-8ae7-9f501fb84128,bringon.company,available,70,2,8,,,
 ef23ba16-4482-4ee9-85d2-1d4cd7b632de,bringto.company,available,70,2,8,,,
@@ -1830,14 +1831,15 @@ c0c2574d-a20d-46bf-8a91-12618afc4893,browsing.company,available,70,7,8,,,
 b80a3855-0dcd-47e8-b5bf-456a3d42ca37,brutal.company,available,48,16,6,,,
 d8133d20-bced-4e43-8192-20a97d7e0aa7,brute.company,available,96,11,5,,,
 9ab49d3f-bfe8-44f6-9f1d-48519209d360,btw.company,available,70,21,3,,,
+521b23c0-7b20-4656-b78b-285a35e3b1e5,buck.company,available,62,26,4,,,
 26271007-c31a-4b23-882c-9a10a24ec39a,bucket.company,resell,62,16,6,"GoDaddy.com, LLC",24/01/2018 20:03,24/01/2026 20:03
 09b9ff61-8b95-412e-bb3d-f3e93be4cfdd,bucolic.company,available,80,3,7,,,
-7636f7c2-74e5-407e-9d5d-95682c156303,budget.company,available,104,27,6,,,
+7636f7c2-74e5-407e-9d5d-95682c156303,budget.company,available,104,26,6,,,
 0a56e93b-6937-490c-a4f0-5ceddd5c3874,buffer.company,available,98,14,6,,,
 45e6e7e8-e78d-484a-8d51-cc206ebc6c0a,buffet.company,premium,103,9,6,,,
 7e7f3eab-7464-4a7f-bd9a-ba3d2cd9ea39,bug.company,available,76,28,3,,,
 bd76ac09-2887-4056-8d52-9b4dcd420ba0,bugged.company,available,56,3,6,,,
-c513ca7a-63b1-47b3-9251-c8797fb9b4fa,builder.company,resell,76,30,7,"Spaceship, Inc.",19/09/2023 15:15,19/09/2026 15:15
+c513ca7a-63b1-47b3-9251-c8797fb9b4fa,builder.company,resell,76,29,7,"Spaceship, Inc.",19/09/2023 15:15,19/09/2026 15:15
 081c8144-01e2-4b11-b216-998dbafcb1b0,building.company,resell,74,28,8,"Spaceship, Inc.",26/06/2015 21:09,26/06/2026 21:09
 fc31ee96-05c1-4c98-8a19-ca4542ed3440,built.company,available,103,15,5,,,
 45b17b17-171b-4db2-9e8f-d528f8d917ae,builtin.company,available,91,7,8,,,
@@ -1845,13 +1847,13 @@ fc31ee96-05c1-4c98-8a19-ca4542ed3440,built.company,available,103,15,5,,,
 84ec1d73-6cd6-45ac-883a-29590a34d1fc,bulb.company,resell,90,13,4,Dynadot Inc,02/05/2025 17:14,02/05/2026 17:14
 c855cc4c-6852-4c19-9c88-855cda29dddd,bulk.company,resell,110,19,4,"Sav.com, LLC",11/07/2025 17:06,11/07/2026 17:06
 38b8f7dc-f53b-46e1-8e25-56e70295110d,bulky.company,available,59,3,5,,,
-8a15a51a-254d-4a44-862f-8a1c18ef55ea,bull.company,resell,62,24,4,"Name.com, Inc.",27/11/2017 12:34,27/11/2027 12:34
+8a15a51a-254d-4a44-862f-8a1c18ef55ea,bull.company,resell,62,23,4,"Name.com, Inc.",27/11/2017 12:34,27/11/2027 12:34
 bcdfa6a6-675b-41af-a231-e6be9e18835e,bullet.company,available,92,19,6,,,
 804ad785-77d2-4e32-af8f-1f5a9b6e24eb,bulletinboard.company,available,66,5,14,,,
 ebcb693f-4c31-4502-88c8-1773e8c6f7d5,bullish.company,available,73,13,7,,,
 ff9f3ddc-5205-44bb-bc14-d72aeeb88886,bully.company,available,118,12,5,,,
 5e26e3ed-0938-4ff3-95ee-bb8db73b9fbd,bullying.company,available,52,5,8,,,
-c1257178-3e6a-481b-b282-ae5ce7692988,bump.company,available,68,22,4,,,
+c1257178-3e6a-481b-b282-ae5ce7692988,bump.company,available,68,21,4,,,
 84cafa05-448a-49e8-a88a-10f7188b5f8a,bumpinto.company,available,68,1,9,,,
 9e1e1953-2e89-45f5-bfa5-00e46fba5c1b,bunch.company,available,64,16,5,,,
 66cdf33a-5874-4e41-8930-0853fff9f7ba,buns.company,available,46,7,4,,,
@@ -1894,20 +1896,21 @@ e85ce3d9-5db6-4060-9d07-64f4dbbec4bc,byfar.company,available,60,2,6,,,
 a3b45ea1-7f2c-45cf-9b64-c0e8ec74d63f,byhand.company,available,60,4,7,,,
 39af6deb-821c-4413-822f-1aca74fc873f,cabbage.company,available,94,16,7,,,
 a2e19e0a-dc85-47d0-aabd-6ff4a70bffe1,cafeterrace.company,available,76,1,12,,,
-82712109-269a-47f3-817c-393c537a6146,cake.company,resell,102,29,4,Dynadot Inc,03/12/2017 00:18,03/12/2026 00:18
+82712109-269a-47f3-817c-393c537a6146,cake.company,resell,102,28,4,Dynadot Inc,03/12/2017 00:18,03/12/2026 00:18
 baef47dd-5de0-447e-9d3f-a472c318a23f,calculation.company,available,66,7,11,,,
 50ee5628-06e9-4bdf-9b23-968fee935c36,calendarclock.company,available,72,1,14,,,
-0f8b326c-7a2b-47c7-be62-e27ebf4b6197,calender.company,available,92,5,8,,,
+0f8b326c-7a2b-47c7-be62-e27ebf4b6197,calender.company,available,92,4,8,,,
 452e7a8a-9595-4335-9ae6-63f54d1ae5e2,calf.company,available,74,7,4,,,
 9c1f4120-6243-480c-a093-68e6a9baa1fa,Californiakilowatt.company,available,70,1,19,,,
 ec87d08e-ce4b-4622-813b-ccdb598b07d9,Californian.company,available,88,4,11,,,
+82bbe959-612d-44e9-8313-2afb48ec294d,call.company,resell,80,32,4,"Spaceship, Inc.",18/09/2017 11:04,18/09/2026 11:04
 2377216f-7cc9-4e91-97f6-40c2768856d4,callcenter.company,available,66,18,11,,,
 d5bcbe6f-175c-4745-b954-8a539fceb505,callcentre.company,available,66,5,11,,,
 fc5769a4-2d54-421d-88cf-6b6490350447,callfor.company,available,72,2,8,,,
 71a7a8de-6e61-4d77-bc20-af41109baa71,calloff.company,available,67,2,8,,,
 0fb189a7-b4bc-4ab2-9e3e-5674db1c18c0,callon.company,available,72,3,7,,,
 98673875-3fcf-42fa-addc-d77d0aae8ba4,came.company,available,70,9,4,,,
-82f74b7b-a27b-46a8-94a3-e9d39b1b3695,camera.company,resell,78,23,6,"Spaceship, Inc.",26/06/2015 20:42,26/06/2026 20:42
+82f74b7b-a27b-46a8-94a3-e9d39b1b3695,camera.company,resell,78,22,6,"Spaceship, Inc.",26/06/2015 20:42,26/06/2026 20:42
 0fc35612-51e3-4ecf-a69e-72f4027152c0,cameraman.company,available,77,4,9,,,
 597785e3-bd3a-42fa-b340-aa4dec17b8bc,cameroon.company,available,81,3,8,,,
 6b03e034-3b71-4cc6-bd7e-735760e15b83,camouflage.company,available,90,8,10,,,
@@ -1916,9 +1919,9 @@ fc5769a4-2d54-421d-88cf-6b6490350447,callfor.company,available,72,2,8,,,
 b49ae15d-be2b-4dac-bc50-db42b8120f5a,can.company,available,68,5,3,,,
 c24abc59-7a4d-4ec3-abd2-f41eb6451aba,canada.company,available,83,5,6,,,
 c6892ed4-c118-4c2b-9cef-ac116568221d,cancel.company,available,64,16,6,,,
-d60a7e15-fe61-49ea-8d6c-9cfaa12114e7,candidacy.company,available,73,1,9,,,
+d60a7e15-fe61-49ea-8d6c-9cfaa12114e7,candidacy.company,available,73,2,9,,,
 8b61e6a7-17be-457b-bbcf-087a91919b98,candle.company,resell,97,23,6,"Spaceship, Inc.",04/06/2017 14:48,04/06/2026 14:48
-d6983822-ffee-4776-b1ac-1aee01819018,candy.company,resell,75,34,5,"Name.com, Inc.",30/08/2017 16:08,30/08/2027 16:08
+d6983822-ffee-4776-b1ac-1aee01819018,candy.company,resell,75,33,5,"Name.com, Inc.",30/08/2017 16:08,30/08/2027 16:08
 96b959c5-8033-4fbb-93e5-19f5fbad8941,cannot.company,available,72,6,6,,,
 1d63a9e9-579c-4aae-8473-1a9ce8885c8f,canon.company,available,80,12,5,,,
 ccde462c-5935-47f4-a5f7-1e01558126e4,canted.company,available,49,2,6,,,
@@ -1927,10 +1930,9 @@ ccde462c-5935-47f4-a5f7-1e01558126e4,canted.company,available,49,2,6,,,
 f0605039-bda0-4f91-8e97-0644a0684b00,capital.company,resell,92,31,7,Porkbun LLC,05/06/2023 15:15,05/06/2026 15:15
 dc704e8f-32ec-41ff-a6b3-5d5ed9b27860,capitalise.company,available,72,3,10,,,
 84c9a6b5-c4a6-4e4b-9692-180022589e9d,capitalism.company,available,68,13,10,,,
-3af239de-f5eb-4dba-b32a-6588ea84044e,capitol.company,resell,64,16,7,"Sav.com, LLC - 22",13/01/2025 15:15,13/01/2026 15:15
 dfbe6415-3aed-4056-87d9-914390a7f701,capone.company,available,54,6,6,,,
 2c294767-adde-4b93-8ffd-31deb70c9d57,cappuccino.company,available,76,9,10,,,
-377cc0d0-7548-410e-b72c-fd8c8c43575a,captain.company,resell,76,24,7,"Xiamen ChinaSource Internet Service Co., Ltd",23/08/2018 08:19,23/08/2026 08:19
+377cc0d0-7548-410e-b72c-fd8c8c43575a,captain.company,resell,76,23,7,"Xiamen ChinaSource Internet Service Co., Ltd",23/08/2018 08:19,23/08/2026 08:19
 5ec5be48-e366-4f12-825b-6b43edcb8096,captivated.company,available,52,5,10,,,
 ce67ee3f-2553-4c69-b0ca-51079cccd6e9,captive.company,available,102,14,7,,,
 8992f660-7fd1-4e52-a418-7dba5337bf6e,car.company,resell,94,40,3,"Name.com, Inc.",26/06/2015 15:27,26/06/2030 15:27
@@ -1963,7 +1965,7 @@ b79470c5-8197-4f9d-a976-d0c242a26849,cast.company,resell,62,23,4,"Xiamen ChinaSo
 a2eb4df1-a0a7-404f-9373-a9e78572e4f2,cautionary.company,available,60,2,10,,,
 9500f56a-1256-473c-bb4a-c13beede6c1b,cavitied.company,available,50,1,8,,,
 39ecfbf5-3e71-452d-9f92-09a925a1c7fa,ccc.company,available,64,38,3,,,
-bbaa71e1-f00a-4268-8296-967c719b8daf,cement.company,resell,68,10,6,"Name.com, Inc.",22/05/2016 06:05,22/05/2027 06:05
+bbaa71e1-f00a-4268-8296-967c719b8daf,cement.company,resell,68,9,6,"Name.com, Inc.",22/05/2016 06:05,22/05/2027 06:05
 a868654c-b67f-4326-87ca-e189d23eaac9,cent.company,available,74,13,4,,,
 e74ec5ab-ec00-48c0-818d-81a0ea450448,centesimal.company,available,58,1,10,,,
 723d6f4f-d916-4459-80fa-e5058ca28eec,central.company,resell,70,28,7,"Spaceship, Inc.",10/02/2022 13:15,10/02/2026 13:15
@@ -1976,21 +1978,21 @@ a1b7bb69-b406-479c-9698-ba60ac734606,cerulean.company,available,88,15,8,,,
 d60068ec-4e8e-4af3-a707-cd066ecf05be,chagrined.company,available,52,2,9,,,
 03813b02-d331-4f71-8c12-c49f05de6f85,chain.company,resell,64,28,5,Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn),27/02/2020 08:18,27/02/2028 08:18
 da0a6120-8588-4e45-9b8e-6f4e64435164,chair.company,resell,66,14,5,"Sav.com, LLC - 25",17/03/2023 15:15,17/03/2026 15:15
-17c46045-045d-4611-8c0e-095e2d825b74,chairwoman.company,available,66,2,10,,,
+17c46045-045d-4611-8c0e-095e2d825b74,chairwoman.company,available,66,1,10,,,
 f24b716a-9345-4d04-b8c8-59b2723a07d4,challenging.company,available,82,5,11,,,
 b6be6cc7-4ea6-4168-9dc2-17f4d84deade,champagne.company,available,106,20,9,,,
 912ea382-067d-4846-a072-da7543dd0713,champion.company,resell,72,25,8,"Xiamen ChinaSource Internet Service Co., Ltd",15/07/2025 15:15,15/07/2026 15:15
-fd01f2a0-fad6-4d7a-bbce-d71483abbde3,channels.company,available,68,14,8,,,
+fd01f2a0-fad6-4d7a-bbce-d71483abbde3,channels.company,available,68,13,8,,,
 a90f46d3-31a6-4437-868a-666d45e18c6e,channukah.company,available,68,1,9,,,
 4f33ea74-20b3-47ac-9b33-4004e8a365d7,channukkah.company,available,68,1,10,,,
 d86cd38f-9c48-437b-801b-3275fe6cd376,chanukah.company,available,68,5,8,,,
-4772115a-b6c9-4cf4-98dc-22ddcdd4963d,chanukkah.company,available,68,1,9,,,
+4772115a-b6c9-4cf4-98dc-22ddcdd4963d,chanukkah.company,available,68,2,9,,,
 e327f271-c1d7-4d70-b19c-ebafa62e118c,characteristic.company,available,84,2,14,,,
 1efc08d3-3547-4e68-be39-3e3f059d9f3b,characteristics.company,available,56,2,15,,,
 8c249bf5-ef9e-4e02-98b1-f05962818777,charactertrait.company,available,70,1,15,,,
 7efd3737-d8dd-492c-9f69-29183c3ec016,charleston.company,available,74,19,10,,,
 01316529-cf3b-4388-ab4c-965552191054,charmed.company,available,58,10,7,,,
-5dc21bb8-527d-4aa8-9936-07e5cb355fc2,chart.company,resell,88,23,5,"Sav.com, LLC - 6",11/06/2025 15:15,11/06/2026 15:15
+5dc21bb8-527d-4aa8-9936-07e5cb355fc2,chart.company,resell,88,22,5,"Sav.com, LLC - 6",11/06/2025 15:15,11/06/2026 15:15
 e96980d0-d58a-4d69-8790-877c5fddf5dc,chase.company,available,66,22,5,,,
 54758217-403b-4495-ac67-26b7c22f2cbe,chased.company,available,70,4,6,,,
 1a2d30db-1027-4231-8cae-9b3756e35db4,chatbot.company,resell,82,39,7,"TurnCommerce, Inc. DBA NameBright.com",09/06/2023 15:15,09/06/2026 15:15
@@ -2000,7 +2002,7 @@ d9b63db6-09cd-4b03-8c8f-48c92716e67d,cheap.company,available,110,19,5,,,
 dca43702-1553-45b6-8b40-4c770720e837,checkover.company,available,70,1,10,,,
 64fdd48c-b948-4be5-b754-7ff9669c4d96,cheerfully.company,available,72,2,10,,,
 75ce9518-4457-4d0b-8aba-4fb9b2205abc,cheerily.company,available,68,1,8,,,
-1cd5a6ec-8dac-4d7e-af71-2d5e6d1d1b06,cheese.company,resell,116,24,6,"Xiamen ChinaSource Internet Service Co., Ltd",20/02/2025 15:15,20/02/2026 15:15
+1cd5a6ec-8dac-4d7e-af71-2d5e6d1d1b06,cheese.company,resell,116,23,6,"Xiamen ChinaSource Internet Service Co., Ltd",20/02/2025 15:15,20/02/2026 15:15
 09e4456d-87cf-4e59-89ca-551cdc3b7907,cheesefood.company,available,64,1,11,,,
 e1250e1e-d68e-4a4a-917f-84ddd9734b39,cheeses.company,available,94,5,7,,,
 c2bc3b8b-db79-45af-b291-6ec386c011bb,cheesy.company,available,60,8,6,,,
@@ -2010,7 +2012,7 @@ b0d6ab9c-0984-4dd9-afac-8bba99744646,chemicalweapon.company,available,52,1,15,,,
 45f82375-12f4-45a9-bb1f-4436c5e3a14f,cherry.company,resell,86,26,6,"GoDaddy.com, LLC",25/04/2014 18:09,25/04/2026 18:09
 6a0cb60d-46ee-4de2-9e59-f3d09963b5b0,chestnut.company,resell,60,9,8,Super Registry Ltd,05/04/2014 19:15,05/04/2026 19:15
 0fb540aa-9077-4750-bf00-897be499c7d1,chesty.company,available,52,3,6,,,
-d6cf8eae-c2c0-481a-a56b-b41aa09817bb,chew.company,resell,64,17,4,Dynadot Inc,05/10/2025 16:46,05/10/2026 16:46
+d6cf8eae-c2c0-481a-a56b-b41aa09817bb,chew.company,resell,64,16,4,Dynadot Inc,05/10/2025 16:46,05/10/2026 16:46
 b136840a-1bb2-464b-9e33-5f5c0568304a,chiaseed.company,available,74,3,9,,,
 9634978a-13cb-411c-b693-a4fb2bbade02,chicken.company,resell,68,30,7,"Name.com, Inc.",05/06/2017 07:51,05/06/2027 07:51
 4ba06121-58e3-402a-91f1-e79f95fd6a6e,chickendance.company,available,70,2,13,,,
@@ -2018,32 +2020,32 @@ d99e363c-ef87-4e8d-8169-07b2a4f51061,chiefexecutive.company,available,78,5,15,,,
 1c9c260b-c9c6-4199-8474-d7d1822b21a3,chiefjustice.company,available,68,1,13,,,
 93689f22-9c94-430a-86d5-fb213dc131de,chiefly.company,available,80,3,7,,,
 8c3d6542-2513-4e0a-99e9-a5931a65b3f8,child.company,resell,92,14,5,"Spaceship, Inc.",08/07/2023 15:15,08/07/2026 15:15
-710669e5-2d99-4c98-9062-a5bf0cd8f6e2,childhood.company,available,78,8,9,,,
+710669e5-2d99-4c98-9062-a5bf0cd8f6e2,childhood.company,available,78,9,9,,,
 1a514f1e-7d88-4d62-8b38-bba2d813e755,childlanguage.company,available,64,1,14,,,
 03600d4d-0966-4bf5-a348-c4f673689456,chiliad.company,available,62,2,7,,,
 0cb75764-097c-46f7-964b-072787d61686,chime.company,available,94,15,5,,,
 a4c30345-a692-43fe-88a1-6303c1103da3,china.company,available,84,5,5,,,
 6ae89088-c6a6-49f2-92da-64d8a00fea14,chip.company,resell,76,24,4,"Xiamen ChinaSource Internet Service Co., Ltd",26/11/2024 17:00,26/11/2025 17:00
-4d818481-5bfe-4b34-a1c4-b16145d84035,chips.company,available,84,22,5,,,
+4d818481-5bfe-4b34-a1c4-b16145d84035,chips.company,available,84,21,5,,,
 09d328bb-4c46-479a-ba6f-7cd1ae391865,chirping.company,available,72,4,8,,,
 b676946e-caa8-426d-abc9-f7a9bcf91569,chiseling.company,available,60,1,9,,,
-6a42cafe-1369-485d-95d3-96845f166057,choc.company,available,74,11,4,,,
+6a42cafe-1369-485d-95d3-96845f166057,choc.company,available,74,10,4,,,
 cf274162-60d3-455b-9663-43bf721ed82e,chocolate.company,resell,118,29,9,"Spaceship, Inc.",30/06/2015 22:03,30/06/2026 22:03
 d50afb20-1676-4a92-b3a5-a66ae1381d13,chocolatetruffle.company,available,80,1,17,,,
 b45221cb-51a9-4fd8-9aa1-e500e1d78b91,choir.company,available,70,11,5,,,
 7c8094ac-c8b3-4de7-bf8b-d4b93af13d7b,chop.company,available,62,17,4,,,
 2b548c2f-45cd-4926-84e5-b6366091c360,choppy.company,available,62,5,6,,,
 8e79a204-c414-48d1-bb01-f6e27095b5e6,chore.company,available,88,10,5,,,
-673d3ef4-2a86-4d24-9467-00cd73dd0d63,chorus.company,available,70,19,6,,,
+673d3ef4-2a86-4d24-9467-00cd73dd0d63,chorus.company,available,70,18,6,,,
 f1688146-5ee3-4b8c-b006-01251b97cc7f,chose.company,available,78,5,5,,,
-d1268303-527f-49c8-b116-c17675295f11,christ.company,resell,86,24,6,"Sav.com, LLC",01/07/2025 13:44,01/07/2026 13:44
+d1268303-527f-49c8-b116-c17675295f11,christ.company,resell,86,23,6,"Sav.com, LLC",01/07/2025 13:44,01/07/2026 13:44
 293fd07d-925d-43ff-b539-363adfff0dac,Christalive.company,available,72,3,12,,,
 4017edbc-d308-4320-b2da-b2570be65704,Christalmighty.company,available,72,1,15,,,
 060af2e9-a1a4-4b2f-bebf-708b7f1ea95e,Christianname.company,available,70,1,14,,,
 832f978c-ad24-4926-85f5-39116414cc1c,Christmascard.company,available,76,3,14,,,
 180a1723-f9b1-4051-b437-6e1d9d74fd67,Christmascarol.company,available,76,3,15,,,
-b5023a5a-a4d4-4dae-b4b0-639fd36923a9,church.company,resell,72,36,6,"Sav.com, LLC",29/06/2025 21:00,29/06/2026 21:00
-429640c7-b8e6-4ef3-900f-98fd2b1266fe,cinderella.company,available,78,12,10,,,
+b5023a5a-a4d4-4dae-b4b0-639fd36923a9,church.company,resell,72,35,6,"Sav.com, LLC",29/06/2025 21:00,29/06/2026 21:00
+429640c7-b8e6-4ef3-900f-98fd2b1266fe,cinderella.company,available,78,11,10,,,
 b27ad7d9-7a39-4be3-a5bf-6c6f45a885fd,Cindy.company,available,80,13,5,,,
 77a2dc32-4e21-4921-bd58-5ce546353874,cipher.company,resell,86,29,6,Porkbun LLC,24/02/2023 16:32,24/02/2026 16:32
 f4c94492-2f9a-4ab0-809e-0bcc424fa63a,circinate.company,available,56,1,9,,,
@@ -2053,22 +2055,23 @@ de2d7856-9ee9-490a-ac17-86aec4c1fe6b,circle.company,resell,68,35,6,"Chengdu West
 eddd5b0a-87f1-43cf-a124-265cd5e3e1fa,civilwar.company,available,60,6,9,,,
 1ee2fe08-84a9-4898-b6a3-c1b4cd4b4882,claimform.company,available,66,3,10,,,
 3b250efd-0a0f-474a-bf76-b39a4deba279,claire.company,available,68,26,6,,,
-c77292b7-9d49-4adf-a229-d0d2abfe1ad3,clam.company,available,70,11,4,,,
+c77292b7-9d49-4adf-a229-d0d2abfe1ad3,clam.company,available,70,10,4,,,
 b10588b2-d649-45d5-acbd-c07f9eb8ed4f,classicalguitar.company,available,80,6,16,,,
+fa2776e0-c690-4946-aacd-2667cbf84354,classroom.company,available,70,19,9,,,
 3d66e330-17ba-4bd5-8536-28bf82618f2b,clayey.company,available,50,1,6,,,
-162d43a2-f755-4d56-9eae-bdf6ca03958b,cleaner.company,resell,70,16,7,"Xiamen ChinaSource Internet Service Co., Ltd",05/07/2025 15:15,05/07/2026 15:15
+162d43a2-f755-4d56-9eae-bdf6ca03958b,cleaner.company,resell,70,15,7,"Xiamen ChinaSource Internet Service Co., Ltd",05/07/2025 15:15,05/07/2026 15:15
 a375c11e-21e5-4609-8375-3d6b7fc8a9ba,cleansing.company,available,82,4,9,,,
 a78036a7-cca8-4d31-8f1b-22090d5befcf,clearance.company,available,66,11,9,,,
 1a8762fc-a020-4c08-b7a4-4162e9ef067f,cleared.company,available,74,7,7,,,
 f7fb312e-bc6b-45e2-ab32-6d17a6679915,cleaver.company,available,56,9,7,,,
-38d0af34-c603-421a-8017-34f31a1db8fc,cleopatra.company,available,76,13,9,,,
+38d0af34-c603-421a-8017-34f31a1db8fc,cleopatra.company,available,76,12,9,,,
 6c2ed66a-6454-4ab6-83ff-a0a17ea5da58,clergy.company,available,66,6,6,,,
 842bb309-6548-4dfc-bc29-27b2099895a7,cleveland.company,available,56,19,9,,,
 d955146d-d255-463a-ae78-24bff20b1cb2,clever.company,resell,74,30,6,"Chengdu West Dimension Digital Technology Co., Ltd.",02/05/2019 14:08,02/05/2026 14:08
 888b03ce-0a07-44c0-a4c5-40622ad937f4,cleverly.company,available,69,7,8,,,
 072da56d-d8e1-428d-b2cc-47f63512ffe0,clickbait.company,available,80,12,9,,,
 051bfca2-33d9-41f3-b1fb-b7d3f994654e,clicking.company,available,66,7,8,,,
-f0345d16-25cf-4648-95f1-c1e6af7bb791,climate.company,resell,94,36,7,"Xiamen ChinaSource Internet Service Co., Ltd",21/08/2025 15:15,21/08/2026 15:15
+f0345d16-25cf-4648-95f1-c1e6af7bb791,climate.company,resell,94,35,7,"Xiamen ChinaSource Internet Service Co., Ltd",21/08/2025 15:15,21/08/2026 15:15
 f97b4099-d07e-4bdf-bb79-052146463011,climbable.company,available,54,1,9,,,
 99aaa831-95e9-4f5d-9885-90d80aa5648c,clinic.company,resell,70,19,6,Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn),06/09/2021 17:00,06/09/2026 17:00
 9bad440c-04ad-4199-b724-4e6265705933,clitlicker.company,available,62,1,10,,,
@@ -2089,16 +2092,15 @@ fa6f8bce-c9b4-4818-9116-b127fa3229ea,clv.company,available,66,10,3,,,
 898089b9-6d45-4229-af70-69b9984014da,clxxx.company,available,60,1,5,,,
 79731720-2a84-438b-a431-248d50963d28,CNN.company,available,88,22,3,,,
 26186efb-28f3-47b7-9fa0-627609dbae89,coalesced.company,available,54,2,9,,,
-f81ad495-4429-4140-be86-499b04b79283,coast.company,resell,94,22,5,Unstoppable Domains Inc,07/02/2022 13:15,07/02/2026 13:15
+f81ad495-4429-4140-be86-499b04b79283,coast.company,resell,94,21,5,Unstoppable Domains Inc,07/02/2022 13:15,07/02/2026 13:15
 9d520270-ca53-4af5-9a8c-69cfecaa2e8c,coat.company,available,100,7,4,,,
 951a9560-8d61-4daa-bdff-26c25f4748f2,cockeyed.company,available,44,1,8,,,
 23427287-3da2-41ca-b566-50d5edcb804c,cockmaster.company,available,52,1,10,,,
 cb80414d-ffe8-48bc-b1a3-440328bd15b5,cockpit.company,available,74,19,7,,,
 02601d14-338b-4e99-bd75-eb59cb1cb4dd,cocksucker.company,available,44,4,10,,,
-58a956c2-4a19-471e-b47e-c6428906623d,cocoa.company,available,78,18,5,,,
-604b0d31-4b80-4c73-a63b-b889fd41b086,coconut.company,resell,78,25,7,Dynadot Inc,04/06/2020 09:05,04/06/2026 09:05
+604b0d31-4b80-4c73-a63b-b889fd41b086,coconut.company,resell,78,23,7,Dynadot Inc,04/06/2020 09:05,04/06/2026 09:05
 b0ed21fe-daec-4650-9d69-5e5a6b6b4f2c,cod.company,available,70,16,3,,,
-250bb663-6ee1-4783-9cff-c8f3a495633c,coffee.company,resell,76,39,6,"Name.com, Inc.",28/08/2017 18:01,28/08/2030 18:01
+250bb663-6ee1-4783-9cff-c8f3a495633c,coffee.company,resell,76,38,6,"Name.com, Inc.",28/08/2017 18:01,28/08/2030 18:01
 4609353d-8a47-41c6-811c-a53f01f664e0,coffeegrinder.company,available,79,2,14,,,
 1203a36d-ab56-4942-83cb-8302cd8b3363,coffeeman.company,available,76,4,9,,,
 47e48ec1-965d-4ebc-a820-b5df4306f684,coffeetablebook.company,available,76,1,17,,,
@@ -2112,11 +2114,10 @@ a9b77fa1-d967-4318-bb65-ff02c25862f6,collarbone.company,available,62,2,11,,,
 f9387cd8-489c-421b-87e5-d988d05719e3,collectivenoun.company,available,72,1,15,,,
 042a5fbb-751b-48db-b104-3bbc94860d5a,colligate.company,available,50,1,9,,,
 899a2594-4ffa-4d86-a7a0-4348f2f13bc9,collision.company,available,60,13,9,,,
-623741dd-82d6-47df-9327-0888cfe35f59,colombo.company,available,74,13,7,,,
+623741dd-82d6-47df-9327-0888cfe35f59,colombo.company,available,74,12,7,,,
 90561269-1496-45cf-8305-65590fc8ff25,ColonelSanders.company,available,72,1,15,,,
 3d9f7521-3739-411d-a740-1177af89b6e1,color.company,resell,116,28,5,"Spaceship, Inc.",04/06/2019 08:36,04/06/2026 08:36
 57e25716-614f-4dfe-a21a-89311eb0ad57,colored.company,available,72,5,7,,,
-6fb4c996-7203-4259-a114-89a8aaa04004,colors.company,resell,82,22,6,"Sav.com, LLC - 30",10/01/2025 15:15,10/01/2026 15:15
 f3c03ee5-b43d-43bd-ab10-02683507f3f5,colour.company,available,116,15,6,,,
 dc9b082e-166f-4a19-9f6c-af364fe9cd8a,coloured.company,available,68,3,8,,,
 31201d24-473f-4dde-bced-19df746e7341,colours.company,available,72,10,7,,,
@@ -2201,10 +2202,10 @@ d7e9f266-92e1-46f4-b300-c081a32faf0f,concerned.company,available,66,4,9,,,
 0ef0cd49-a8eb-41ae-ad08-bf41cf08f873,conclusive.company,available,69,5,10,,,
 d502b80c-00c8-4ecd-b9b9-2c01a71d5dbb,concoct.company,available,109,4,7,,,
 00eb2be0-eb18-4c00-998f-94c6aad1d82e,concrete.company,available,102,24,8,,,
-858f83ff-6cac-4de8-aa0a-d2ab74993dd7,concussion.company,available,60,10,10,,,
+858f83ff-6cac-4de8-aa0a-d2ab74993dd7,concussion.company,available,60,9,10,,,
 0dfc631b-3f43-4369-a9e0-3bef023d33b8,condemn.company,available,66,3,7,,,
 36d053cb-5244-428a-a372-ef1b35fa6bf3,condense.company,available,84,6,8,,,
-00d31594-90ce-4085-8d95-084c5c480819,condiment.company,available,95,4,9,,,
+00d31594-90ce-4085-8d95-084c5c480819,condiment.company,available,95,3,9,,,
 4780234d-56d8-43a7-b482-637ab5b4233e,conditions.company,available,68,4,10,,,
 b2d22b79-4bf1-463d-af71-a48b5e609434,condolence.company,available,64,2,10,,,
 38e78cbc-5a31-4b78-989e-e275025a89a6,condolences.company,available,76,3,11,,,
@@ -2212,7 +2213,7 @@ b2d22b79-4bf1-463d-af71-a48b5e609434,condolence.company,available,64,2,10,,,
 598d1bae-7837-4700-81e9-f763cc980425,condone.company,available,74,3,7,,,
 11949a6c-cbf0-4043-87e2-9d39fcbf9526,conducting.company,available,68,4,10,,,
 2b4aee01-b098-467a-9d43-3acae761cae5,conduction.company,available,84,4,10,,,
-25b1bf22-bfb2-4b86-a85e-b252d4368336,conductor.company,resell,74,17,9,Dynadot Inc,05/10/2025 16:46,05/10/2026 16:46
+25b1bf22-bfb2-4b86-a85e-b252d4368336,conductor.company,resell,74,15,9,Dynadot Inc,05/10/2025 16:46,05/10/2026 16:46
 337dc2f7-3211-4cd4-abae-7e9092fba9a3,cone.company,resell,68,14,4,Super Registry Ltd,29/03/2014 06:23,29/03/2026 06:23
 53d1d12f-42a1-4e28-8c3d-f9ce5addb1d5,confess.company,available,76,9,7,,,
 5d000ec5-7d28-4342-b3bc-e4a7f5bdfede,confession.company,available,68,9,10,,,
@@ -2242,17 +2243,17 @@ c71ab3a1-83c7-4292-8544-123fd1120f0b,conspiracy.company,available,82,18,10,,,
 bde8ea69-874e-4b1f-86dd-e92bd980158b,constantly.company,available,64,3,10,,,
 0ad33e3c-d492-43a3-b8af-37fac336a676,consult.company,resell,101,26,7,"Xiamen ChinaSource Internet Service Co., Ltd",16/09/2025 15:15,16/09/2026 15:15
 d281e28b-15c1-4d16-927d-0cbc0ed901e9,consultive.company,available,62,3,10,,,
-4a8b6c54-59d1-4706-bdf4-9d24c4b989ba,consumer.company,resell,72,18,8,"NameSilo, LLC",06/12/2015 12:56,06/12/2026 12:56
+4a8b6c54-59d1-4706-bdf4-9d24c4b989ba,consumer.company,resell,72,17,8,"NameSilo, LLC",06/12/2015 12:56,06/12/2026 12:56
 67a1dbd5-e505-4943-b067-474c1c88530e,consuming.company,available,82,2,9,,,
 75c4cd28-6543-4299-8381-f207307c33af,consummate.company,available,88,2,10,,,
 444cd984-7f0a-4c43-982a-f6e3d5079ebb,consumption.company,available,68,5,11,,,
 00c0c6b8-0fbd-460c-bcd6-380c273e1e00,contained.company,available,64,5,9,,,
-4a2aa77f-0111-4c6f-9a05-8d1db6737bbb,container.company,resell,70,66,9,"Sav.com, LLC - 13",18/02/2025 15:15,18/02/2026 15:15
+4a2aa77f-0111-4c6f-9a05-8d1db6737bbb,container.company,resell,70,65,9,"Sav.com, LLC - 13",18/02/2025 15:15,18/02/2026 15:15
 d2d81961-353d-4136-984f-fff53d8d9225,contaminated.company,available,54,2,12,,,
 5557bbf8-f8db-4472-a0b3-a0fc9f769711,contempt.company,available,54,2,8,,,
 3d2a7311-6a1e-4626-840e-a4d21aae4fb3,contend.company,available,72,5,7,,,
 07461412-9429-40d3-9ebb-c2817fbd958e,contented.company,available,70,6,9,,,
-beef9b40-bbb4-4f89-b431-595a525c337e,contents.company,available,68,12,8,,,
+beef9b40-bbb4-4f89-b431-595a525c337e,contents.company,available,68,11,8,,,
 4a55eb46-0820-4128-bd34-bc2a5baf1147,contest.company,available,96,16,7,,,
 b6380aad-2b6b-4acd-9e70-b1ab4b68e366,contested.company,available,60,3,9,,,
 cb736322-6d2b-4a9d-981f-49235e92aeec,contingent.company,available,80,6,10,,,
@@ -2283,7 +2284,7 @@ f8d1b401-49a6-4a39-9181-fda3200e35c0,cookie.company,resell,70,31,6,Dynadot Inc,1
 8d8475e3-f322-4ce0-8c38-8b4fb44f0e3a,copewith.company,available,75,1,9,,,
 0a8ca8b9-327b-40c3-a52f-78bee98f54c1,copypronoun.company,available,72,1,12,,,
 d771bcf7-c4cf-4e37-adfc-b8869de073fe,copyrightsymbol.company,available,66,2,16,,,
-dcbcab12-eff4-4d6b-a5b2-4784d0421d21,cord.company,available,90,16,4,,,
+dcbcab12-eff4-4d6b-a5b2-4784d0421d21,cord.company,available,90,17,4,,,
 cbfad809-bc07-4a5b-b520-a1df0ab47cbc,cordlesstelephone.company,available,76,1,18,,,
 36cc3d18-1b95-4526-8821-bf360a752c24,corking.company,available,76,4,7,,,
 58c04c64-803e-4c94-b805-6deea4caeff5,corn.company,resell,62,20,4,Super Registry Ltd,05/04/2014 19:15,05/04/2026 19:15
@@ -2315,7 +2316,7 @@ fc41b0d1-19ce-4eae-9c39-0ca8c7ab5da7,countless.company,available,70,4,9,,,
 4b035c0a-1b24-4749-b5ba-f4f7b3e5d2af,country.company,resell,92,15,7,"Spaceship, Inc.",13/08/2021 08:25,13/08/2026 08:25
 a0dff9e1-babd-48de-b3ce-434f1f8bd2e9,countryoforigin.company,available,66,2,17,,,
 b5ba26c6-64b6-42ba-b22f-c8690eec9b03,countycourt.company,available,68,2,12,,,
-79c8b9fb-72c3-4aae-b170-e10d46fc65fc,courage.company,available,100,22,7,,,
+79c8b9fb-72c3-4aae-b170-e10d46fc65fc,courage.company,available,100,21,7,,,
 ca70fbc9-7458-452c-80f3-17bfb59d1125,court.company,available,64,19,5,,,
 6e776a91-a246-4da3-a0c1-7391cd296e84,courteous.company,available,70,2,9,,,
 f71cc094-526d-428e-86e9-faa0785f12d2,courtroom.company,available,66,6,9,,,
@@ -2333,7 +2334,7 @@ d3c300fa-baaa-4d50-a070-af7d6ed8606c,crab.company,resell,92,23,4,"Xiamen ChinaSo
 a414ac81-8e83-4a04-8783-03c7aab23e5d,crabbed.company,available,45,1,7,,,
 8115881b-a2ce-4300-977e-67ed93341dc0,crabby.company,available,45,6,6,,,
 e835cb0b-5850-49b6-9bd8-9449965b3d8b,craft.company,resell,70,36,5,"Spaceship, Inc.",17/09/2023 15:15,17/09/2026 15:15
-d9a3570e-0d03-4258-905a-630c1affbcd0,crash.company,resell,98,28,5,"Sav.com, LLC - 6",11/06/2025 15:15,11/06/2026 15:15
+d9a3570e-0d03-4258-905a-630c1affbcd0,crash.company,resell,98,27,5,"Sav.com, LLC - 6",11/06/2025 15:15,11/06/2026 15:15
 91fd94df-42dc-4c4d-9089-1b4376d73122,Crayola.company,available,80,10,7,,,
 7c671053-39cc-4ebf-ba1b-0ab1c88b5160,creaky.company,available,54,3,6,,,
 f235db75-1d33-4899-83ae-2f6230bfc874,create.company,resell,107,48,6,Dynadot Inc,01/06/2021 06:00,01/06/2026 06:00
@@ -2342,11 +2343,11 @@ f235db75-1d33-4899-83ae-2f6230bfc874,create.company,resell,107,48,6,Dynadot Inc,
 1e53809e-e224-4939-9b5c-64b2ca84a1f9,creatively.company,available,66,5,10,,,
 18c012f9-7f61-4fcf-9f7b-75b55e3a99e6,creature.company,resell,68,17,8,"Xiamen ChinaSource Internet Service Co., Ltd",25/11/2021 13:15,25/11/2026 13:15
 e57822f1-54be-4798-9f3a-0c6a4ba7e9f8,credible.company,available,54,13,8,,,
-e4cd598e-da13-497d-a30e-144494f22c18,creek.company,resell,100,16,5,"Spaceship, Inc.",01/09/2019 23:53,01/09/2026 23:53
+e4cd598e-da13-497d-a30e-144494f22c18,creek.company,resell,100,15,5,"Spaceship, Inc.",01/09/2019 23:53,01/09/2026 23:53
 f7e1e420-06b6-4b32-83ae-d146d7d16e38,creepy.company,available,60,11,6,,,
 395ad97e-f936-42c1-b8e6-bbed3bcaa0de,cricketscore.company,available,72,3,13,,,
 06743849-6f2f-4f67-b547-7049b8072b8e,crimes.company,available,64,10,6,,,
-9cf8a7cd-f9a4-4e1f-9f77-1665f95a3dbf,critic.company,available,90,9,6,,,
+9cf8a7cd-f9a4-4e1f-9f77-1665f95a3dbf,critic.company,available,90,8,6,,,
 cc48e195-ab14-408c-9f96-12eb60ae9602,critical.company,available,82,20,8,,,
 a58d68a7-0f81-486f-b39a-dcee5716a493,critically.company,available,60,2,10,,,
 4faa8bb0-3b08-490b-a8fc-824c98d2f434,criticise.company,available,66,2,9,,,
@@ -2368,13 +2369,13 @@ a8bb049d-5952-4fc5-b92a-6590bdd90634,cryout.company,available,72,2,7,,,
 c3641a16-9e96-43b0-8417-74489a58045e,crystal.company,resell,70,32,7,"Xiamen ChinaSource Internet Service Co., Ltd",06/06/2025 15:15,06/06/2026 15:15
 3e3e6c63-1560-4f0d-a3cd-72c4f6a125d8,cuba.company,available,66,5,4,,,
 c653be5a-a0d4-4d94-94fa-ed20e63c698f,cube.company,resell,92,42,4,"Sav.com, LLC - 22",04/09/2025 15:15,04/09/2026 15:15
-05f3d30e-88ed-48d2-948d-20b5c794d14d,cucumber.company,available,70,12,8,,,
+05f3d30e-88ed-48d2-948d-20b5c794d14d,cucumber.company,available,70,11,8,,,
 8eb05196-9675-4e02-a495-4a269f4b24ae,cultivable.company,available,58,1,10,,,
 374d91ed-ba90-469e-a33f-21511597326a,cumulative.company,available,62,3,10,,,
 4bbd3667-4dd1-498b-b3f6-8403abbcb91b,cunning.company,available,60,6,7,,,
 1105e602-d9a6-41b7-9335-130827f4a426,curiously.company,available,62,4,9,,,
 623158bf-34a8-4448-8fe3-7ea1276da1b1,curl.company,resell,64,20,4,"Sav.com, LLC - 5",06/06/2025 15:15,06/06/2026 15:15
-6abab8df-8d66-4678-9740-aa870eeb51a8,currency.company,resell,74,26,8,"Name.com, Inc.",26/05/2019 09:03,26/05/2027 09:03
+6abab8df-8d66-4678-9740-aa870eeb51a8,currency.company,resell,74,25,8,"Name.com, Inc.",26/05/2019 09:03,26/05/2027 09:03
 8eb978bf-6767-4233-b108-5002d996307c,currently.company,available,66,9,9,,,
 c40808ca-913b-497d-8c82-af80bc6ff594,curse.company,available,78,10,5,,,
 64b290cf-b6ce-4b5e-b8b6-1c0109483d27,customer.company,resell,74,24,8,"Spaceship, Inc.",27/09/2021 17:00,27/09/2027 17:00
@@ -2403,7 +2404,7 @@ badbe4e9-a76d-492f-b7d6-67519e8d8b52,damascus.company,available,66,10,8,,,
 600f9e89-b36d-499e-a2d2-a51cd6ac8f3e,damn.company,resell,140,18,4,"Chengdu West Dimension Digital Technology Co., Ltd.",11/09/2023 15:15,11/09/2034 15:15
 04195d3f-e958-4fd2-ab34-081f57523739,damned.company,available,68,5,6,,,
 c04873d4-dfe5-43a6-b2e5-f64f22583f77,dancehall.company,available,70,7,10,,,
-48e75caf-6928-4288-a1ee-faf10a4258e3,daniel.company,resell,76,48,6,"Sav.com, LLC - 22",03/06/2024 15:15,03/06/2026 15:15
+48e75caf-6928-4288-a1ee-faf10a4258e3,daniel.company,resell,76,47,6,"Sav.com, LLC - 22",03/06/2024 15:15,03/06/2026 15:15
 bd115187-e666-41be-8de6-b9f7776d90e9,dankmeme.company,available,70,2,9,,,
 9bbd09d6-665a-4a3e-bc3e-053c77134846,darken.company,available,72,7,6,,,
 82e3d6c6-6fb2-4f18-87f6-ccae77d1c1c2,database.company,resell,99,30,8,"GoDaddy.com, LLC",11/09/2017 22:18,11/09/2026 22:18
@@ -2448,7 +2449,7 @@ a7091fb9-84f7-4b8d-981d-2126ed384ed4,delicate.company,available,84,8,8,,,
 ddc50d2a-0867-4d92-88aa-7428bd5ee803,delicious.company,available,74,16,9,,,
 c44ae63c-d620-4e02-aca6-49aecbb76ba7,delighted.company,resell,56,13,9,Domain Science Kutatási Szolgáltató Korlátolt Felelősségű Társaság,06/08/2025 15:16,06/08/2026 15:16
 9e50e6b9-889e-4850-a7ec-aebb3d59f14c,delivery.company,resell,72,27,8,"Spaceship, Inc.",08/09/2023 15:15,08/09/2026 15:15
-b6450c0e-3616-40d9-ac7a-c183878826a1,delta.company,resell,74,42,5,Porkbun LLC,21/10/2023 07:14,21/10/2026 07:14
+b6450c0e-3616-40d9-ac7a-c183878826a1,delta.company,resell,74,40,5,Porkbun LLC,21/10/2023 07:14,21/10/2026 07:14
 dffc6a50-976b-4713-8abc-cc5c76890da9,democrat.company,available,90,11,8,,,
 caa48d50-b971-4246-af6c-6e22267f7222,democratic.company,available,66,7,10,,,
 9887ca0a-887d-4fdf-b025-c06261160fcc,demoniac.company,available,58,1,8,,,
@@ -2465,8 +2466,8 @@ b8a5d4a5-9aeb-4c63-aad7-0d7b950534cc,depend.company,available,78,5,6,,,
 f05d477c-cd22-49b5-9df3-975c1a9854f0,dependon.company,available,71,2,9,,,
 9a4eeb8b-07e1-4adc-9e42-5121c06a901a,deposit.company,premium,90,12,7,,,
 1f49aed8-bed2-4c5b-be54-e89a93865125,deposits.company,available,46,5,8,,,
-676893d3-6b19-4dca-b6eb-e7cafb3311e1,depress.company,available,66,4,7,,,
-d12671ce-aab0-4ac0-8498-61b4054cce0d,deputy.company,available,92,8,6,,,
+676893d3-6b19-4dca-b6eb-e7cafb3311e1,depress.company,available,66,3,7,,,
+d12671ce-aab0-4ac0-8498-61b4054cce0d,deputy.company,available,92,9,6,,,
 daa84fb6-9e65-427a-abe1-62fe4fb71648,derelict.company,available,92,6,8,,,
 fd0e1b16-a9e8-43ad-aadd-b5545a24f2e1,derive.company,available,72,12,6,,,
 e8d535f0-1dd0-4f69-918e-4db598e9b031,derriere.company,available,40,3,8,,,
@@ -2480,11 +2481,11 @@ b3ff4016-cc03-4416-a6d7-e843a1a90069,deserter.company,available,49,1,8,,,
 5f5eedf6-c038-4850-b893-27270b6c831c,design.company,resell,108,40,6,"Name.com, Inc.",28/08/2017 18:05,28/08/2030 18:05
 ca64dfb5-f6ad-4bc5-ae2c-85ba7a7cf157,deskchair.company,available,74,2,10,,,
 e8ad4eda-4023-4c48-b548-ceb4ea950a4b,deskorganizer.company,available,66,1,14,,,
-ddaaf98d-7674-47f9-90ee-3c5a6ee6a298,desktop.company,available,90,19,7,,,
+ddaaf98d-7674-47f9-90ee-3c5a6ee6a298,desktop.company,available,90,18,7,,,
 ad271ecb-87ea-4e2c-9a5f-ecf05e3de038,desktopcomputer.company,available,76,2,16,,,
 00203a94-e7a3-44e6-8ac5-e3b71401ca8b,desolate.company,available,60,5,8,,,
 342c9c9f-9039-4df4-ba4c-22434f98929b,despise.company,available,66,3,7,,,
-91ae4137-4eb8-45fb-904c-7712ce311b3a,despite.company,available,90,4,7,,,
+91ae4137-4eb8-45fb-904c-7712ce311b3a,despite.company,available,90,5,7,,,
 3f52c89d-1770-422a-862d-dce0df8cd23f,despiteof.company,available,46,1,10,,,
 00429b21-5b6e-4b54-9f9e-fba4c9f91af7,despondent.company,available,47,1,10,,,
 36d79a8e-b1cd-40a5-967a-2527119568a5,despotic.company,available,48,1,8,,,
@@ -2495,7 +2496,7 @@ ae7b5acb-0499-4acd-9b2a-6667d8ad2b3a,destroyed.company,available,52,4,9,,,
 3990efbc-c83c-4920-90b8-6db3ac4e1270,detached.company,available,56,5,8,,,
 b6fecfdc-9f66-4da2-8102-dff5e8825c41,detailed.company,available,68,5,8,,,
 32a75204-74ed-46b3-b49f-bd57d9d7b9d7,detected.company,available,62,5,8,,,
-c97a9294-01e6-47ff-b225-700c4795dda8,detecting.company,available,68,4,9,,,
+c97a9294-01e6-47ff-b225-700c4795dda8,detecting.company,available,68,3,9,,,
 c3fd43ad-b224-4373-b113-2c7faae2e6a3,detergent.company,available,80,4,9,,,
 f6419dec-9ed2-404d-95ad-9280ef76fd42,deterioration.company,available,52,1,13,,,
 0e29bfe9-11a5-4d1c-92ff-bb6c992e65a2,determine.company,available,72,6,9,,,
@@ -2533,7 +2534,7 @@ bef2729a-ed40-4429-a19a-7a635d6442d4,digitally.company,available,60,10,9,,,
 b8b2cc36-972a-494b-a464-8cc5a0b2cb6c,digitalwatch.company,available,74,2,13,,,
 f02aaf3a-a3ba-4630-88e7-ac3360cc7289,dignified.company,available,66,5,9,,,
 1741b9f2-4a99-4f34-9a92-ac1f8d281dab,dignitary.company,available,90,2,9,,,
-4d478246-ce49-46c4-87de-178098a17dea,dilemma.company,available,69,9,7,,,
+4d478246-ce49-46c4-87de-178098a17dea,dilemma.company,available,69,10,7,,,
 b675a88f-75fe-44c7-9289-6ea784debb22,dilute.company,available,92,3,6,,,
 cd17f839-80d1-481e-95e3-79e7fd881e18,diminished.company,available,44,1,10,,,
 25bfb337-5a69-4aa0-83ca-9d85f004430f,diminishing.company,available,77,2,11,,,
@@ -2544,7 +2545,7 @@ bec96342-77df-4e4b-9c31-2dde0bd2af48,dingy.company,available,82,3,5,,,
 a52319aa-3510-4c87-89bf-7678699415f4,dinner.company,available,105,15,6,,,
 c6e0e025-c718-478a-98c7-3eea9aa2f8e2,dinosaur.company,available,75,20,8,,,
 2dab2349-7f26-4309-8481-5bb5d84a9a9e,dip.company,available,70,19,3,,,
-4d0bbeaf-0113-461f-9aa5-8b73798de1ae,diploma.company,available,77,8,7,,,
+4d0bbeaf-0113-461f-9aa5-8b73798de1ae,diploma.company,available,77,7,7,,,
 417bd8bc-0de4-497c-92ee-f6f9ae9c1127,diplomacy.company,available,73,13,9,,,
 22739823-0fc7-42ea-b867-521367883e4a,diplomat.company,available,73,13,8,,,
 f30b8f50-7e66-40be-8352-c3cdb2966213,diplomate.company,available,93,2,9,,,
@@ -2561,7 +2562,7 @@ f2318d6e-85ad-4caf-824e-446545ae6ffe,disadvantage.company,available,80,3,12,,,
 6a712bde-384d-433c-acc5-4d7527916be2,disagree.company,available,68,5,8,,,
 c0f0c32b-16a8-4006-9871-f02b2e936d86,disappointed.company,available,58,4,12,,,
 cf7c195a-4546-4472-93cb-0098dd8bc40e,disassemble.company,available,64,3,11,,,
-c414e680-4ac8-4cfe-a350-489c8c605033,discard.company,available,88,5,7,,,
+c414e680-4ac8-4cfe-a350-489c8c605033,discard.company,available,88,6,7,,,
 da94a0c6-bb6d-414f-9e04-b03c49e9b3c2,discbrake.company,available,66,2,10,,,
 8f333782-1054-4263-b8d2-c13181cfe259,discdrive.company,available,72,1,10,,,
 fa4603fd-1019-43e7-b456-60d52bd59268,discerning.company,available,72,4,10,,,
@@ -2571,7 +2572,7 @@ f174a9aa-27f7-4114-b4d5-68944a6b91fc,disclosed.company,available,58,3,9,,,
 0788cbf7-f87d-4079-b315-67305da2e3e8,disclosure.company,available,67,11,10,,,
 3f2127c1-5b65-45a9-9085-86da746ddd19,discomfort.company,available,82,4,10,,,
 fc73fdf1-d6b8-425d-bb2d-bef6731c0ff4,disconnect.company,available,88,12,10,,,
-915586e4-7654-4f0c-ae1e-5173831e1df9,discord.company,resell,80,45,7,"Xiamen ChinaSource Internet Service Co., Ltd",04/09/2024 17:00,04/09/2026 17:00
+915586e4-7654-4f0c-ae1e-5173831e1df9,discord.company,resell,80,44,7,"Xiamen ChinaSource Internet Service Co., Ltd",04/09/2024 17:00,04/09/2026 17:00
 046d39d4-a6c2-485d-8ba1-8074fac540a8,discount.company,resell,102,22,8,"Spaceship, Inc.",22/09/2021 17:00,22/09/2026 17:00
 b6e90831-71c5-4bb6-ac03-b0421c1ad797,discourse.company,available,88,13,9,,,
 ece68665-9c3e-4d03-9e0c-9eac4cc4629b,discover.company,resell,66,30,8,Porkbun LLC,08/02/2024 15:15,08/02/2026 15:15
@@ -2600,14 +2601,14 @@ ce8e30e6-4d22-4c00-9449-1f0afce8aa17,diskspace.company,available,70,3,10,,,
 513906ff-316b-41a7-9336-d524babd3a20,dismay.company,available,82,2,6,,,
 0184c03b-d61f-497a-9f8c-3c133a87d348,dismayed.company,available,54,1,8,,,
 0628761c-0210-48ac-a353-fbeaa3c82f81,dismaying.company,available,52,1,9,,,
-5da99973-e352-4de8-a06f-e383675812f1,dismiss.company,available,72,4,7,,,
+5da99973-e352-4de8-a06f-e383675812f1,dismiss.company,available,72,5,7,,,
 38f0744a-2826-46fd-943f-e923503c4921,dismissal.company,available,66,3,9,,,
 17955060-c522-4be8-a6c4-f3ef15a81d90,dismissed.company,available,50,3,9,,,
 69305b4c-44dd-4cc7-ab60-b93621043482,disney.company,available,82,24,6,,,
 9ed5989a-fd35-49d1-b1f0-0471d299dbaa,disneyland.company,available,96,10,10,,,
 07b067c9-006f-4ac9-a947-ad04b67de3ab,disorganised.company,available,54,1,12,,,
 9632ce6e-cce7-452a-a0f0-40db72eb6152,disorganized.company,available,54,3,12,,,
-07c85817-ce1d-4572-96b3-337d6f18ebb4,disparity.company,available,62,4,9,,,
+07c85817-ce1d-4572-96b3-337d6f18ebb4,disparity.company,available,62,3,9,,,
 07218805-2ebb-4245-b794-ac62b998341f,dispatching.company,available,66,4,11,,,
 08ba676d-b06d-4513-a2a4-2935b95cd3a2,dispose.company,available,88,5,7,,,
 8d5870ac-ac64-41df-88cf-467edbbee442,disposed.company,available,60,2,8,,,
@@ -2622,8 +2623,8 @@ c9630010-d494-4fab-90d5-986f843de2e8,distinction.company,available,76,11,11,,,
 d38e5935-ddd1-4ade-8869-e4a142e1a5c9,distress.company,available,84,7,8,,,
 faa514c2-430d-4a50-ae57-b1c998e1c61a,distribution.company,resell,64,18,12,"GoDaddy.com, LLC",30/03/2016 15:00,30/03/2026 15:00
 02a7eb89-d089-4a9c-9517-bc0af7c1129d,disturb.company,available,82,6,7,,,
-1d94c4b5-dd7d-4f8f-a81a-85d06fad9681,diva.company,available,78,26,4,,,
-68abde39-7263-4ddf-8fe6-1713d38dc9e4,dive.company,resell,94,31,4,"Spaceship, Inc.",04/04/2024 15:15,04/04/2026 15:15
+1d94c4b5-dd7d-4f8f-a81a-85d06fad9681,diva.company,available,78,25,4,,,
+68abde39-7263-4ddf-8fe6-1713d38dc9e4,dive.company,resell,94,30,4,"Spaceship, Inc.",04/04/2024 15:15,04/04/2026 15:15
 93990e3b-93f1-4170-84e6-8dc6936fe664,divers.company,available,70,12,6,,,
 6dd38d0d-17fe-46c3-b4b6-6bdd1851fdc2,diversify.company,available,74,8,9,,,
 d83cbc20-0140-46e2-a644-f7fcbb2cfd55,divert.company,available,70,7,6,,,
@@ -2655,8 +2656,8 @@ e4a7799c-dcb6-4824-a98d-29c7603e4365,dominated.company,available,56,2,9,,,
 6ed4e24d-c6d5-4bf2-9f0c-9779b07fbe24,don.company,available,72,22,3,,,
 b6f18c46-c4c0-421d-a116-94406e074749,donation.company,available,76,16,8,,,
 a2e64e5b-d48d-4fbd-be68-2f6695cb1ac2,dong.company,available,60,18,4,,,
-11a99b15-e0dd-4987-b90e-403905343f0a,donut.company,resell,80,24,5,"GoDaddy.com, LLC",24/03/2014 16:12,24/03/2026 16:12
-b8e41c6b-ea5f-4f3d-8d68-9ae8e5afdb37,door.company,resell,100,25,4,"Sav.com, LLC",21/01/2020 16:31,21/01/2026 16:31
+11a99b15-e0dd-4987-b90e-403905343f0a,donut.company,resell,80,23,5,"GoDaddy.com, LLC",24/03/2014 16:12,24/03/2026 16:12
+b8e41c6b-ea5f-4f3d-8d68-9ae8e5afdb37,door.company,resell,100,24,4,"Sav.com, LLC",21/01/2020 16:31,21/01/2026 16:31
 f019bcd2-af3f-42cf-9119-8a7c87418846,dormant.company,available,78,5,7,,,
 86a1f713-b1ca-412d-9fef-5a8f9a123a7c,dorsal.company,available,80,6,6,,,
 abed35f9-43bc-43a9-a518-40d2e5e31e9d,dorsum.company,available,57,3,6,,,
@@ -2685,7 +2686,7 @@ ffba21c4-5788-47f1-9383-575c988351f0,dreamup.company,available,78,7,8,,,
 c7e98f21-2e54-488b-8ad2-1be32f2f1f9d,dress.company,resell,100,13,5,Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn),11/09/2019 18:13,11/09/2026 18:13
 33d893f8-0124-4acc-b233-4b1273a56b12,dressed.company,available,72,5,7,,,
 d464b06f-dccd-40a1-8916-a68a3e12ede0,drink.company,resell,100,21,5,"GoDaddy.com, LLC",30/08/2017 18:12,30/08/2028 18:12
-56ee1258-7f4c-47da-b860-000dab6e261e,drinking.company,available,66,9,8,,,
+56ee1258-7f4c-47da-b860-000dab6e261e,drinking.company,available,66,8,8,,,
 06124daf-270f-4011-acd0-ff8658aa7fce,drippy.company,available,42,10,6,,,
 17289b62-462f-4522-a930-332318f6558f,drive.company,resell,100,31,5,Dynadot Inc,01/08/2020 23:17,01/08/2029 23:17
 388394c3-8d45-4996-8935-d9536ceb92bc,drivehome.company,available,72,3,10,,,
@@ -2704,7 +2705,6 @@ eb0b74fd-a9cd-4140-816e-c1c2363b2d07,drop.company,resell,86,34,4,"Sav.com, LLC",
 d2bf251c-b2b4-4046-af9f-b1d6fbaf2264,durable.company,available,90,13,7,,,
 ab050412-a75f-455c-9de2-ee633becf076,Duracell.company,available,92,6,8,,,
 2b2a1bbb-034c-462b-a64f-074988553e6e,during.company,available,62,4,6,,,
-e9b6d3ba-8089-4f52-beb4-15762ef713b9,dwelling.company,available,68,8,8,,,
 428cd070-6092-48f9-8bde-ef0d6a9c33bc,dye.company,available,64,9,3,,,
 c7e6c5ad-a33e-4ba8-9bd9-d6368d853a4d,dying.company,available,82,6,5,,,
 928378d5-b16c-41c6-9af1-1647029ab11b,dyspeptic.company,available,54,1,9,,,
@@ -2720,7 +2720,7 @@ e1b1021d-dec4-48f3-8faa-83703a6eccd3,earlike.company,available,60,1,8,,,
 422c61d6-607b-46a9-814e-f223eea2ee90,earn.company,resell,66,26,4,"Sav.com, LLC",01/07/2025 13:44,01/07/2026 13:44
 b6079b96-069a-4a58-b8f9-9fede765361f,earned.company,available,72,6,6,,,
 95d33ccf-9ce4-41bd-b4b3-9dfab0e4b59c,earshaped.company,available,58,1,10,,,
-aa3728aa-e450-4376-a367-f444abd930a9,earth.company,available,62,38,5,,,
+aa3728aa-e450-4376-a367-f444abd930a9,earth.company,available,62,37,5,,,
 9dcd76f5-42b5-4bfa-b9f5-26998e6a6472,eased.company,available,68,4,5,,,
 a97a24c0-f239-4422-aa0c-fb4ae3bf67d6,easily.company,available,74,8,6,,,
 d2f6db6e-2ba2-413d-b151-88308285105a,east.company,resell,72,23,4,Dynadot Inc,01/04/2021 22:53,01/04/2026 22:53
@@ -2769,12 +2769,12 @@ f17e6461-14bf-453b-8ac7-331f1348d722,Eliza.company,available,72,21,5,,,
 ccc3343e-ed1a-4ad0-a587-3f48091fe490,ElSalvador.company,available,68,4,11,,,
 9b99e0b3-6309-4843-b5b6-3f2d6078f091,elusive.company,available,48,14,7,,,
 d1b5e361-a0cb-4afc-a268-70a545a01ef6,elvis.company,available,94,16,5,,,
-06fdd63e-18c1-47e5-9ac1-a038b4baabd9,email.company,resell,106,47,6,"Name.com, Inc.",09/07/2015 14:47,09/07/2027 14:47
+06fdd63e-18c1-47e5-9ac1-a038b4baabd9,email.company,resell,106,46,6,"Name.com, Inc.",09/07/2015 14:47,09/07/2027 14:47
 3646038f-8354-4293-b915-25431691c21b,emailstorm.company,available,62,1,11,,,
 ccc59e2f-b536-491b-87a6-539b485086ec,embayment.company,available,46,1,9,,,
 56411744-aa34-4db5-a8b7-f3e6e11b8fba,embracing.company,available,78,3,9,,,
 d7c5d27d-2d37-46eb-8158-e21311146b27,emotive.company,available,84,10,7,,,
-42b6ea83-b870-4d08-ba59-b89b88e40588,employ.company,available,98,11,6,,,
+42b6ea83-b870-4d08-ba59-b89b88e40588,employ.company,available,98,10,6,,,
 83af001c-ebaa-4f2c-88a9-914f3b6bfe23,employment.company,resell,74,14,10,"Sav.com, LLC",08/08/2020 15:20,08/08/2026 15:20
 a10691e4-1864-4f09-ad70-75d1381c8b32,empty.company,available,98,23,5,,,
 0b5a03c3-2a3e-4fe8-9bad-fcff3ccfe1a0,encourage.company,available,82,9,9,,,
@@ -2797,7 +2797,7 @@ be6f4193-2632-4c59-bfba-f62b9df74e0c,energizing.company,available,76,4,10,,,
 925c9633-02f8-45fe-a858-458cadb1ead0,engagementring.company,available,76,6,15,,,
 0d8a7f65-ce14-4ea9-80ba-c224957b79a8,enginedriver.company,available,68,1,13,,,
 0b8d12dd-d24b-4da3-9cef-e69630910b75,enginehouse.company,available,64,4,12,,,
-616d25a2-2598-4e29-b694-6458043a013a,england.company,available,72,20,7,,,
+616d25a2-2598-4e29-b694-6458043a013a,england.company,available,72,19,7,,,
 2399c180-2c43-4b24-864c-d4cb924f153e,english.company,resell,96,29,7,"Spaceship, Inc.",19/11/2020 12:31,19/11/2026 12:31
 9273cb01-6e92-4ef0-815e-c8d047a7bebb,Englishmedium.company,available,58,1,14,,,
 2bc2db31-95ef-4756-8dbe-40fe7c6c2fae,Englishmuffin.company,available,76,3,14,,,
@@ -2840,7 +2840,7 @@ b23a8f02-ee3c-42e5-98d6-11e28c92786d,equally.company,available,70,3,7,,,
 baf008d4-1be2-41cd-a9b2-55c5a04b4b95,equipped.company,available,68,7,8,,,
 47f82c38-e64f-465d-8b89-f1051ab376d6,equivalent.company,available,110,5,10,,,
 e3f06e14-c21f-41a5-be02-e455779f2759,equivocal.company,available,76,3,9,,,
-679012c0-a9e9-4a5f-9917-970726a06110,era.company,resell,84,33,3,Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn),13/06/2021 08:41,13/06/2026 08:41
+679012c0-a9e9-4a5f-9917-970726a06110,era.company,resell,84,31,3,Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn),13/06/2021 08:41,13/06/2026 08:41
 cef42cd5-4a20-4da0-b808-68483276a7de,erase.company,available,86,9,5,,,
 70b63d58-ce6c-4134-a59e-5c4276e5a513,eremitic.company,available,46,1,8,,,
 15c77276-6232-407a-bd7f-e116fe6788b7,eremitical.company,available,46,1,10,,,
@@ -2861,7 +2861,7 @@ aeded5cd-3e2c-473e-ab23-6eee2e18e87b,estival.company,available,50,3,7,,,
 c1b81084-a219-4b4f-a7fe-a4899ea85a4e,esurient.company,available,66,1,8,,,
 0b1a99ec-88c2-431b-910a-4dae03c6539e,eternal.company,resell,92,34,7,Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn),21/06/2022 17:00,21/06/2026 17:00
 85a554fe-90d5-4a88-864f-2b407c830a56,etiologic.company,available,46,2,9,,,
-52ff45df-08c4-44fc-96a3-105139d897c2,europe.company,available,68,38,6,,,
+52ff45df-08c4-44fc-96a3-105139d897c2,europe.company,available,68,37,6,,,
 37bb0afd-8801-4298-b532-a0ffd6468dca,Europeanhedgehog.company,available,68,1,17,,,
 452fd62b-4921-46d8-9df9-5bc2f29cd4bf,evacuate.company,available,64,4,8,,,
 31ae44c5-1b9c-4731-b1a2-6e18ccbe823c,evaluate.company,available,74,11,8,,,
@@ -2871,7 +2871,7 @@ f1891bab-d72a-4bba-ae05-9181b80ab9d6,evaporate.company,available,68,4,9,,,
 bb30d83b-4aaf-4263-a9b5-6b4294054e61,evenchance.company,available,74,1,11,,,
 08812316-0e30-4ba5-a3b6-889d3d098de1,evenif.company,available,60,2,7,,,
 5ec5ab00-69e6-48c4-9665-8f07e07e6fdf,evenout.company,available,70,1,8,,,
-b8fa7db6-92e5-4fb6-80f4-93db0ad127fd,event.company,resell,96,38,5,Dynadot Inc,24/06/2015 17:41,24/06/2026 17:41
+b8fa7db6-92e5-4fb6-80f4-93db0ad127fd,event.company,resell,96,37,5,Dynadot Inc,24/06/2015 17:41,24/06/2026 17:41
 1bbc9d5f-d4c6-414d-8402-9faeafd77f07,eventhough.company,available,54,2,11,,,
 2c2acb2b-940d-45b1-905d-66d30cc8849a,eventoed.company,available,50,1,9,,,
 90de7dd8-3c53-47f4-9be7-23b3f417c21b,everbody.company,available,58,3,8,,,
@@ -2896,9 +2896,9 @@ b06db1d6-28aa-4eb8-ac8f-422bf1f4c91f,exclamationmark.company,available,68,2,16,,
 63582121-3d7e-4bb6-ad45-dca4032c1e10,exculpated.company,available,62,1,10,,,
 f58ba189-43aa-4010-b919-99a0f83dff74,excursion.company,available,96,7,9,,,
 cdc39985-c51e-4948-9de8-8d1b51cacb75,excusatory.company,available,50,1,10,,,
-95c9e338-08ba-4647-a1ea-96ed74d73abb,exec.company,available,91,24,4,,,
+95c9e338-08ba-4647-a1ea-96ed74d73abb,exec.company,available,91,23,4,,,
 27734d68-5902-4ce3-80b6-08e17c5b9dc7,execrable.company,available,48,1,9,,,
-0dbf06cf-68d8-452e-926c-bc1c6b3881f9,executing.company,available,60,2,9,,,
+0dbf06cf-68d8-452e-926c-bc1c6b3881f9,executing.company,available,60,1,9,,,
 f8629df7-7c9c-4843-bd6b-6b06a07ff8b1,exemplary.company,available,92,4,9,,,
 d0827ce4-90a5-499d-80b5-bb131f809b37,exercise.company,available,98,12,8,,,
 d65de214-2efe-4994-89d8-91b81063d17d,exercisebicycle.company,available,70,1,16,,,
@@ -2919,10 +2919,10 @@ d0fa554c-e050-4412-92be-c224cd028fc6,expedite.company,available,86,9,8,,,
 b35e07cb-45ce-4107-a95e-ad0294a9db29,experienced.company,available,76,5,11,,,
 60beca0e-a11a-4788-a1d2-94939c02361c,experimentally.company,available,56,1,14,,,
 fbb50cc1-579b-4545-b036-8d3aa8e10488,expert.company,resell,104,24,6,Dynadot Inc,20/02/2023 15:15,20/02/2026 15:15
-422e541a-b712-4758-ae27-6c99a346650b,expire.company,available,58,10,6,,,
+422e541a-b712-4758-ae27-6c99a346650b,expire.company,available,58,9,6,,,
 3923062b-9de5-4314-9ffe-9668fcae6133,explain.company,available,84,16,7,,,
 6471850c-ae87-4e12-88da-fdf4b7fbba7d,explore.company,resell,102,36,7,"Spaceship, Inc.",19/03/2014 23:21,19/03/2026 23:21
-2e37f6fd-422f-4708-9463-6965ed799081,export.company,resell,104,20,6,"NameCheap, Inc.",17/09/2019 04:12,17/09/2026 04:12
+2e37f6fd-422f-4708-9463-6965ed799081,export.company,resell,104,19,6,"NameCheap, Inc.",17/09/2019 04:12,17/09/2026 04:12
 bcf6eca0-da71-41fd-a18f-0587d83044c6,expose.company,available,78,15,6,,,
 aa077316-4c9c-4880-a21b-6457f54e0858,exposure.company,available,66,17,8,,,
 ef70ab4c-6afb-4cb1-b248-a81b26a3545d,extempore.company,available,86,3,9,,,
@@ -2970,7 +2970,7 @@ b9a45ae1-39c7-400e-84b2-364e84e51d08,fanny.company,available,44,8,5,,,
 1dc8d8a7-3242-4262-a19b-2cb6b78361f3,FannyAdams.company,available,56,2,11,,,
 91ecd31a-c71e-4705-a71c-a2b5396290cd,fantasy.company,resell,98,25,7,"Chengdu West Dimension Digital Technology Co., Ltd.",19/04/2021 04:44,19/04/2034 04:44
 dcec32cd-386c-414c-aeb6-894bdbdbb7c7,far.company,available,88,24,3,,,
-86de9318-bc10-4ab1-adaa-cf684eb20e88,farmer.company,available,72,18,6,,,
+86de9318-bc10-4ab1-adaa-cf684eb20e88,farmer.company,available,72,17,6,,,
 7ad8d49a-7539-485c-87ce-02c697c18fde,farmwork.company,available,68,2,9,,,
 f991d33a-f3d4-41db-b77e-de30b2558fca,farther.company,available,74,5,7,,,
 a4ff8dbf-6a5b-4c5b-b0e2-074f54c8130f,farthest.company,available,56,1,8,,,
@@ -2987,7 +2987,7 @@ b01962bc-9808-4efa-a166-a0907d64e8f3,favored.company,available,76,4,7,,,
 1e7eed3d-63fd-4d13-b794-c510f0f87221,faxmachine.company,available,64,2,11,,,
 984400c6-a17d-4a60-b44f-5772149a9435,fear.company,resell,58,13,4,"GoDaddy.com, LLC",26/04/2024 16:13,26/04/2027 16:13
 8365b91f-d10d-496d-8149-9130c938b959,fearful.company,available,70,2,7,,,
-31ba3725-28e5-4e55-963f-b5959e404922,feather.company,available,64,21,7,,,
+31ba3725-28e5-4e55-963f-b5959e404922,feather.company,available,64,20,7,,,
 628493e9-7196-4af0-acab-0952bf5d0f62,feature.company,available,94,13,7,,,
 cfe62662-d7f1-47fd-8c61-ddc92f65cfe5,featured.company,available,64,12,8,,,
 3f2ebdfb-a569-43cd-ba88-777b3f94a5c9,feb.company,available,70,7,3,,,
@@ -3002,7 +3002,7 @@ aa614a2c-1ea2-4325-be05-8b6ba0bea755,feels.company,available,88,11,5,,,
 ff57a070-358b-442b-a91a-acd1d2855ba3,fellowman.company,available,66,2,10,,,
 df6c77db-78e2-4a5f-b88a-f80292a00bc1,femalealpha.company,available,68,1,12,,,
 fb882fe8-cc4c-4fab-838c-141f36527a72,feminism.company,available,68,7,8,,,
-20bce81e-5cdc-4827-b743-b1cd32ffb4bd,fence.company,resell,85,18,5,Dynadot Inc,11/09/2017 18:06,11/09/2026 18:06
+20bce81e-5cdc-4827-b743-b1cd32ffb4bd,fence.company,resell,85,17,5,Dynadot Inc,11/09/2017 18:06,11/09/2026 18:06
 54afbb2a-d1c8-4dbe-aa04-9fbc8706f199,fervent.company,available,66,6,7,,,
 f6342c20-9617-4262-972b-a8e85e69ff02,fervid.company,available,66,5,6,,,
 ab8e003c-edfc-48d1-85d1-8d697512f1a1,few.company,available,70,13,3,,,
@@ -3048,7 +3048,7 @@ b0855275-cdaf-454e-9c10-6aaac4414862,fire.company,resell,80,53,4,"Spaceship, Inc
 5e8b8eb3-cd76-46d4-a471-4b294c0ac10e,firefighter.company,available,78,14,11,,,
 f7f2c763-3f8d-40ef-a69e-079a1006e273,firetruck.company,available,90,5,10,,,
 03eb7e94-b443-47f8-bf42-c7656c55e629,firm.company,resell,118,20,4,Porkbun LLC,15/10/2022 08:02,15/10/2026 08:02
-eda43298-d8e5-4af8-93d2-69d775c114fa,firstaid.company,available,74,13,9,,,
+eda43298-d8e5-4af8-93d2-69d775c114fa,firstaid.company,available,74,12,9,,,
 253b30ce-9ed3-4f02-8e25-b7ef63f082ab,firstcousin.company,available,64,1,12,,,
 b4b1daad-3ead-4c31-adbb-8a378d34c859,firstgrade.company,available,72,3,11,,,
 8aafb619-1264-440c-886e-5314e250a8ea,firstly.company,available,64,4,7,,,
@@ -3089,9 +3089,9 @@ ac5c30ed-0b58-4420-a538-26a962f0c7a0,flu.company,available,62,10,3,,,
 bc5fe25a-38e8-4d2f-b78a-21501d477a67,fly.company,resell,70,31,3,"Sav.com, LLC - 22",12/09/2023 15:15,12/09/2027 15:15
 97de08d9-4363-4f97-8612-a862a2cf3076,flyspeck.company,available,68,1,8,,,
 88457202-cbe2-4628-88d0-3df084f21a67,focalpoint.company,available,74,15,11,,,
-1417c562-4434-4ac6-89e0-679b8cc09452,focus.company,resell,102,40,5,Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn),24/09/2021 17:00,24/09/2026 17:00
+1417c562-4434-4ac6-89e0-679b8cc09452,focus.company,resell,102,38,5,Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn),24/09/2021 17:00,24/09/2026 17:00
 7eb89bbd-e913-428c-a775-742e284c37fd,fog.company,available,82,14,3,,,
-6df110bb-3649-44c8-b3c1-501ee5135a30,folder.company,available,70,16,6,,,
+6df110bb-3649-44c8-b3c1-501ee5135a30,folder.company,available,70,15,6,,,
 82f9022b-4e09-43a2-982b-f43e7fc88075,folding.company,available,86,5,7,,,
 b3357b7f-0a8e-43cd-a7d5-2d28b02a8b60,folicacid.company,available,76,2,10,,,
 f1db829d-b402-4488-91ce-beb29f7f16f2,followedby.company,available,56,1,11,,,
@@ -3110,7 +3110,7 @@ b3a22fe7-49e0-4126-b719-a79799d054d3,forehead.company,available,70,3,8,,,
 d73cb32e-e15c-48e7-8c92-dc73b6a5ced3,foreign.company,available,78,11,7,,,
 1acc63b4-f9fe-4a5c-9cfd-3571405083d6,foreigner.company,available,60,5,9,,,
 458bcfd6-0ab1-43f4-81a3-9a7f4ed8c72a,foreman.company,available,62,9,7,,,
-aeb8512c-4a99-4c76-ab80-ab72adf8a952,forest.company,resell,68,36,6,"Spaceship, Inc.",14/11/2023 15:15,14/11/2026 15:15
+aeb8512c-4a99-4c76-ab80-ab72adf8a952,forest.company,resell,68,37,6,"Spaceship, Inc.",14/11/2023 15:15,14/11/2026 15:15
 9258e6d1-f4b6-49a1-b766-e817235cc1a8,forestfire.company,available,58,5,11,,,
 681963e8-889e-4ee9-ad16-7e88bf37125e,forget.company,available,54,8,6,,,
 a396df1b-9d9d-4239-b240-a2d4e9c98f33,forgetting.company,available,74,3,10,,,
@@ -3159,7 +3159,7 @@ c3fe8a41-e417-45e8-acfb-6d73e8860a15,from.company,available,72,26,4,,,
 e8d57c04-a612-4c21-9f2f-f1c8f3620488,front.company,available,118,18,5,,,
 51ec4024-d275-4160-8aa2-af16dc2736ca,frozen.company,available,74,13,6,,,
 d6a75782-3355-4c45-8d89-b390ff7dca0c,frozenfood.company,available,70,2,11,,,
-22abe56d-9a77-4660-a429-5c2729bd1a39,fruit.company,resell,82,27,5,"Spaceship, Inc.",26/06/2015 23:15,26/06/2026 23:15
+22abe56d-9a77-4660-a429-5c2729bd1a39,fruit.company,resell,82,26,5,"Spaceship, Inc.",26/06/2015 23:15,26/06/2026 23:15
 a7264744-91de-4acb-b851-95c1838afe6b,fruitjuice.company,available,74,3,11,,,
 1dc07a01-d8a3-474e-9a53-0c8875de00b7,fruitvegetable.company,available,76,1,15,,,
 d337b147-d1fa-4f2f-9d37-c27cb8329b21,fruitwine.company,available,80,2,10,,,
@@ -3171,7 +3171,7 @@ d337b147-d1fa-4f2f-9d37-c27cb8329b21,fruitwine.company,available,80,2,10,,,
 b82b0efb-a599-4f2f-bde8-5cb1d8ac2734,fuckster.company,available,62,2,8,,,
 6b408bc2-349a-45dc-9160-2bb3b3554c2c,fuckstruck.company,available,58,1,10,,,
 a7b55cb5-0762-4900-bf65-9b6c3cc3635c,fuckyou.company,resell,52,18,8,"GoDaddy.com, LLC",09/07/2022 06:03,09/07/2026 06:03
-7abf69d0-c1ff-4369-a0a3-de8eb4c6ae6d,fuel.company,resell,96,30,4,"GoDaddy.com, LLC",10/10/2017 19:59,10/10/2026 19:59
+7abf69d0-c1ff-4369-a0a3-de8eb4c6ae6d,fuel.company,resell,96,29,4,"GoDaddy.com, LLC",10/10/2017 19:59,10/10/2026 19:59
 e25e11eb-9c4f-46e2-91b0-d21933d50899,fulgid.company,available,54,2,6,,,
 23d8b80b-89eb-41b9-b512-9be018ec502b,full.company,resell,68,23,4,"Spaceship, Inc.",01/04/2021 23:14,01/04/2026 23:14
 b2e0c9f7-dbbe-4072-bc24-34766500ff68,fullgrown.company,available,56,1,10,,,
@@ -3197,10 +3197,10 @@ b3c17746-226c-4db7-a39f-f5c56b58c21d,fused.company,available,66,12,5,,,
 ee956c3a-9a2c-4e7c-8662-fdbd03d6fa1b,gal.company,available,64,16,3,,,
 b079323a-700e-4d7a-9500-1ae07927d348,galling.company,available,76,2,7,,,
 80e73ea4-f616-4dd5-9332-1f5a95fdd676,gallon.company,available,66,5,6,,,
-aca6f153-f17d-4b90-860c-850f7bbe3da9,gaming.company,resell,76,34,6,"Sav.com, LLC - 27",01/06/2024 15:15,01/06/2026 15:15
+aca6f153-f17d-4b90-860c-850f7bbe3da9,gaming.company,resell,76,33,6,"Sav.com, LLC - 27",01/06/2024 15:15,01/06/2026 15:15
 3dd05d95-6ca4-42d9-82c5-b6200e6516f8,ganja.company,available,63,16,5,,,
 79ea5792-78ce-4fb3-9f2a-ce3e82af8514,gaping.company,available,76,2,6,,,
-a4bf488e-3b29-4a56-99c9-c75d18001563,garage.company,resell,90,34,6,"Sav.com, LLC - 36",22/11/2023 15:15,22/11/2026 15:15
+a4bf488e-3b29-4a56-99c9-c75d18001563,garage.company,resell,90,34,6,"Spaceship, Inc.",22/11/2023 15:15,22/11/2026 15:15
 7ab9410d-df2f-442e-96d6-e831177ddca8,garbed.company,available,50,1,6,,,
 7f443ea6-bfa9-4a72-88f6-63ac9dfff5e4,gardencentre.company,available,74,3,13,,,
 3a23c4fb-1666-401d-bbc0-adc07bc40b8c,gardengnome.company,available,70,3,12,,,
@@ -3220,7 +3220,7 @@ ba9b4b49-a689-45ca-95ce-b9fc3d90ff41,gene.company,resell,66,23,4,"Spaceship, Inc
 f01eb5e2-396d-44be-9d5a-9cd29ae2d963,generally.company,available,63,3,9,,,
 0d3dba27-2671-4e9e-a6c4-dd81364218d2,generalpopulation.company,available,68,2,18,,,
 9e5f5f82-3da4-4db9-82a6-1a6a9e3ec6ae,generically.company,available,52,1,11,,,
-c3899b33-1b1a-43ff-bca8-a079e2331dd4,genesis.company,resell,68,39,7,"Xiamen ChinaSource Internet Service Co., Ltd",24/05/2025 15:15,24/05/2026 15:15
+c3899b33-1b1a-43ff-bca8-a079e2331dd4,genesis.company,resell,68,37,7,"Xiamen ChinaSource Internet Service Co., Ltd",24/05/2025 15:15,24/05/2026 15:15
 87f63388-28c4-48fa-a93e-e1777bd6f40e,gentle.company,resell,62,17,6,Dynadot Inc,18/02/2023 15:15,18/02/2026 15:15
 85efa4c4-add0-4eb5-b32a-46f0a9d0d321,gently.company,available,70,7,6,,,
 774a4ce1-b3d1-4860-8ed0-09e158bb09be,genuine.company,resell,78,19,7,"Xiamen ChinaSource Internet Service Co., Ltd",23/11/2025 15:15,23/11/2026 15:15
@@ -3229,11 +3229,11 @@ a93baba3-323a-49e9-85b9-e3c8287009f8,Germanchamomile.company,available,76,1,16,,
 cc3dd31b-ae98-4ea5-9f7c-1fb7dc697404,GermanEmpire.company,available,56,1,13,,,
 60374cf7-41a9-42a4-9f9c-57f903a72990,GermanReich.company,available,52,1,12,,,
 86f380cb-0f1d-4173-a08d-2904cc3605f4,GermanRepublic.company,available,46,1,15,,,
-8cfcc304-7c9e-4bd6-aa69-6e1f45dc00d0,germany.company,available,70,5,7,,,
+8cfcc304-7c9e-4bd6-aa69-6e1f45dc00d0,germany.company,available,70,4,7,,,
 df6eb3ec-a6a4-471a-9e35-28b796c00550,germicidal.company,available,42,2,10,,,
 65c9ed91-f481-41f0-99a7-0a00548b730c,germicide.company,available,60,1,9,,,
 6dac62ce-9da9-4b3c-afb8-74b3e3597d55,get.company,resell,88,57,3,GoDaddy Online Services Cayman Islands Ltd.,01/10/2016 13:14,01/10/2026 13:14
-2da79f65-05b5-40ce-b1e6-8b707226424c,getat.company,available,76,4,6,,,
+2da79f65-05b5-40ce-b1e6-8b707226424c,getat.company,available,76,3,6,,,
 abc3e8b6-9383-4f1e-84ca-2015d9c8feb3,getin.company,available,82,11,6,,,
 8bb5ba4c-aa72-4d15-b9fd-4f35218190f8,getinto.company,available,72,6,8,,,
 eca92780-10f3-46c9-a0d9-e4f0ea3a8baf,getoff.company,available,76,3,7,,,
@@ -3258,8 +3258,8 @@ d810a437-f1cd-4ba2-ac95-93560b798fc0,ghostly.company,available,52,10,7,,,
 0be127e9-9e64-4e3a-8473-2a9fc1359e67,giftcertificate.company,available,76,2,16,,,
 37161699-ef06-453b-aae8-54bb7548e33e,gillless.company,available,50,1,9,,,
 ec132914-f268-4b86-835b-f7b9ad532a79,gingerbreadman.company,available,74,3,15,,,
-4e4cac65-3c6d-40ec-9833-2e02e7bed412,giraffe.company,resell,78,20,7,"Name.com, Inc.",09/11/2022 15:38,09/11/2027 15:38
-41964e8b-91c3-4690-bbe2-a2c7812febdc,girl.company,resell,64,28,4,"Spaceship, Inc.",02/06/2020 16:19,02/06/2026 16:19
+4e4cac65-3c6d-40ec-9833-2e02e7bed412,giraffe.company,resell,78,19,7,"Name.com, Inc.",09/11/2022 15:38,09/11/2027 15:38
+41964e8b-91c3-4690-bbe2-a2c7812febdc,girl.company,resell,64,27,4,"Spaceship, Inc.",02/06/2020 16:19,02/06/2026 16:19
 5867e158-4622-4ac0-b699-d6efa53c6df2,girth.company,available,88,4,5,,,
 277d9e6d-d772-4a3c-819a-e1a63708a9c4,give.company,resell,112,32,4,"Sav.com, LLC - 29",08/11/2024 17:00,08/11/2026 17:00
 b2f96435-d266-402f-9277-12c2c5789c32,giveamanafish.company,available,52,1,17,,,
@@ -3272,7 +3272,7 @@ cd5f1b7c-9578-4676-b52e-d4c14c0b404e,giveandtake.company,available,70,5,13,,,
 728f3508-c074-4f5e-8cc2-cab23de7916f,glance.company,available,92,14,6,,,
 cfddb176-87ed-46dd-89f0-4dc0daa30296,glancing.company,available,78,2,8,,,
 a6216a44-fd2b-4178-b21c-669d42d6216d,glassceiling.company,available,62,4,13,,,
-11e62cee-7fb1-4f0e-88d6-444f429d5e12,glasses.company,resell,70,14,7,"Name.com, Inc.",19/09/2022 19:03,19/09/2028 19:03
+11e62cee-7fb1-4f0e-88d6-444f429d5e12,glasses.company,resell,70,13,7,"Name.com, Inc.",19/09/2022 19:03,19/09/2028 19:03
 b5e3ee50-3c9d-4ffc-b34e-353543509ed9,gleaming.company,available,82,4,8,,,
 f36a709d-78e1-43f0-9e62-12959e70edc6,glinting.company,available,64,1,8,,,
 f70cc2bc-a2cf-4e58-bc90-611162251b66,glistering.company,available,60,1,10,,,
@@ -3283,10 +3283,11 @@ b7580342-c38b-4ef1-9454-82b885fc3c23,global.company,resell,108,37,6,"Name.com, I
 d53592bf-0620-4077-9a9f-bb81cb76a441,globular.company,available,68,4,8,,,
 a5fdbbc4-28de-4649-a51c-c816aa3279aa,glossary.company,available,70,9,8,,,
 ffb7d8dd-900e-4eb1-9769-e7e92a030937,glove.company,resell,88,10,5,"Chengdu West Dimension Digital Technology Co., Ltd.",22/12/2022 15:15,22/12/2033 15:15
+1f7f5b26-93f9-4993-a42a-05ed025767e6,glue.company,available,92,29,4,,,
 fa4d2d1e-9732-4783-99c7-1ef2301b4374,Gmail.company,available,94,44,5,,,
-1c333324-a325-4179-8a22-d13b23627b13,goal.company,resell,106,25,4,"Xiamen ChinaSource Internet Service Co., Ltd",02/04/2021 02:43,02/04/2026 02:43
+1c333324-a325-4179-8a22-d13b23627b13,goal.company,resell,106,24,4,"Xiamen ChinaSource Internet Service Co., Ltd",02/04/2021 02:43,02/04/2026 02:43
 90dbab36-c1ab-40f5-9c50-1fcb83f6a26a,goalong.company,available,72,1,8,,,
-7690e291-3f07-4cbb-bce2-14e47eb365ae,goat.company,resell,62,44,4,"Name.com, Inc.",16/06/2017 18:52,16/06/2027 18:52
+7690e291-3f07-4cbb-bce2-14e47eb365ae,goat.company,resell,62,43,4,"Name.com, Inc.",16/06/2017 18:52,16/06/2027 18:52
 05b19c83-ea4c-4b4a-bf1b-414ce5e0d4f5,goback.company,available,73,5,7,,,
 eefe11ce-8a46-4e3a-a910-0378a12d8423,gobigorgohome.company,available,72,3,17,,,
 37f83ba3-6535-4ebd-b674-a029a619ed5c,gobythenameof.company,available,68,1,17,,,
@@ -3322,7 +3323,7 @@ dea1c1df-e8eb-47e8-8d4e-2e9fd529ac22,government.company,resell,80,18,10,"GoDaddy
 f0d83451-077b-42d4-896b-e080ecb83dc4,gowithoutsaying.company,available,81,1,17,,,
 fc9a2f95-2f84-46c5-8edd-1e71db7be851,grabby.company,available,72,5,6,,,
 60f60ee5-971f-472a-993d-fe48818193d3,grammar.company,available,100,12,7,,,
-1dda0e17-942a-4229-b8e6-9d22bfeba1d5,gramme.company,available,68,4,6,,,
+1dda0e17-942a-4229-b8e6-9d22bfeba1d5,gramme.company,available,68,3,6,,,
 a7327022-59fb-452b-86dc-38670f603ef6,gran.company,available,68,15,4,,,
 c98956e8-3d52-4223-8d6a-2387bd1c28c8,grand.company,resell,84,24,5,"Spaceship, Inc.",08/10/2024 15:15,08/10/2026 15:15
 c77ecb54-1941-482d-906e-3444e97dce33,grandad.company,available,80,3,7,,,
@@ -3330,7 +3331,7 @@ fdacb84e-8755-4148-aae6-cb343f435d37,grandchild.company,available,82,2,10,,,
 c74ca526-b983-4369-82a6-6f48a3b8041b,granddad.company,available,78,3,8,,,
 b253a088-1dc5-4fa5-b997-861303bff204,granddaughter.company,available,82,2,13,,,
 ee739ef3-556c-413d-9561-5ff0f93ad9cd,grandfather.company,available,102,5,11,,,
-7028299f-5678-493d-a215-9e5a7cd8dd17,grandjury.company,available,66,3,10,,,
+7028299f-5678-493d-a215-9e5a7cd8dd17,grandjury.company,available,66,2,10,,,
 f4c21a8a-d4b1-47c0-84f7-d3c98c10f32f,grandkid.company,available,80,1,8,,,
 edb22c75-43f4-4b5a-a8d3-13f2fcc348c7,grandma.company,available,78,11,7,,,
 1d8ea76c-abe3-4ef8-9e37-528c195aa991,grandmother.company,available,82,3,11,,,
@@ -3339,7 +3340,7 @@ c776a2d2-5f8e-4134-880a-84696f904f22,grandnephew.company,available,80,1,11,,,
 ca043c2f-62eb-41ad-968f-d156117a6f3f,grandpa.company,available,78,7,7,,,
 ea81d213-45ed-4dc8-8606-510c6f96cb9b,grandparent.company,available,102,5,11,,,
 03b568ce-5ddd-431e-991e-e6c64649b83d,grandprix.company,available,72,26,10,,,
-2f409d23-99de-4ec4-86eb-bc87b8293cce,grandslam.company,available,78,13,10,,,
+2f409d23-99de-4ec4-86eb-bc87b8293cce,grandslam.company,available,78,11,10,,,
 dfcee09e-b947-4d48-a3c0-d27f7d39ceba,grandson.company,available,78,5,8,,,
 ccf3c3be-e616-4874-a8d4-f946aad77949,granny.company,available,118,12,6,,,
 2f2e5101-726a-425f-b5c3-5dbac48441c4,granting.company,available,72,2,8,,,
@@ -3355,7 +3356,7 @@ a26824e6-24e3-41e3-bfea-60fb147019f0,greatuncle.company,available,52,1,11,,,
 4e56383d-fc6d-422b-a90b-15d3332133b6,green.company,premium,108,32,5,,,
 7b1a19ba-8ccb-448c-8df6-c89a4af7cf54,greenparty.company,available,64,4,11,,,
 364ff539-117a-4d66-b302-8dadf8adb868,greenpepper.company,available,73,3,12,,,
-f1bc71c6-48f9-474e-846d-df4064f1f516,greens.company,available,72,18,6,,,
+f1bc71c6-48f9-474e-846d-df4064f1f516,greens.company,available,72,17,6,,,
 a29374d8-ead8-4f07-b1c2-0690416889e7,greet.company,available,72,11,5,,,
 2c84cb5f-6be7-449b-9104-de893d5cd2ae,greetings.company,available,80,8,9,,,
 3b0c0386-4af3-47f4-8ba9-963a110b15e6,Gregor.company,available,66,13,6,,,
@@ -3384,22 +3385,22 @@ f5934476-c535-422a-ba01-1d888671606e,grubby.company,available,62,3,6,,,
 4fc38c09-ae3d-4801-bb67-a9f6346d2583,grungy.company,available,44,2,6,,,
 db6a0824-6e0d-43d7-8f50-3560811cf806,gstring.company,available,66,2,8,,,
 abca05b2-aa56-4b58-94eb-67075aa6b471,guess.company,available,100,16,5,,,
-df3ebb55-99db-41c3-8b03-ab606b68f657,guest.company,resell,78,25,5,"Xiamen ChinaSource Internet Service Co., Ltd",12/09/2025 15:15,12/09/2026 15:15
+df3ebb55-99db-41c3-8b03-ab606b68f657,guest.company,resell,78,24,5,"Xiamen ChinaSource Internet Service Co., Ltd",12/09/2025 15:15,12/09/2026 15:15
 86b2a3ab-3efc-4dad-8084-c8fad25a523f,guestchair.company,available,68,1,11,,,
 9e2d6834-7f20-4c2f-ad68-135b05660290,guilt.company,available,86,6,5,,,
-ceedeb3e-810b-41cb-ae65-b7b228440211,guitar.company,resell,98,26,6,"Spaceship, Inc.",14/10/2021 15:42,14/10/2026 15:42
-c327b254-70bf-488d-96a7-409a4dbfad87,gulf.company,resell,64,22,4,"Sav.com, LLC - 25",14/11/2024 15:15,14/11/2026 15:15
+ceedeb3e-810b-41cb-ae65-b7b228440211,guitar.company,resell,98,25,6,"Spaceship, Inc.",14/10/2021 15:42,14/10/2026 15:42
+c327b254-70bf-488d-96a7-409a4dbfad87,gulf.company,resell,64,21,4,"Sav.com, LLC - 25",14/11/2024 15:15,14/11/2026 15:15
 d8a23302-041b-4455-b7b5-25d57b721d29,gummyworm.company,available,83,1,10,,,
 e87165d3-c5f8-4b52-af06-d528fee7f9c6,gun.company,resell,56,24,3,"GoDaddy.com, LLC",25/06/2015 22:08,25/06/2026 22:08
 2681f146-c85a-4748-83f8-ed336353bf42,gutcheck.company,available,64,5,9,,,
 0e7d2c1f-751f-4f96-a59e-b7a52b45bbf7,gutfeeling.company,available,70,7,11,,,
-8da3e214-c4d8-40e2-8a2e-e077969a8fff,guts.company,available,97,15,4,,,
+8da3e214-c4d8-40e2-8a2e-e077969a8fff,guts.company,available,97,14,4,,,
 959784b1-d3be-49c5-87ed-e44892522f28,Guys.company,available,46,10,4,,,
 e3b0127e-ecf2-4049-8f04-588cccc0462f,gymnastic.company,available,70,4,9,,,
-ce4305e1-6d19-4fd9-b87e-78354e5b0bee,habitat.company,resell,74,23,7,Tucows Domains Inc.,06/10/2018 22:31,06/10/2026 22:31
+ce4305e1-6d19-4fd9-b87e-78354e5b0bee,habitat.company,resell,74,22,7,Tucows Domains Inc.,06/10/2018 22:31,06/10/2026 22:31
 afbac571-7817-4ddd-a1dd-01900c7cf86c,hackneyed.company,available,44,2,9,,,
-ef845159-c55a-4853-b9c4-c151cd865f0f,hair.company,resell,72,24,4,Unstoppable Domains Inc,23/08/2021 08:32,23/08/2026 08:32
-b9a7e89a-32d3-4adb-b13e-6f71a27c3165,haircut.company,available,95,9,7,,,
+ef845159-c55a-4853-b9c4-c151cd865f0f,hair.company,resell,72,23,4,Unstoppable Domains Inc,23/08/2021 08:32,23/08/2026 08:32
+b9a7e89a-32d3-4adb-b13e-6f71a27c3165,haircut.company,available,95,8,7,,,
 784a7e76-6fe6-431d-a8df-5a6a64bc2a93,hairfollicle.company,available,72,2,13,,,
 f1b12a71-d7b3-4248-bd66-e3962379883e,hairy.company,available,68,8,5,,,
 5cb46aa8-9fde-4536-bbf2-32cba1ba5bc6,haiti.company,available,68,5,5,,,
@@ -3409,14 +3410,14 @@ bbaa4d2d-7460-4847-be28-83b20403366c,halfassed.company,available,52,2,10,,,
 85508be9-675a-467c-ad84-ab323b186bb9,halloween.company,available,80,19,9,,,
 f6ec7d0a-4674-4ee4-a798-69a381a720ba,hallwaymonitor.company,available,62,1,15,,,
 aeb52098-36fe-4a63-a63a-e0911ca689f9,halo.company,resell,78,37,4,"Sav.com, LLC - 9",05/04/2024 15:15,05/04/2026 15:15
-69622a42-0c49-47b3-8d72-fcfb273742f2,ham.company,available,62,24,3,,,
+69622a42-0c49-47b3-8d72-fcfb273742f2,ham.company,available,62,23,3,,,
 b0be935e-c983-477f-90cf-babbac1f2a70,hamburger.company,resell,78,14,9,"GoDaddy.com, LLC",28/07/2025 12:34,28/07/2026 12:34
 0b8bff9c-03c5-4dac-bf48-b2bfde6c3ea3,hand.company,resell,76,22,4,"Spaceship, Inc.",06/06/2023 15:15,06/06/2026 15:15
 d2ac6dec-292c-4606-9fc1-570639585a16,handicap.company,available,78,9,8,,,
 01176872-07e7-4678-8f59-19001e0a3cbb,handmedown.company,available,100,2,12,,,
 c3986232-5054-4470-b62a-26dd41e78793,hang.company,available,82,12,4,,,
 6baf034d-5e64-4de7-a351-517d66a866cb,hanger.company,available,60,6,6,,,
-3e4763ef-8e1a-46ba-bb73-23da12c7f348,hannukah.company,available,68,2,8,,,
+3e4763ef-8e1a-46ba-bb73-23da12c7f348,hannukah.company,available,68,1,8,,,
 dcbd1539-9f2c-42e2-922a-7ce17d09aad4,hanoi.company,available,66,14,5,,,
 5f62be21-3056-4375-bb4a-61307585291b,Hans.company,resell,76,26,4,"Sav.com, LLC - 34",11/09/2025 17:00,11/09/2026 17:00
 d41e89b0-07b4-4537-a81a-5915b22d3bb2,hanukah.company,available,80,2,7,,,
@@ -3430,15 +3431,15 @@ f4aff8ee-5c56-43a8-beff-5fa762c1d49a,hardluck.company,available,60,3,9,,,
 ccabc419-140a-4119-9ffa-993fcf3aca80,hardly.company,available,92,4,6,,,
 b1e28e1f-484f-46ae-8af5-dcb0d1641584,hardworking.company,available,72,3,11,,,
 fe362081-3c0c-4fbd-8530-ab79005353a7,hardy.company,available,66,17,5,,,
-61937391-87a9-4f0c-b3d6-2a4765e775ab,harmony.company,resell,83,38,7,Dynadot Inc,14/10/2020 07:30,14/10/2026 07:30
+61937391-87a9-4f0c-b3d6-2a4765e775ab,harmony.company,resell,83,37,7,Dynadot Inc,14/10/2020 07:30,14/10/2026 07:30
 1ac6c306-fffe-48db-a744-ba57a9c4661d,harrowing.company,available,66,1,9,,,
 f772a8ff-5dfc-403c-be50-e117435879b7,harvard.company,available,72,13,7,,,
 8b5304ff-4845-4cd0-9848-4980026535c6,hashtag.company,available,100,32,7,,,
 36d92ce2-ace8-44c3-8183-c3335ea6096d,hassle.company,available,99,4,6,,,
-5c20456c-678c-4a87-a3c1-7a553782da5c,hate.company,available,86,18,4,,,
+5c20456c-678c-4a87-a3c1-7a553782da5c,hate.company,available,86,19,4,,,
 d3282429-327d-475b-bd38-37bdece9bac9,hater.company,available,62,6,5,,,
 12f6390c-816b-4c60-b3b4-38ae8efd0985,hatred.company,available,60,4,6,,,
-af39cb5d-ee14-4003-955f-4b7937c33f3f,havegot.company,available,70,1,8,,,
+af39cb5d-ee14-4003-955f-4b7937c33f3f,havegot.company,available,70,0,8,,,
 370537d3-28f5-44fc-9e36-fc7c6facc46e,haveonemoretime.company,available,62,1,18,,,
 f048a291-f127-4482-a6b6-70eed8c03e6e,havesecondthoughts.company,available,64,1,20,,,
 613919f5-0a30-4538-acb4-cd4c9093e643,havesex.company,available,70,3,8,,,
@@ -3451,20 +3452,20 @@ f7804254-967e-46a9-830e-5c26585ce4b0,hawaii.company,resell,70,29,6,"Sav.com, LLC
 ea511c6f-eb88-41f2-855c-351fb136d440,haywire.company,available,72,8,7,,,
 abb08b3c-d96e-4c6d-81ec-69e90fe5ca62,hazard.company,available,58,10,6,,,
 189e3148-bed9-4fba-9d56-de52871c7417,HBO.company,available,76,12,3,,,
-965581ef-5ddc-4ddc-ad23-98eba3278f03,headline.company,available,92,14,8,,,
+965581ef-5ddc-4ddc-ad23-98eba3278f03,headline.company,available,92,13,8,,,
 d1f1091c-5bf7-401e-aa20-0dbe05b646fd,headoverheels.company,available,84,5,15,,,
 df0eacaf-5157-4c66-b177-e174bb694d0e,headteacher.company,available,74,2,12,,,
 b8cb3f49-2492-4a8f-a18a-e2667724854e,headtohead.company,available,62,3,12,,,
 e7b70a61-efa3-4389-a1d5-078e581b1b07,headtotoe.company,available,62,5,11,,,
 92064ba8-1297-42ae-884f-28c44c241952,headup.company,available,80,4,7,,,
-8c9f9a45-784f-44ab-ade1-8c011500c58c,healthcare.company,premium,76,28,10,,,
+8c9f9a45-784f-44ab-ade1-8c011500c58c,healthcare.company,premium,76,27,10,,,
 c22c8d26-cbb8-421d-9aca-fe96c2b6ee9d,healthy.company,resell,84,26,7,"Spaceship, Inc.",04/06/2019 08:35,04/06/2026 08:35
 a54dcb57-e830-4268-a7ac-5c6a7ffcf826,hear.company,available,106,16,4,,,
 fdba130e-c177-4a0a-93ad-7ef7f7d7e26a,hearable.company,available,60,4,8,,,
 35d04b3b-f09d-46f5-a455-002694addf19,heard.company,available,60,10,5,,,
 45001c4c-0940-406f-b3dd-1c042211641e,heartattack.company,available,62,5,12,,,
 3aad20d8-2b55-4e2b-9e45-98bd5d2b6420,heartburn.company,available,60,5,9,,,
-419157a5-0d66-453c-aa16-223d6e38d6b5,heartthrob.company,available,76,3,10,,,
+419157a5-0d66-453c-aa16-223d6e38d6b5,heartthrob.company,available,76,2,10,,,
 07b1bc91-7d06-4d32-baf7-2c66cff7ee11,heatup.company,available,76,4,7,,,
 90a574e1-6d4f-434f-8371-452962f76886,heatwave.company,available,64,10,9,,,
 a8a7fdfc-8711-422f-b410-7d0b495164f8,heaven.company,resell,70,29,6,"Chengdu West Dimension Digital Technology Co., Ltd.",06/01/2020 07:10,06/01/2034 07:10
@@ -3502,7 +3503,7 @@ c8de355c-8c62-44b4-beb3-418486e5f27d,higher.company,available,104,23,6,,,
 9ae61323-edb2-49cd-91f2-5612659ec543,highly.company,available,62,7,6,,,
 e419f1f7-b1f9-42de-9a7f-9a72e830e3bb,highschool.company,available,72,13,10,,,
 b9587399-2d7b-45a8-aa3f-2980efeb4b64,hightide.company,available,69,13,9,,,
-938f88ae-ddf7-46f5-b427-35906b4d5e0b,highway.company,available,68,18,7,,,
+938f88ae-ddf7-46f5-b427-35906b4d5e0b,highway.company,available,68,17,7,,,
 84dd95e2-43ad-4fb9-9061-799f9544404d,him.company,available,74,20,3,,,
 4a4fdbe5-a0b0-443c-aac9-e1ad776d4be5,Himself.company,available,64,4,7,,,
 c0a817bd-51d4-4be0-9255-8bbee57ebc95,hindend.company,available,38,1,8,,,
@@ -3523,7 +3524,7 @@ d467bcc6-bf3e-4694-96da-5b7d1dc1aa24,hold.company,resell,100,19,4,Dynadot Inc,19
 6fca3639-7e41-4af1-9418-873c44cc49a2,holdopen.company,available,72,1,9,,,
 329d79a5-0048-4b8d-b633-8ca0db5f68b9,hole.company,resell,60,18,4,"Chengdu West Dimension Digital Technology Co., Ltd.",18/03/2020 22:06,18/03/2034 22:06
 c1b59d03-8610-4b18-9360-10ca91e1e80e,holiday.company,resell,72,26,7,"Spaceship, Inc.",16/03/2014 16:00,16/03/2026 16:00
-81fc26d7-656d-4486-81b4-65cab69ecba0,holly.company,available,56,25,5,,,
+81fc26d7-656d-4486-81b4-65cab69ecba0,holly.company,available,56,24,5,,,
 29cfa6cf-ab0b-42f2-85d6-99d8b8721f87,holycrap.company,available,52,3,9,,,
 857897d1-e01d-4697-abe3-8bb283aff532,homoecious.company,available,48,1,10,,,
 68839915-fd23-4177-bb9b-deaac2506652,honestly.company,available,78,9,8,,,
@@ -3533,7 +3534,7 @@ ba40d3bc-ab9f-4bc0-a8c3-2c2be17c3d46,hooked.company,available,60,12,6,,,
 9f2385a9-7821-4114-8657-b3e11f476526,hopefully.company,available,70,4,9,,,
 862a5a44-1c6c-453d-9f81-653480dbdadf,horseback.company,available,80,2,9,,,
 ec7d0b99-384f-4150-855f-576fdd964ddc,hostile.company,available,74,9,7,,,
-5ccd9ef6-8f06-4151-9a54-6bc12df7ca48,hotel.company,resell,70,38,5,"GoDaddy.com, LLC",28/08/2019 18:01,28/08/2026 18:01
+5ccd9ef6-8f06-4151-9a54-6bc12df7ca48,hotel.company,resell,70,37,5,"GoDaddy.com, LLC",28/08/2019 18:01,28/08/2026 18:01
 976c5516-f0ce-44f2-9b5c-dc08965c1289,hotticket.company,available,76,3,10,,,
 61664286-169f-4617-9094-6e5f2334432d,hour.company,available,78,13,4,,,
 2c15c56a-0f5e-465e-afc2-1d8effceeb6c,hourly.company,available,96,12,6,,,
@@ -3549,7 +3550,7 @@ a05b4c64-755a-4f47-87f2-82432cf867a3,howsayyou.company,available,48,1,11,,,
 37e56c17-8d7b-4d1c-a629-4542612f9f83,howthehell.company,available,44,2,12,,,
 0c14682d-3c64-4893-aeda-0c170f610acd,howyousay.company,available,52,1,11,,,
 a510cae3-07d4-4d95-9914-51e5cf3fefa1,http.company,available,80,21,4,,,
-6f67a853-b4df-4fcf-b296-c6b7ee03968c,hub.company,resell,72,44,3,"Sav.com, LLC - 23",03/06/2025 15:15,03/06/2026 15:15
+6f67a853-b4df-4fcf-b296-c6b7ee03968c,hub.company,resell,72,43,3,"Sav.com, LLC - 23",03/06/2025 15:15,03/06/2026 15:15
 b4313f01-8cd2-4bfa-94bd-5737f5feb915,huge.company,resell,78,23,4,"Xiamen ChinaSource Internet Service Co., Ltd",20/09/2024 17:00,20/09/2026 17:00
 89d855ab-fc69-4c6c-8d4d-572875799891,hum.company,available,76,13,3,,,
 64ae5bd0-3d7b-4b6f-a9aa-ab3706e8c3bd,human.company,resell,74,39,5,Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn),04/06/2019 08:36,04/06/2026 08:36
@@ -3728,7 +3729,7 @@ e714c37a-8339-48ef-9537-937f2e6a37e1,interior.company,resell,62,16,8,"Xiamen Chi
 2a32cb4e-d374-468c-9eef-7b74dc3b6c19,interpersonal.company,available,70,5,13,,,
 5e18a7af-a49b-41f1-b7ed-ca389cc36722,interpret.company,available,75,10,9,,,
 63714ec2-83d4-4a8e-8d70-11fde54daab5,intervening.company,available,60,1,11,,,
-2f31a4e8-b5e1-41b8-aa6c-98514a68ec14,interview.company,resell,92,26,9,"Sav.com, LLC",03/07/2025 17:16,03/07/2026 17:16
+2f31a4e8-b5e1-41b8-aa6c-98514a68ec14,interview.company,resell,92,25,9,"Sav.com, LLC",03/07/2025 17:16,03/07/2026 17:16
 99d63dcb-5966-41e0-b111-7c2fa824f13d,interviewee.company,available,64,2,11,,,
 bd9a8e99-f20a-4827-99c0-1fda18af8c7a,inthat.company,available,60,1,7,,,
 2db4268d-8f36-4fed-a653-2efb1725f0ed,inthecan.company,available,46,2,10,,,
@@ -3784,7 +3785,7 @@ ef04ce01-44d0-4941-b416-e4e7e4b74886,issuedate.company,available,70,1,10,,,
 b1a7ad63-c5cf-4871-a95d-30aa613570a3,IwishImaybeshot.company,available,48,1,20,,,
 23491b8b-ffd1-4f73-85dc-0a27ebeb24b4,Iwouldratherdie.company,available,48,1,18,,,
 b41108e4-8973-4d3c-aa1d-3e1a78bb08c8,ixc.company,available,52,6,3,,,
-d7a9aa95-e61d-44bb-ba75-21753cf0040d,jabber.company,available,88,13,6,,,
+d7a9aa95-e61d-44bb-ba75-21753cf0040d,jabber.company,available,88,14,6,,,
 aa674f3f-755c-4acd-be11-ab0c73977d2c,jacks.company,available,54,16,5,,,
 5c26348e-0417-49be-925f-af7574df94ed,jail.company,available,80,9,4,,,
 8151f120-a049-4f68-9e3b-0730a32f7c60,jamesbond.company,available,88,9,10,,,
@@ -3803,13 +3804,14 @@ eb0f4410-c282-44a5-a5fc-a17ed1777933,jehovah.company,available,72,8,7,,,
 680ec360-cbc6-4494-ab2c-75f243d77daa,jellybaby.company,available,76,2,10,,,
 01a88f84-bd20-46d5-b644-97509fa585fb,jerking.company,available,58,3,7,,,
 eb69a00a-5258-4ef9-9eee-081f099d2327,jersey.company,available,84,4,6,,,
-46719462-beb2-4b30-82ef-5607591e0ed0,jesus.company,available,126,49,5,,,
+46719462-beb2-4b30-82ef-5607591e0ed0,jesus.company,available,126,47,5,,,
 ad69977d-d4cb-412e-a129-d8ddc8b6abad,jetpack.company,available,96,21,8,,,
 d91bdb44-81c0-4e44-913d-bb6b708d9ddc,jewbaiter.company,available,40,1,10,,,
 9bb9fdf5-f9e2-4c97-939a-5f8f2f2033a4,jewellery.company,resell,73,20,9,"Sav.com, LLC - 18",20/11/2025 15:15,20/11/2026 15:15
 321eeb23-b1f8-4753-b92e-af93f52cb962,Jewnose.company,available,62,1,8,,,
 dc3feb27-e020-437c-b328-d6d641ed47e9,jimmy.company,available,97,27,5,,,
 04508a90-af78-4af7-b86e-2a33ae520a4a,jimthorpe.company,available,72,2,10,,,
+952279b1-0cd3-499b-9d4a-770232415fa8,job.company,resell,86,36,3,"Spaceship, Inc.",28/08/2019 18:00,28/08/2026 18:00
 95887885-58a2-4598-ad74-0adf929f5926,jock.company,available,84,8,4,,,
 910b3f77-0627-482c-8755-cd89716b323c,Jody.company,available,74,10,4,,,
 7cd4a28a-b81b-4f87-86d3-6f1240299658,join.company,resell,96,42,4,"Global Domains International, Inc. DBA DomainCostClub.com",04/12/2020 17:00,04/12/2026 17:00
@@ -3828,7 +3830,7 @@ ee0982aa-5eea-4e0d-a3be-59ef6cd9849b,junior.company,resell,72,15,6,"Sav.com, LLC
 44d23b6f-0b89-476c-9cda-cf1a718f4d9f,jupiter.company,resell,74,33,7,"Xiamen ChinaSource Internet Service Co., Ltd",25/04/2019 09:05,25/04/2026 09:05
 616398a6-22e4-4d0d-9d74-98018c200279,just.company,resell,150,42,4,"Global Domains International, Inc. DBA DomainCostClub.com",18/01/2021 16:56,18/01/2026 16:56
 c6cba66c-3cfd-416e-8bc2-1ed4499a8c56,justabout.company,available,58,2,10,,,
-aa60c46d-8cdd-42c2-8208-46f5fafc9dde,justice.company,resell,92,33,7,"Chengdu West Dimension Digital Technology Co., Ltd.",21/03/2020 09:34,21/03/2034 09:34
+aa60c46d-8cdd-42c2-8208-46f5fafc9dde,justice.company,resell,92,32,7,"Chengdu West Dimension Digital Technology Co., Ltd.",21/03/2020 09:34,21/03/2034 09:34
 72e40435-088e-47e9-a38b-c175a157ba04,JusticeofthePeace.company,available,66,2,20,,,
 fb778369-d581-4b56-9a0e-105eda73c8d2,justified.company,available,66,7,9,,,
 a579ca6a-f431-48b6-8d23-41d6673ac6b7,justintime.company,available,64,16,12,,,
@@ -3848,6 +3850,7 @@ ce3a4e6d-aeae-4880-b327-ae169963eb24,keepsomeonecompany.company,available,76,1,2
 8d53e4a2-bd2c-45b4-8be1-1b05d00f5a75,keepup.company,available,76,12,7,,,
 fddc3827-5ae4-48ee-b585-8aaee2df5624,keister.company,available,34,2,7,,,
 ebc9ee3e-17c5-4a0e-97bc-6e8c6f93de9f,kept.company,available,66,12,4,,,
+31552320-9053-49cf-94d8-f7e39b774f12,kgb.company,available,74,10,3,,,
 3fb3369c-e45a-49aa-ba84-847a11803371,khakis.company,available,74,2,6,,,
 f09667fe-7f84-4a5b-ba8e-6c928f76c86f,kick.company,available,98,23,4,,,
 669f288e-97ff-4281-98cf-9ad06418ae62,kicking.company,available,78,4,7,,,
@@ -3927,7 +3930,7 @@ d20fe6aa-d45f-4bf5-859c-a0f099528aa0,league.company,resell,68,24,6,"Xiamen China
 40d12abb-1e5e-4a35-b936-23498b286952,leaning.company,available,58,5,7,,,
 a0ae2b16-ff8c-4221-b840-1f945a45cb9e,learn.company,resell,82,37,5,"GoDaddy.com, LLC",24/06/2015 17:50,24/06/2026 17:50
 da72f7cf-6068-4333-8701-bf59365b20ef,learned.company,available,71,6,7,,,
-316895ee-3f2b-47f9-99f4-f63d61070167,learning.company,resell,76,32,8,"GoDaddy.com, LLC",25/06/2015 20:56,25/06/2026 20:56
+316895ee-3f2b-47f9-99f4-f63d61070167,learning.company,resell,76,31,8,"GoDaddy.com, LLC",25/06/2015 20:56,25/06/2026 20:56
 003a4caa-7148-4eea-9215-17457804aeed,leash.company,available,90,7,5,,,
 f8a81bd1-2ed9-4a62-9b28-57482ac58407,least.company,available,106,7,5,,,
 a52e97c6-799e-4b19-955c-79e27f32bde5,leave.company,available,96,12,5,,,
@@ -3984,7 +3987,7 @@ ce1311d2-077c-4a88-a06f-4dab83fbcb61,licensed.company,available,68,5,8,,,
 2f83fcdc-ec1b-4cdd-889d-c9894923d338,lifelesson.company,available,76,3,11,,,
 bc8321ab-474c-4a87-b1c9-eac42955ec35,lifeprotip.company,available,78,1,12,,,
 be54a6da-2e4b-4b95-9acd-7bd3e79467f0,light.company,resell,62,37,5,Dynadot Inc,19/03/2014 16:00,19/03/2026 16:00
-85a89e8e-b31f-4fd0-9afb-a8fd2570662c,lightbulb.company,available,70,16,10,,,
+85a89e8e-b31f-4fd0-9afb-a8fd2570662c,lightbulb.company,available,70,15,10,,,
 0adf19ba-0293-4d2a-89ea-25cd1c5dfad7,lighten.company,available,84,7,7,,,
 0e95e6c7-756d-41a6-b588-9de7cd2ff254,lightly.company,available,64,5,7,,,
 5dfcb142-e646-4a96-853c-910d995b0d51,lightningstrike.company,available,64,4,16,,,
@@ -3996,21 +3999,21 @@ c6ae3cf0-ff98-4d07-b6f8-cfe71f4494f1,likehell.company,available,40,1,9,,,
 8fe1d799-7125-45a1-9b76-3847036790db,likely.company,available,72,9,6,,,
 4905fe90-74bc-4d71-a379-a6c5b3ce4e53,likewise.company,available,60,8,8,,,
 d9dbf3c3-834d-4908-9ae4-33ee51ccc7f4,limestone.company,available,64,11,9,,,
-6af492d7-4167-4c98-b75f-a9aa94735c08,limit.company,available,108,16,5,,,
+6af492d7-4167-4c98-b75f-a9aa94735c08,limit.company,available,108,15,5,,,
 6b6e9625-0ca8-41a5-a874-44fe24081ea1,limitation.company,available,56,3,10,,,
 d9ca65a8-15f3-44d0-85de-fa5c1a7c9782,limiting.company,available,65,1,8,,,
 14232e9b-ab12-4637-b7c3-ebdba475a0b1,limitless.company,resell,76,47,9,"GoDaddy.com, LLC",02/10/2022 13:15,02/10/2026 13:15
-a016be86-767b-431f-8529-7f86596b38ed,lindsay.company,available,70,15,7,,,
+a016be86-767b-431f-8529-7f86596b38ed,lindsay.company,available,70,14,7,,,
 041da85e-2ee2-4876-abbc-0b6f58813e89,line.company,available,74,20,4,,,
 d38d09fd-6b7a-4ee5-aaea-8d584e6b7bf0,link.company,resell,68,42,4,"GoDaddy.com, LLC",24/06/2015 17:24,24/06/2026 17:24
-1190d350-d3f5-4865-be5f-ba2a8c90baa3,links.company,resell,70,33,5,"Spaceship, Inc.",04/06/2019 02:48,04/06/2026 02:48
+1190d350-d3f5-4865-be5f-ba2a8c90baa3,links.company,resell,70,31,5,"Spaceship, Inc.",04/06/2019 02:48,04/06/2026 02:48
 ca18ec25-2559-4e4a-8b32-3cf3be7c9014,lion.company,resell,74,32,4,Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn),29/06/2019 16:36,29/06/2026 16:36
 04958e4a-a923-4f9b-8398-d6a142ea81ea,lip.company,available,72,11,3,,,
 573cc443-0ad9-42b4-9671-4df53b438b2c,lips.company,available,68,13,4,,,
 c05150e8-7323-46bf-94e3-af07e5a4910a,lisboa.company,available,66,12,6,,,
 e0b41547-e2bd-4a20-8ea0-4c3f3bbde042,lisbon.company,available,90,12,6,,,
 4f4ca015-fd5d-45ba-8554-0c9d18e01417,list.company,resell,70,30,4,"Xiamen ChinaSource Internet Service Co., Ltd",22/09/2025 15:15,22/09/2026 15:15
-64ae0d72-6d09-4093-8c56-e2bebedcdaa9,listen.company,resell,104,25,6,"Xiamen ChinaSource Internet Service Co., Ltd",18/09/2025 15:16,18/09/2026 15:16
+64ae0d72-6d09-4093-8c56-e2bebedcdaa9,listen.company,resell,104,24,6,"Xiamen ChinaSource Internet Service Co., Ltd",18/09/2025 15:16,18/09/2026 15:16
 87a740f3-43c7-47e8-9b09-280273248683,listenin.company,available,68,4,9,,,
 4ef30bd5-398d-42ad-88bd-c0f4bddd8224,lithuania.company,available,60,4,9,,,
 e3ed9ab2-6302-4ec4-88f7-f130063e8de3,littleblackdress.company,available,76,2,18,,,
@@ -4041,7 +4044,7 @@ f68e602e-a35c-49ab-a1e1-d768c0988150,look.company,available,80,27,4,,,
 53b8ac8e-607b-4396-aeeb-9e56e9a4ee46,lookinto.company,available,70,2,9,,,
 8d1dece7-3268-462b-b7bc-438b4a69e5e7,lookout.company,available,74,14,7,,,
 ddc63538-745a-4cab-baf6-99cbd5b00115,loony.company,available,74,5,5,,,
-5d1d9060-4ad2-42bc-8fac-b162ceb00683,loop.company,available,72,26,4,,,
+5d1d9060-4ad2-42bc-8fac-b162ceb00683,loop.company,available,72,25,4,,,
 20309a30-a03f-4876-95c5-49517adf0a0c,loopy.company,available,52,13,5,,,
 7aa3f327-22a5-4dcc-8649-619ad2ee03b5,loose.company,available,44,10,5,,,
 cc25c397-58b2-4271-95f2-7790e219ea69,loosely.company,available,60,2,7,,,
@@ -4076,7 +4079,7 @@ a365cdea-3d0c-4fa9-9b30-88b6818ebad7,lowered.company,available,64,2,7,,,
 adf5a768-5023-49d9-9a47-b7adfdfa22f0,lucy.company,available,84,22,4,,,
 df8de1b7-1f29-4ff3-a472-39dbfa23c768,luminous.company,available,64,24,8,,,
 53669354-964b-43f3-af84-6b2eac163898,lunch.company,resell,111,20,5,"NameCheap, Inc.",07/05/2017 19:27,07/05/2026 19:27
-24b73d8e-5727-4a87-98c2-4b9b9df214d5,luncheon.company,available,96,3,8,,,
+24b73d8e-5727-4a87-98c2-4b9b9df214d5,luncheon.company,available,96,2,8,,,
 2b837622-1a76-4b98-bb44-bef1acd8f150,luncheonmeat.company,available,74,1,13,,,
 54f5d198-e822-44e9-9498-94ebfa7f8a31,lunchmeat.company,available,74,2,10,,,
 abe61089-fb29-4f53-895f-6a22483d0b06,luxembourg.company,available,60,3,10,,,
@@ -4117,8 +4120,7 @@ fc3976bc-d5f4-4df1-8154-de63d774dc47,lxxxvi.company,available,52,2,6,,,
 e799d60d-4abf-4ac2-80d6-24f08e7c27e0,machinescrew.company,available,70,1,13,,,
 c00b5b16-ee3c-4806-8213-f33b70ad3d80,macro.company,resell,84,29,5,"Sav.com, LLC",20/09/2021 17:00,20/09/2026 17:00
 e07bfdcf-a7a9-4979-924a-a88e1ae5b7d5,maddened.company,available,37,2,8,,,
-90500cb4-821a-4740-8839-a3775da3fb71,madison.company,available,78,26,7,,,
-3df5d16d-4bfe-4649-a920-3857d98767fd,madrid.company,available,76,19,6,,,
+3df5d16d-4bfe-4649-a920-3857d98767fd,madrid.company,available,76,17,6,,,
 509b80c7-0b2d-4efe-920c-9291d305f19f,magiccarpet.company,available,80,4,12,,,
 ca75ae08-4de4-4929-af44-70653d42a040,magnifyingglass.company,available,73,1,16,,,
 6ee72f95-923e-4820-a4d5-492882b2a492,mahfucka.company,available,62,1,8,,,
@@ -4156,12 +4158,12 @@ cb38c249-357a-4aa6-962d-f6f2c8c9080c,manualwork.company,available,64,1,11,,,
 adb3d6c1-b6ed-4a9f-859c-fb3e90e20228,manythanks.company,available,84,3,11,,,
 c8310a61-c690-4205-a0dd-e5987de416dc,mao.company,available,58,19,3,,,
 8de14d6c-4ed6-434e-838c-7009be395420,map.company,resell,78,36,3,"Xiamen ChinaSource Internet Service Co., Ltd",28/10/2024 15:15,28/10/2026 15:15
-b01e536b-56eb-4c23-8781-8290fa619d3b,march.company,available,70,11,5,,,
+b01e536b-56eb-4c23-8781-8290fa619d3b,march.company,available,70,12,5,,,
 700beadb-c6fa-40ea-bac3-3465394033c3,marchon.company,available,68,6,8,,,
 02104a3d-4219-4648-93a0-12010db42aa7,marginal.company,available,74,7,8,,,
 8ff65600-9e50-46e0-9f7e-ae1a7677504b,marines.company,available,82,8,7,,,
 cef1614d-ecae-4d6f-81ac-8afc4f0648f1,mark.company,resell,66,35,4,"Spaceship, Inc.",12/02/2020 08:58,12/02/2026 08:58
-395848aa-b318-4a29-b3f1-c56ef7480136,market.company,resell,74,38,6,"GoDaddy.com, LLC",24/06/2015 17:24,24/06/2026 17:24
+395848aa-b318-4a29-b3f1-c56ef7480136,market.company,resell,74,37,6,"GoDaddy.com, LLC",24/06/2015 17:24,24/06/2026 17:24
 fa1e33c5-781f-403c-ac1c-18c313819e53,marks.company,available,66,20,5,,,
 8ad178b2-bbea-4268-95cb-cb5fdf52e7aa,marktwain.company,available,82,4,10,,,
 af89cfd7-7598-435a-9835-b17a93ad0d97,marooned.company,available,50,2,8,,,
@@ -4214,7 +4216,7 @@ e7c7ae82-6aa8-4cdd-bd8b-502aea592ce8,medicalreport.company,available,64,2,14,,,
 bdb83683-c62e-494e-b4b8-ce4cf1b8da0c,men.company,resell,70,22,3,"Name.com, Inc.",14/09/2016 20:11,14/09/2027 20:11
 a1b50a5c-045b-4821-9af5-7a286e89c137,mental.company,resell,86,20,6,Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn),12/09/2021 17:00,12/09/2026 17:00
 b1c84c88-39e9-426f-bb78-e58bc6783dcc,mentallyill.company,available,52,1,12,,,
-05c49ddd-ea9c-49bc-a147-73dd8f77d860,mention.company,available,88,12,7,,,
+05c49ddd-ea9c-49bc-a147-73dd8f77d860,mention.company,available,88,11,7,,,
 1ac58e54-e685-4134-927c-10af1d580bcd,mere.company,available,68,9,4,,,
 b3106134-ae21-445c-8eff-2a9b12776e5d,merely.company,available,60,4,6,,,
 040760ce-7301-4663-92c9-10bfe73dc9c6,merrymen.company,available,76,2,9,,,
@@ -4256,7 +4258,7 @@ a3edc1a0-bc84-4c92-8cf5-722804523585,miracle.company,resell,76,32,7,"Sav.com, LL
 fd66170f-74ca-4074-bc88-e0646f5b7097,miserable.company,available,70,4,9,,,
 4dbf1073-7d27-4950-8f79-8bd6d9110cc4,Misses.company,available,72,4,6,,,
 a7de18cf-fcbc-42fc-b8fa-9a424decf9d7,missile.company,available,70,7,7,,,
-d04ee139-89da-40af-a1be-47db26c78adc,mission.company,resell,72,36,7,"Spaceship, Inc.",08/09/2023 15:15,08/09/2026 15:15
+d04ee139-89da-40af-a1be-47db26c78adc,mission.company,resell,72,35,7,"Spaceship, Inc.",08/09/2023 15:15,08/09/2026 15:15
 10238313-5377-4262-b689-9c3511936000,mister.company,resell,72,26,6,"Sav.com, LLC - 30",30/07/2025 17:00,30/07/2026 17:00
 354d8b48-b4c2-49c1-9b55-bb115b7765ca,mitigative.company,available,66,1,10,,,
 3ab703cb-e66c-45de-be47-842c86546f88,mitigatory.company,available,66,1,10,,,
@@ -4278,7 +4280,7 @@ de862161-95dd-460f-b934-152e9182ae8e,modeller.company,available,70,4,8,,,
 a8cbde9c-fa65-4ab9-b868-d34bc03ee8b6,modelt.company,available,80,4,7,,,
 6c5af45f-60c7-4564-a6cf-b76c781a8d36,modem.company,available,102,12,5,,,
 6de823b5-8909-4253-b128-e9a16e63b790,moderately.company,available,56,2,10,,,
-f388e26f-4449-4192-98ca-65551e969f3a,moderation.company,available,70,11,10,,,
+f388e26f-4449-4192-98ca-65551e969f3a,moderation.company,available,70,10,10,,,
 a4972fdc-bc11-4deb-b583-23966d71acee,moderator.company,available,74,8,9,,,
 5aa0de54-3934-472c-a16c-2dab987e1172,modernday.company,available,70,5,10,,,
 df8ed6db-3033-437a-bbe8-417d661975fc,modernistcuisine.company,available,76,3,17,,,
@@ -4336,7 +4338,7 @@ e184b397-11e2-4086-b897-c38995f95b64,move.company,resell,109,35,4,Gandi SAS,19/0
 46c460f8-f0bd-4382-8ea2-b4bb1cab4ae5,moveinto.company,available,75,1,9,,,
 024281de-be86-448b-8d5c-67a375824116,movement.company,available,88,27,8,,,
 c1ea598e-2c8d-488a-be93-db00f4c430b7,moveover.company,available,68,2,9,,,
-8664124b-7ff5-4c62-bf51-83cf055ae352,movie.company,resell,86,29,5,"Spaceship, Inc.",27/05/2024 15:15,27/05/2026 15:15
+8664124b-7ff5-4c62-bf51-83cf055ae352,movie.company,resell,86,28,5,"Spaceship, Inc.",27/05/2024 15:15,27/05/2026 15:15
 dfd9cd7f-1eb9-4f48-9620-aab2af22b1ac,moviefilm.company,available,70,2,10,,,
 e0ee3ff0-f697-4204-bced-7a4415f013ad,msg.company,available,92,33,3,,,
 19ebbc6a-519e-444f-83b6-208d1e0f1da8,much.company,available,76,14,4,,,
@@ -4349,12 +4351,12 @@ c39a64f5-c6ab-432c-bbc6-8b5a723d1a72,muhfucka.company,available,62,1,8,,,
 2bdb0d02-98eb-456d-bd31-70a0507648d0,muhfuggah.company,available,62,1,9,,,
 6ed78538-9f24-4a0d-b976-046a3d001deb,multiple.company,available,82,10,8,,,
 3a420724-0b08-489f-b121-23366cf827a2,multiplication.company,available,,5,14,,,
-79c8d915-da97-42ea-a609-02f7a2a0484e,multitude.company,available,70,7,9,,,
+79c8d915-da97-42ea-a609-02f7a2a0484e,multitude.company,available,70,6,9,,,
 5fbe3a37-71b5-498a-ba2c-341545cd02c2,mum.company,available,76,14,3,,,
 4b3ae6ce-770a-4055-8665-0c6662e7bc49,mumbojumbo.company,available,,5,11,,,
 1969f196-9369-44c2-9e86-f4f0169262f6,munich.company,resell,66,25,6,"Sav.com, LLC",20/09/2021 17:00,20/09/2026 17:00
 fcff0896-f35f-4298-8e9f-e85166045950,mushy.company,available,54,7,5,,,
-477db96a-4f1c-419f-8a64-bf53d0e672d6,music.company,resell,84,46,5,"Sav.com, LLC",23/06/2015 10:37,23/06/2026 10:37
+477db96a-4f1c-419f-8a64-bf53d0e672d6,music.company,resell,84,44,5,"Sav.com, LLC",23/06/2015 10:37,23/06/2026 10:37
 a38c1930-e8f6-4e75-99c1-fb54b6b3847e,musiccenter.company,available,72,3,12,,,
 14a7533e-6d96-48db-8070-b9c722961e76,musiccentre.company,available,72,1,12,,,
 5bcfd84d-193e-47c6-972d-55f2ca643943,musicgame.company,available,81,3,10,,,
@@ -4367,10 +4369,10 @@ b3c20b0c-538e-4632-88ff-deb20f1fab1e,myson.company,available,80,4,6,,,
 2ccea219-e334-4c09-b820-96b4c9f1a242,name.company,available,82,27,4,,,
 0d96a1ca-b4db-43c6-b693-5c27055ecb9f,named.company,available,,9,5,,,
 045bd7b1-e276-44f5-b6f9-e6b077b2f369,namenames.company,available,,1,10,,,
-d59b7074-af08-4458-ae74-c323d0c2508b,nan.company,available,88,18,3,,,
+d59b7074-af08-4458-ae74-c323d0c2508b,nan.company,available,88,19,3,,,
 bf3fafc6-d39a-456f-aa27-e2ea5793ad82,NASAsupported.company,available,,1,14,,,
 38379663-21a1-4665-8e5a-8af12635c636,nash.company,available,74,26,4,,,
-6391906d-1b06-4467-aab7-746da3f50f7e,nashville.company,resell,86,23,9,"GoDaddy.com, LLC",19/10/2017 11:56,19/10/2026 11:56
+6391906d-1b06-4467-aab7-746da3f50f7e,nashville.company,resell,86,22,9,"GoDaddy.com, LLC",19/10/2017 11:56,19/10/2026 11:56
 8e5e9042-d2e9-4670-9450-0d5d956eb26b,nassau.company,available,84,8,6,,,
 d8c411e9-b2d9-442d-b49c-464883b6217d,nates.company,available,42,9,5,,,
 3b135246-5067-4eb1-809c-50a01ed981e1,national.company,resell,78,19,8,"GoDaddy.com, LLC",08/12/2016 09:25,08/12/2026 09:25
@@ -4545,7 +4547,7 @@ c88b81ab-4829-490c-b02f-318afe0f9d06,offspring.company,available,74,5,9,,,
 6d342909-259a-42af-b703-dee21736ced3,oflate.company,available,62,1,7,,,
 16d67b6c-aafe-4e78-b9b4-fe70afdfb641,often.company,available,86,9,5,,,
 46e2cf53-d7c4-444f-b642-2393e3594763,ogdoad.company,available,50,2,6,,,
-7bf0719e-e68d-4f7f-b919-fcfe57167591,ohio.company,available,70,24,4,,,
+7bf0719e-e68d-4f7f-b919-fcfe57167591,ohio.company,available,70,22,4,,,
 283ee4c2-9462-4fbf-b09b-79a26715abfb,ohmyfuck.company,available,64,1,10,,,
 e57fb33a-2463-4990-8252-658ba31ea052,ohmyGod.company,available,80,8,9,,,
 ec023324-5339-4b56-b661-570dde5233cf,ohmygosh.company,available,78,5,8,,,
@@ -4617,7 +4619,7 @@ d1d36a3f-fc7d-4000-aef1-9623ebfb7082,option.company,resell,104,15,6,"GoDaddy.com
 b8f3e598-7516-4a69-997e-7fd4d75e2d9f,orangenotice.company,available,64,1,13,,,
 fc420cf3-db50-4fde-865d-424a29271869,orangutan.company,available,70,9,9,,,
 665f6743-9a78-47df-b301-9ee7e3956945,orbicular.company,available,47,2,9,,,
-1669400f-dda8-4665-bd38-1d8fb3b3e7f7,orca.company,resell,76,41,4,"NameCheap, Inc.",16/03/2019 15:17,16/03/2026 15:17
+1669400f-dda8-4665-bd38-1d8fb3b3e7f7,orca.company,resell,76,40,4,"NameCheap, Inc.",16/03/2019 15:17,16/03/2026 15:17
 b21ff895-df93-463b-be2c-6cb2b55e5684,ordered.company,available,72,5,7,,,
 9eec9099-6a3b-4b92-b448-623415afdb01,ordinarily.company,available,62,1,10,,,
 1716497a-0cb9-45f1-a42b-0ed74570d857,oreo.company,available,78,10,4,,,
@@ -4645,7 +4647,7 @@ b3fd0cc9-663f-4717-a3a4-aeafb3315488,outandabout.company,available,,8,13,,,
 f14f9e7e-11db-4509-97ba-4666bb30571c,outdated.company,available,58,5,8,,,
 55af11eb-edcd-4cd6-8554-de2d600490f8,outdoors.company,resell,88,13,8,"Sav.com, LLC - 23",18/06/2025 15:15,18/06/2026 15:15
 36ffac26-bd01-488b-80ce-de8b4519d8c1,outer.company,available,88,12,5,,,
-38fdceef-9bed-41fe-b59e-3e5f2febc876,outing.company,available,77,5,6,,,
+38fdceef-9bed-41fe-b59e-3e5f2febc876,outing.company,available,77,6,6,,,
 a60d5a22-83bd-4c3e-87f5-352e7f8979da,outlander.company,available,56,8,9,,,
 a343d445-3f2a-41fb-ba4d-8327944d3d6a,outlet.company,available,70,16,6,,,
 fdbd9a06-42d4-4625-8f80-37527d0fccde,outlook.company,available,95,20,7,,,
@@ -4686,12 +4688,12 @@ fba53c2c-f8a8-423b-b50f-6d2f9af41b28,pancreas.company,available,60,6,8,,,
 a096d244-7fb7-45d5-b2a5-c3548f1d26ab,panda.company,resell,88,37,5,"Name.com, Inc.",01/10/2016 08:14,01/10/2027 08:14
 424612dc-dc5e-476a-b0a2-21186551fd0a,pandabear.company,available,80,3,10,,,
 3563ef42-051e-480c-998c-0244e393bae9,pandora.company,resell,78,34,7,"Chengdu West Dimension Digital Technology Co., Ltd.",24/02/2022 13:15,24/02/2026 13:15
-0e118f74-29d6-4cbb-93a9-e1356ef1ee32,panel.company,resell,90,26,5,Porkbun LLC,30/11/2021 19:31,30/11/2026 19:31
+0e118f74-29d6-4cbb-93a9-e1356ef1ee32,panel.company,resell,90,25,5,Porkbun LLC,30/11/2021 19:31,30/11/2026 19:31
 e2841751-325b-4838-9092-901f39068ae1,Panes.company,available,68,3,5,,,
 fab299c8-27e7-4b69-8c98-a00d15e672eb,panoplied.company,available,50,1,9,,,
 5e16b9b5-aa95-4824-981e-a31e72b0335e,panoptic.company,available,46,13,8,,,
 706be804-e821-461b-9837-3ff19b3d599b,panoramic.company,available,88,10,9,,,
-4a4a2946-7a5b-477e-b818-6a85cc31adcf,panther.company,resell,62,19,7,"Sav.com, LLC - 48",05/12/2024 17:00,05/12/2026 17:00
+4a4a2946-7a5b-477e-b818-6a85cc31adcf,panther.company,resell,62,18,7,"Sav.com, LLC - 48",05/12/2024 17:00,05/12/2026 17:00
 201003b5-b305-4b04-aca1-476d79eb049c,papal.company,available,52,3,5,,,
 27162d8d-6685-4d5f-b7f5-00bfca688ce2,paperback.company,available,104,5,9,,,
 00a89a75-1eb1-48c1-9225-269a7ec4bf56,paperplate.company,available,70,2,11,,,
@@ -4780,7 +4782,7 @@ b2a03a10-a6c2-46a2-a69f-ad97f0040375,philanthropic.company,available,76,6,13,,,
 ee60640a-e597-4b9c-af4e-ec44a04b922d,Philips.company,available,70,21,7,,,
 5520ea10-f834-4396-88ee-10eb5e75c381,philistine.company,available,56,3,10,,,
 ac58cd1a-114d-4732-a105-fed7c97106f4,Philly.company,available,72,17,6,,,
-8d9552fc-37fe-4dc7-8f7f-b81d4879bcfb,phone.company,resell,102,34,5,"Name.com, Inc.",22/08/2017 14:07,22/08/2030 14:07
+8d9552fc-37fe-4dc7-8f7f-b81d4879bcfb,phone.company,resell,102,33,5,"Name.com, Inc.",22/08/2017 14:07,22/08/2030 14:07
 21f0bc23-02f1-4429-bca9-aed25a043b95,phonecall.company,available,72,5,10,,,
 d368e46f-2f11-4d30-8792-c6796f218fee,phonesurvey.company,available,66,1,12,,,
 a43c00a5-a808-45be-b53c-a4b88d3eac6d,phoney.company,available,79,3,6,,,
@@ -4830,6 +4832,7 @@ d2c90005-8b36-4c1b-ba95-af7f3d793321,planetarium.company,available,,9,11,,,
 62195a79-26c9-4213-b738-b9e38b7e56bd,plantcommunity.company,available,70,2,15,,,
 a9dc3aa7-cc04-4117-be3d-1706c6014f53,planted.company,available,68,9,7,,,
 a231cbc2-28fa-4659-8bf8-1c088b3d7d3f,plasticsurgeon.company,available,76,7,15,,,
+464aa14c-8023-4428-a89d-ff5523a207b9,platform.company,available,92,43,8,,,
 651ded02-914a-448b-ad05-20dc220ad9e6,platter.company,available,68,7,7,,,
 05a1c3fd-3bac-4785-9a47-37edb82524a1,plausive.company,available,46,1,8,,,
 e7655b05-08f2-4ef6-aa39-e94b86ef4d5b,playabout.company,available,,2,10,,,
@@ -4861,7 +4864,7 @@ d13215a6-aed2-4bc6-8fb3-2f3eb7e2305f,pointout.company,available,,3,9,,,
 cff7067a-1eaa-410a-aaf4-90d93cf97281,pointy.company,available,84,7,6,,,
 dfe6b5ae-6bfc-4873-9894-ad2da6041f6e,poisoning.company,available,56,1,9,,,
 3a795d14-2c9c-4243-aa63-d5eb85550c52,pokeabout.company,available,,1,10,,,
-827e6ede-bedd-4372-a979-d70b3c671209,poker.company,resell,100,36,5,"GoDaddy.com, LLC",25/06/2015 18:39,25/06/2026 18:39
+827e6ede-bedd-4372-a979-d70b3c671209,poker.company,resell,100,35,5,"GoDaddy.com, LLC",25/06/2015 18:39,25/06/2026 18:39
 21135f43-9230-4eb7-9701-db70b8918375,police.company,available,96,20,6,,,
 0da82266-603f-49ea-9ae7-1df9e3d11a03,policeofficer.company,available,70,3,14,,,
 ac77dc55-9cd2-4371-b251-dbc439643129,policy.company,available,98,24,6,,,
@@ -4869,13 +4872,13 @@ ac77dc55-9cd2-4371-b251-dbc439643129,policy.company,available,98,24,6,,,
 5ff65d6c-37b0-4f7d-a10c-9995eb121274,politely.company,available,64,2,8,,,
 2039be6c-b3e2-4a25-be14-ec589505ed8f,political.company,available,80,18,9,,,
 8262f78e-b49c-427e-aa27-824c190d2f85,politicalparty.company,available,66,5,15,,,
-f00d2938-dc8c-47a1-9c6d-42403f7b55c8,poll.company,available,80,20,4,,,
+f00d2938-dc8c-47a1-9c6d-42403f7b55c8,poll.company,available,80,19,4,,,
 3e576314-62e0-492d-9988-48312ba6f883,pollen.company,available,78,18,6,,,
 a5c4a973-fa1a-47d3-bce0-cb92af6e7eb6,polo.company,available,76,14,4,,,
 a878a05d-3b06-4fce-be1c-23d780a13fa9,polonecksweater.company,available,73,1,17,,,
 14a22b6a-ca36-43c6-aeb9-daf9ca56995b,polyester.company,available,86,8,9,,,
 66aa9abb-ec59-4887-8f6c-7813c8b0e10d,pontifical.company,available,62,1,10,,,
-f8d98c6d-36c3-45df-af5b-75964c3ad8d8,pool.company,resell,66,35,4,"GoDaddy.com, LLC",26/06/2015 20:09,26/06/2026 20:09
+f8d98c6d-36c3-45df-af5b-75964c3ad8d8,pool.company,resell,66,33,4,"GoDaddy.com, LLC",26/06/2015 20:09,26/06/2026 20:09
 a6f11bfb-f51e-47f6-b354-18f121cd947d,poolside.company,available,94,13,8,,,
 1872e7fb-a3db-47ae-b9b8-5a04a46305d3,poor.company,available,54,12,4,,,
 6f2a541e-7781-49e1-b62e-1ce7ef5cedf4,poorly.company,available,66,2,6,,,
@@ -5025,13 +5028,13 @@ bc9d2772-6c0b-4575-bd49-14f5d1be2750,publicservant.company,available,72,2,14,,,
 b05e57fa-3a82-44d1-8e79-f4c21bc5f5f0,PubMed.company,available,72,6,6,,,
 f9b73a66-a29e-4585-afa3-ecb8ad76dab0,pubquiz.company,available,,6,8,,,
 3c392a0f-ade0-4a2c-8ee4-42834285f421,PuertoRico.company,available,,5,11,,,
-625999cb-937f-41c0-a22c-3e517bf4818d,pull.company,available,104,17,4,,,
+625999cb-937f-41c0-a22c-3e517bf4818d,pull.company,available,104,16,4,,,
 5bc06e19-9b15-4f40-94ed-041d86221a74,punchabove.company,available,,2,11,,,
 bc8f83ea-b831-4ee7-aa99-87d083f12605,pungent.company,available,62,1,7,,,
 493dccc2-f518-4c9b-9789-1d8cfabfea8f,punishing.company,available,68,1,9,,,
 eaeca84a-7ffe-4671-b05a-f5fa7fffef4a,punter.company,available,64,7,6,,,
 5eefdb36-3ed6-4efb-8985-4bc730091eec,pup.company,available,78,20,3,,,
-92dfbfbd-ca9b-4291-b018-7c7d49fe654b,purchase.company,resell,68,18,8,"GoDaddy.com, LLC",18/05/2023 15:24,18/05/2027 15:24
+92dfbfbd-ca9b-4291-b018-7c7d49fe654b,purchase.company,resell,68,17,8,"GoDaddy.com, LLC",18/05/2023 15:24,18/05/2027 15:24
 80b22fb0-a74f-4825-b3ed-dc06092601e3,purchaseorder.company,available,70,3,14,,,
 794ad08b-0c9b-4927-93aa-7cf3e9624c17,purgative.company,available,54,1,9,,,
 f94bc647-dce2-4dc2-89ae-e1fad87180da,purple.company,resell,62,34,6,Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn),17/01/2022 13:15,17/01/2026 13:15
@@ -5090,7 +5093,7 @@ aada916a-ce21-48ad-96ef-72cfbd46d3d8,quiz.company,resell,100,33,4,Squarespace Do
 48ead1a8-825d-4d8e-b9a5-181adf86041e,race.company,resell,78,22,4,"Xiamen ChinaSource Internet Service Co., Ltd",19/06/2025 15:15,19/06/2026 15:15
 8075e4b9-af7a-4861-a91f-7e662821c464,racingline.company,available,76,4,11,,,
 1b42d492-c15b-48f2-8970-3018aebf5b98,racist.company,available,58,8,6,,,
-d524ab80-ff2b-4830-bfde-5d0a98a020e9,rail.company,resell,92,26,4,"Name.com, Inc.",19/03/2014 17:35,19/03/2027 17:35
+d524ab80-ff2b-4830-bfde-5d0a98a020e9,rail.company,resell,92,25,4,"Name.com, Inc.",19/03/2014 17:35,19/03/2027 17:35
 33eb384e-ba4b-4dee-806d-2167dbdab5ec,rainbow.company,resell,82,41,7,Unstoppable Domains Inc,14/04/2014 03:25,14/04/2027 03:25
 55832e37-356e-4fb7-bf74-248b293d0d53,raisehell.company,available,,1,10,,,
 13c799e7-2804-47e6-a9b3-39fcd94b8a70,rake.company,available,60,10,4,,,
@@ -5180,7 +5183,7 @@ e8f48901-98ae-49ca-843c-754a957b3d0f,relating.company,available,68,4,8,,,
 faf49488-94fa-40c6-8d83-96dfb3c85fcc,releaseversion.company,available,74,1,15,,,
 bcbe98d9-8225-4d1d-9267-bf3fedd2a77d,relieved.company,available,66,3,8,,,
 dd423151-ccc5-4fd3-9128-5f2861d939ee,religion.company,available,92,15,8,,,
-c5801cea-9581-4c52-940f-4d658e976663,relish.company,available,104,12,6,,,
+c5801cea-9581-4c52-940f-4d658e976663,relish.company,available,104,11,6,,,
 24a121a3-b3dd-423f-88da-837bbe65e2c1,remedial.company,available,86,6,8,,,
 5b9ecb92-1d09-43df-93ad-af3aaedfd6e8,Remington.company,available,86,11,9,,,
 c9a89453-2c53-4782-ab3b-d460197da87d,removal.company,resell,68,7,7,GoDaddy Online Services Cayman Islands Ltd.,21/06/2015 21:27,21/06/2026 21:27
@@ -5236,7 +5239,7 @@ e544cf9c-bb14-4a5d-a53e-04496541ce8a,reticent.company,available,61,3,8,,,
 87e5bd9c-c9c8-492a-a3f5-bd9ed28d94ce,retired.company,available,76,9,7,,,
 e631e496-d009-45c4-acc2-81e2c2335511,retiring.company,available,73,4,8,,,
 cd7d5c04-d1a7-449d-aef0-826398a7496b,retracted.company,available,57,2,9,,,
-38395505-691f-480d-bf09-1fbb07dd1d83,retreat.company,available,94,24,7,,,
+38395505-691f-480d-bf09-1fbb07dd1d83,retreat.company,available,94,23,7,,,
 fe6a7f22-fb9e-4bef-8f52-79b0ca8234c3,retrieve.company,available,92,5,8,,,
 d66bb277-343b-43f6-87f9-0341fbbe6c35,retro.company,resell,94,33,5,Porkbun LLC,12/01/2024 18:32,12/01/2027 18:32
 c0704c73-d6e7-4363-9e81-c3eaaa2e6cae,returned.company,available,68,3,8,,,
@@ -5248,7 +5251,7 @@ fbf472f7-cb6a-4479-8b72-9a66142bc6a2,revelatory.company,available,62,2,10,,,
 c825c709-0471-4ce0-8285-a19457cba89b,revered.company,available,77,4,7,,,
 5dade585-84ff-49c2-8996-bbf4e3d22c97,reversed.company,available,63,6,8,,,
 16f1161a-2009-4ea2-a254-8ac7e268f3dc,revised.company,available,69,3,7,,,
-a918f2d9-412e-4b59-8f31-c9c2d222b12d,revolution.company,resell,64,28,10,"Xiamen ChinaSource Internet Service Co., Ltd",15/07/2025 15:15,15/07/2026 15:15
+a918f2d9-412e-4b59-8f31-c9c2d222b12d,revolution.company,resell,64,27,10,"Xiamen ChinaSource Internet Service Co., Ltd",15/07/2025 15:15,15/07/2026 15:15
 71831a7a-7c29-4220-aadb-e799ac83f7ae,revolved.company,available,61,2,8,,,
 b6116b73-cbff-4e4d-a64b-c09a5d3d30ea,rheumatic.company,available,68,2,9,,,
 2bc50987-ca77-4456-964a-054176fd2169,rheumatoid.company,available,68,3,10,,,
@@ -5258,6 +5261,7 @@ ac1be6d1-21d5-448b-90c0-51a3163bd8c2,rheumy.company,available,54,1,6,,,
 f645ef37-4e54-4102-92e2-cda0aa9a8198,Rhoda.company,available,69,4,5,,,
 6651915f-8f0a-445c-9ef7-9d14fd13d8de,rhythmic.company,available,68,6,8,,,
 9e30c8a7-0fa1-4d8e-a513-6f7722751969,ribald.company,available,64,1,6,,,
+6cdf3144-c4c7-47a0-8c57-874139d17128,rice.company,resell,74,24,4,"Xiamen ChinaSource Internet Service Co., Ltd",15/11/2024 17:00,15/11/2026 17:00
 0abc5a15-b932-4c78-b298-596e40728a5e,rich.company,resell,72,27,4,"Spaceship, Inc.",16/08/2021 08:17,16/08/2026 08:17
 5b8630a6-2a76-4e4b-a4e1-4fcba60b8fa1,richmond.company,available,66,22,8,,,
 a83919dd-49b5-45fb-9164-f7ec02fa2abd,rid.company,available,78,11,3,,,
@@ -5336,7 +5340,7 @@ e576642c-3201-4ede-a31f-5f6ebc8d4584,sadness.company,available,64,6,7,,,
 f42875b0-1f2d-48d3-9be8-020eafb33e99,safety.company,resell,100,33,6,"Spaceship, Inc.",27/06/2015 00:42,27/06/2026 00:42
 8d0a5242-2a55-4b7f-830a-d586d2e3e547,sagittate.company,available,43,1,9,,,
 8a9db587-86fc-4307-934b-6f270ea0a95c,said.company,available,70,13,4,,,
-738f452a-3cd6-4695-9b8f-37712ad0be15,sail.company,resell,72,27,4,Dynadot Inc,13/11/2022 01:49,13/11/2026 01:49
+738f452a-3cd6-4695-9b8f-37712ad0be15,sail.company,resell,72,26,4,Dynadot Inc,13/11/2022 01:49,13/11/2026 01:49
 dd657acb-ba01-4eb5-9722-505e05dbcda0,saint.company,resell,80,21,5,"Chengdu West Dimension Digital Technology Co., Ltd.",03/02/2022 13:15,03/02/2034 13:15
 92e08de1-6ec6-47bb-94e7-fa858a4b8e71,sainted.company,available,70,5,7,,,
 1a6b9e49-b0b9-400a-829e-df8ae8988569,saintlike.company,available,66,2,9,,,
@@ -5397,7 +5401,6 @@ b437abf9-f972-4ef6-8b38-6f51203a3ea7,scratchy.company,available,54,3,8,,,
 605bdcc5-1df1-4de3-a3e5-f71a3dba45b0,scream.company,available,92,8,6,,,
 cfea8bfa-a19e-4daa-b51c-03cb866f79b2,screen.company,resell,72,26,6,"NameSilo, LLC",29/08/2017 18:39,29/08/2026 18:39
 8d701bdf-7eaa-47c7-a759-edca22bb417f,screwabout.company,available,,1,11,,,
-6acff0fc-2f23-4d13-bdc0-da456eb54854,script.company,resell,92,26,6,Porkbun LLC,30/11/2021 19:31,30/11/2026 19:31
 8e314a6b-adf3-4dd4-9b0a-836318c96cd8,scripted.company,available,60,8,8,,,
 68fc0f12-c867-4315-ad2b-76ee14be3094,scrub.company,available,104,12,5,,,
 3228252a-3e06-4ea2-a16b-9a3ab56c4e03,scrubbed.company,available,60,3,8,,,
@@ -5422,7 +5425,7 @@ b35972b9-466a-428d-8a61-bc0e09cfd5ac,seasick.company,available,52,3,7,,,
 873f5750-684d-4088-8081-24ae2ef4adb2,secondary.company,available,78,12,9,,,
 3edf0c6b-c3e3-4d9f-ab16-77c18b4034d5,secondguess.company,available,60,2,12,,,
 0a032e25-f4c3-4f70-ba0a-309ac4fc9160,secondly.company,available,54,3,8,,,
-825f3cef-0651-44fc-8ea4-bc5ce01b5b14,section.company,available,94,10,7,,,
+825f3cef-0651-44fc-8ea4-bc5ce01b5b14,section.company,available,94,9,7,,,
 c7b2dc2b-be52-4e09-8bfe-30e2ef226433,security.company,resell,70,44,8,"GoDaddy.com, LLC",21/06/2015 16:00,21/06/2026 16:00
 0dc024cd-ab00-4dcd-8df9-46ecae1dc0a6,sedative.company,available,76,1,8,,,
 7f6f8bc9-6c07-4778-ade6-c5d66b323b80,sedulous.company,available,50,3,8,,,
@@ -5445,7 +5448,7 @@ a0c79529-bb7a-42c2-a176-9a97cad4d2f9,selfless.company,available,70,9,8,,,
 b8a3f5e1-ba6f-43b6-975b-461f69acce22,selfworth.company,available,78,4,10,,,
 cbca4b6c-643e-4e4e-87e6-0980e40f1970,sell.company,resell,70,34,4,"Sav.com, LLC",11/09/2022 16:19,11/09/2026 16:19
 ac5aa8b8-d361-4369-9114-1102688a6565,sellbydate.company,available,64,2,12,,,
-1803e21b-92dc-4a96-ba78-b93ce326365b,send.company,resell,80,35,4,Dynadot Inc,25/04/2021 09:52,25/04/2026 09:52
+1803e21b-92dc-4a96-ba78-b93ce326365b,send.company,resell,80,34,4,Dynadot Inc,25/04/2021 09:52,25/04/2026 09:52
 0da867f3-e35b-427e-a9cd-ec7bd8eb83f6,senescent.company,available,52,3,9,,,
 6ea244da-6b90-4067-8e2b-02a7555c0c65,sensation.company,available,74,6,9,,,
 f60af32d-1254-44c2-a7d2-363ba4f2b961,sensational.company,resell,74,10,11,Super Registry Ltd,29/03/2014 06:22,29/03/2026 06:22
@@ -5497,7 +5500,7 @@ b393b5a6-9666-425e-82f7-643ebcf6010b,shaking.company,available,66,3,7,,,
 6092ed15-7a6e-4d40-a312-20d11d50c52c,shallow.company,available,54,5,7,,,
 369085a3-3cd4-45e8-afa6-f014acd55e8e,shape.company,available,102,27,5,,,
 a5785d60-d5b4-46e3-89ca-aa4db610da88,shapeless.company,available,50,6,9,,,
-7e1e1f47-52ae-42ec-b355-314524bae46d,share.company,available,72,47,5,,,
+7e1e1f47-52ae-42ec-b355-314524bae46d,share.company,available,72,46,5,,,
 bddc966b-064a-462c-be13-e09894858e1c,sharing.company,available,76,21,7,,,
 14565ebd-fe4e-4f3a-b09f-5bc082f49a74,sharpeyed.company,available,46,1,10,,,
 75888f54-79ca-4a96-b584-b963fd40c022,sharply.company,available,58,3,7,,,
@@ -5530,7 +5533,7 @@ fbecfb99-1342-490d-a8ce-aa4cd0b6db7c,shopworn.company,available,38,2,8,,,
 6b60a3aa-9546-4f51-980b-b129815411c8,short.company,resell,76,27,5,"Sav.com, LLC - 46",09/12/2024 17:00,09/12/2026 17:00
 b2098085-591c-4f27-8e7e-3c49b122b94c,shortfall.company,available,66,2,9,,,
 3657281b-0092-4275-b9b3-a069f4fad4b1,shortly.company,available,67,8,7,,,
-174c9e32-7cd6-4d01-91ef-b82bfdad86df,shorts.company,available,74,20,6,,,
+174c9e32-7cd6-4d01-91ef-b82bfdad86df,shorts.company,available,74,19,6,,,
 3febed1e-2a7d-4283-9a90-797ac3289b44,shot.company,resell,116,17,4,"DNSPod, Inc.",29/05/2024 17:00,29/05/2026 17:00
 9bacba46-30d2-4768-961e-9cad2bdca03f,shoulderblade.company,available,66,1,14,,,
 31f407f8-7bbf-477d-af16-37870273edd6,shouted.company,available,66,2,7,,,
@@ -5562,15 +5565,15 @@ edfcdfea-2ef1-4bd8-b29f-841d49f7453c,signin.company,available,74,15,7,,,
 307e4f61-0d92-4cc5-9b8d-1f7afa7a9c4b,silvery.company,available,60,5,7,,,
 58b983b5-e4f7-456d-9977-01cc52686216,similarly.company,available,56,2,9,,,
 41e84374-1980-47b5-b5bf-5438827807b4,simpler.company,available,66,15,7,,,
-4ba4a397-32d2-4eb9-a9a7-f48d803bf8ca,simplicity.company,resell,80,21,10,"GoDaddy.com, LLC",03/05/2022 14:32,03/05/2026 14:32
+4ba4a397-32d2-4eb9-a9a7-f48d803bf8ca,simplicity.company,resell,80,20,10,"GoDaddy.com, LLC",03/05/2022 14:32,03/05/2026 14:32
 df31484c-0a43-456a-94c8-ab31b95fdbf1,simplify.company,resell,74,34,8,"Sav.com, LLC - 39",28/02/2025 15:15,28/02/2026 15:15
 8df95f58-e5a4-40c8-9a10-6d76868c6ac3,simply.company,resell,68,36,6,"Sav.com, LLC - 2",07/03/2025 15:15,07/03/2026 15:15
-a42fa60d-5b01-451f-965c-fbbb8217a136,simpson.company,available,76,18,7,,,
+a42fa60d-5b01-451f-965c-fbbb8217a136,simpson.company,available,76,17,7,,,
 07eefc82-9488-4ff7-82e7-be7eb5f002a5,simultaneously.company,available,,1,14,,,
 18a4813e-64e7-4087-9614-2ad90aef5bbd,since.company,available,74,10,5,,,
 d5fa59a2-0d4c-4a13-a7e9-07bb3fcd22c0,sincere.company,available,72,17,7,,,
 104e0f8b-73a0-4e67-9a9c-1061dee50c9f,sincerely.company,resell,66,9,9,"Sav.com, LLC",06/11/2025 16:49,06/11/2026 16:49
-83c51b80-de41-4929-9597-1915220196f1,singapore.company,available,76,5,9,,,
+83c51b80-de41-4929-9597-1915220196f1,singapore.company,available,76,6,9,,,
 a6af8d7f-19f5-4e78-a25c-6e0874f7de15,sink.company,available,56,11,4,,,
 a461c064-4c9d-4667-8ef7-2f62486f6e14,sinners.company,available,,8,7,,,
 640d4c4d-5175-488b-9a9c-d75f0fd48fc9,Siri.company,available,76,16,4,,,
@@ -5606,7 +5609,7 @@ e88410ef-2a89-4005-97ec-76c88246488d,slacking.company,available,58,2,8,,,
 b7c24054-c165-43f1-acb9-728c340ddd91,slanted.company,available,48,5,7,,,
 a2ae5956-4185-4bc8-a130-1b910f4af008,slanting.company,available,62,2,8,,,
 7424640c-f8ca-482e-8639-c16ade3ce569,slapup.company,available,58,1,7,,,
-0df9b993-ae1f-4bd1-aec4-cda43ba2b7e7,slave.company,available,66,19,5,,,
+0df9b993-ae1f-4bd1-aec4-cda43ba2b7e7,slave.company,available,66,20,5,,,
 d0be4375-d2b3-427b-be45-8ea5e7ccc37c,sliced.company,available,74,7,6,,,
 0fb871c5-063b-459f-b74d-f74c34865d40,slick.company,available,66,15,5,,,
 59c32cf0-f7e5-4adc-9dde-d2cdf7e4a0cb,slide.company,available,90,27,5,,,
@@ -5769,7 +5772,7 @@ a5e2eacc-ed85-47d2-a827-ffdafdec0a55,start.company,resell,92,36,5,"Spaceship, In
 551283dd-b4d3-4872-a14f-eaa51711f1fd,starting.company,available,64,9,8,,,
 9153967c-0cd8-4580-bc59-cc0fe05e49e5,startup.company,resell,82,46,7,"Sav.com, LLC - 22",11/09/2023 15:15,11/09/2026 15:15
 2a484d3a-76dd-469f-9b03-8e3d15039805,stat.company,available,110,30,4,,,
-530ce17c-331e-474b-97eb-b9031428fc7a,state.company,available,90,18,5,,,
+530ce17c-331e-474b-97eb-b9031428fc7a,state.company,available,90,17,5,,,
 ece27caf-9e14-46de-832f-7e89f3298915,statement.company,available,98,16,9,,,
 6f4fc03c-967f-4a5d-aad5-4fefa84ccc9d,stateoftheart.company,available,96,7,16,,,
 8401ea94-d29c-43e1-85f9-fcdc4a617cdf,stating.company,available,72,3,7,,,
@@ -5779,7 +5782,7 @@ c5787afd-6d56-470c-9be7-dca70c68a23c,statutoryrape.company,available,,1,14,,,
 ef78054f-7751-4250-b128-91b583db52d2,StCharles.company,available,66,5,11,,,
 4397da07-1704-47dc-aa84-bb91649f1ec6,StClair.company,available,64,7,9,,,
 d126820e-95c2-4471-b7ae-c55c9a17da6f,steak.company,resell,102,15,5,"Spaceship, Inc.",20/10/2022 13:15,20/10/2026 13:15
-93950f24-837c-49e6-a16a-f0662416b8dc,steal.company,available,80,12,5,,,
+93950f24-837c-49e6-a16a-f0662416b8dc,steal.company,available,80,11,5,,,
 0a9ad0ba-1b0d-49ba-a0f4-8aaf5d2fd058,stealaway.company,available,,1,10,,,
 8077c1a0-1626-40bd-9c0c-b1a9dd6a32b1,steamed.company,available,49,3,7,,,
 1d7f1955-63fe-4cbf-8bed-116e7b826098,steamengine.company,available,74,5,12,,,
@@ -5835,7 +5838,7 @@ d6c7723c-1bae-464d-b511-1bda255989b0,strongly.company,available,64,3,8,,,
 3e8b917f-4d1b-4bea-a823-a5f4c086eecc,StStephen.company,available,66,2,10,,,
 0e419648-57de-449a-9c51-223526e2c2fd,stubborn.company,available,76,6,8,,,
 41399efe-3262-4802-bfcc-a48b81583772,stuck.company,available,52,10,5,,,
-0e46a8f9-4bd5-4de4-b9f9-11c5397c4057,student.company,resell,78,32,7,"Chengdu West Dimension Digital Technology Co., Ltd.",21/12/2023 15:15,21/12/2033 15:15
+0e46a8f9-4bd5-4de4-b9f9-11c5397c4057,student.company,resell,78,31,7,"Chengdu West Dimension Digital Technology Co., Ltd.",21/12/2023 15:15,21/12/2033 15:15
 fe738beb-778f-4c8b-b541-edfa086a5db5,studentloan.company,available,66,9,12,,,
 97d71f3e-6868-476e-9fcd-f12edbc9e77a,studyabroad.company,available,,13,12,,,
 b66ffa30-e60b-4a9e-9a5f-4e5b86ca4dca,stuffy.company,available,74,5,6,,,
@@ -5864,7 +5867,7 @@ b26d1c2a-5c43-4290-a061-b6851189de07,sudden.company,available,90,8,6,,,
 377f48a4-8030-42bc-82f8-f54b71c0aa5b,suffer.company,available,68,7,6,,,
 7db1d46e-fcc5-4812-9b34-6b2de48c71a4,sufferable.company,available,48,1,10,,,
 b5be2a3b-b708-45ac-b498-3b5435d1c229,sufficient.company,available,70,5,10,,,
-e0195d4b-fd30-4266-a5a6-40d913c64ab8,sugar.company,resell,70,32,5,Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn),04/06/2020 09:05,04/06/2026 09:05
+e0195d4b-fd30-4266-a5a6-40d913c64ab8,sugar.company,resell,70,31,5,Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn),04/06/2020 09:05,04/06/2026 09:05
 be15a1a8-bee6-4a67-8968-12405a597aa0,suggest.company,available,86,9,7,,,
 43bbdb92-ee52-4c19-b472-305958473d65,suit.company,resell,72,11,4,Hosting Concepts B.V. d/b/a Registrar.eu,19/03/2014 16:00,19/03/2026 16:00
 e67b6db4-ab62-4a15-8716-515669a36156,sulfurous.company,available,46,1,9,,,
@@ -5873,7 +5876,7 @@ e67b6db4-ab62-4a15-8716-515669a36156,sulfurous.company,available,46,1,9,,,
 a13c0eea-7a22-4b9b-9c99-bfc7196179ec,sumbuddy.company,available,58,2,8,,,
 27124587-34d4-45b2-a53c-396157db6841,summary.company,available,71,13,7,,,
 5f70f1a0-fd3b-4490-9c1d-be9aea0cc424,summertire.company,available,76,1,11,,,
-8eb084f6-afae-4211-bd49-98427839ca30,sun.company,resell,78,40,3,Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn),31/10/2019 09:53,31/10/2026 09:53
+8eb084f6-afae-4211-bd49-98427839ca30,sun.company,resell,78,39,3,Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn),31/10/2019 09:53,31/10/2026 09:53
 62aec5f3-c34d-4135-bdf6-c3b466f70152,sunbaked.company,available,50,5,8,,,
 45b07310-7002-407c-95db-c0d6bcd6eebb,sunbeam.company,available,78,12,7,,,
 e6e16324-9c4d-491b-97fd-ec2747adcbea,sunbelt.company,available,78,6,7,,,
@@ -5893,13 +5896,13 @@ da817d57-1d5b-4f14-904b-a17fe30ad3d3,supermarket.company,available,78,16,11,,,
 fb2d994f-cd04-41e4-a48d-41069064f77b,superstar.company,available,80,17,9,,,
 8c41b5e2-d674-4129-85f1-e03605d38996,superuser.company,available,72,11,9,,,
 1475b7c5-d44d-49a5-b1b2-ed9173eef39a,supervise.company,available,74,5,9,,,
-c5c6b388-1c23-43f1-ab7a-a28cb74fd342,supervisor.company,available,68,11,10,,,
+c5c6b388-1c23-43f1-ab7a-a28cb74fd342,supervisor.company,available,68,10,10,,,
 41dacb76-01eb-4e14-a64e-7262aa9ce8ee,supper.company,available,98,10,6,,,
 9021188b-0c0d-4b3a-a11e-e442931c57b8,supplies.company,premium,,12,8,,,
 61cc695f-7893-4115-b3fe-ab7051ac37c1,support.company,resell,112,37,7,"Name.com, Inc.",09/09/2017 23:19,09/09/2027 23:19
 de1d8262-ec57-4c2f-8550-d79830143886,supported.company,available,70,6,9,,,
 2ab53dc3-195d-4fd9-ba79-40afa58249dd,supporting.company,available,88,5,10,,,
-fd962df5-dd9c-4fbf-b95f-3394c634098e,suppose.company,available,82,4,7,,,
+fd962df5-dd9c-4fbf-b95f-3394c634098e,suppose.company,available,82,3,7,,,
 cb61e004-b7cf-48ee-82c0-eb031c1a487f,supposedly.company,available,56,1,10,,,
 02d143c8-bf87-4ed3-b9e4-40d5e06bba10,supra.company,resell,74,25,5,"Sav.com, LLC - 17",13/08/2024 17:00,13/08/2026 17:00
 67b1edfd-a5e0-4854-a444-6f8944ebf0fc,sure.company,resell,110,20,4,Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn),22/01/2021 07:35,22/01/2026 07:35
@@ -5925,7 +5928,7 @@ c1342686-4dad-4f53-95d1-36cdd3d1e869,surprisingly.company,available,60,3,12,,,
 84c832f8-b3ae-47d5-9b12-8d5cf0dbbef8,suspend.company,available,70,4,7,,,
 bdb7ad11-c108-4ac3-996a-0ac1cf04d783,suspense.company,available,88,5,8,,,
 e9fa543b-74dd-42f9-be74-a38ee196dbca,suv.company,available,82,14,3,,,
-2af828ed-e89f-44f6-8463-258b609380fc,swallow.company,available,66,11,7,,,
+2af828ed-e89f-44f6-8463-258b609380fc,swallow.company,available,66,12,7,,,
 41e6042c-1d07-47f9-8e6d-74c76460119a,swastika.company,available,54,4,8,,,
 fbd74778-a05e-47fa-9f19-628d1b5a2b5b,sweat.company,resell,58,16,5,"Xiamen ChinaSource Internet Service Co., Ltd",07/11/2024 15:15,07/11/2026 15:15
 8274e199-d5b7-4ce1-aa09-6af087c150c0,sweatshirt.company,available,74,4,10,,,
@@ -5956,8 +5959,8 @@ c56e626b-16a3-4b87-b794-2e7f3146fc40,tackabout.company,available,,1,10,,,
 4c432726-bb19-4336-8e39-faf3e4e9f3a2,taken.company,available,76,7,5,,,
 0793b6af-2bf8-4bf3-a468-8c64b59d51d8,takepart.company,available,,5,9,,,
 68ea341c-af63-43b4-b094-6982e8a1e082,takingaway.company,available,,1,11,,,
-5e92c735-5357-4f73-8791-c4d0eb7529ae,talent.company,resell,76,36,6,"Global Domains International, Inc. DBA DomainCostClub.com",05/06/2019 16:07,05/06/2026 16:07
-cd93d2fb-c992-4bb3-ab3c-b9df1ad1f32d,talkabout.company,available,,9,10,,,
+5e92c735-5357-4f73-8791-c4d0eb7529ae,talent.company,resell,76,35,6,"Global Domains International, Inc. DBA DomainCostClub.com",05/06/2019 16:07,05/06/2026 16:07
+cd93d2fb-c992-4bb3-ab3c-b9df1ad1f32d,talkabout.company,available,78,9,10,,,
 1ad9a2b1-5a34-4a01-99ed-c82bd51f840b,talkedabout.company,available,62,1,12,,,
 4763ffec-469f-45d9-af06-82262989a921,talkingpoint.company,available,68,3,13,,,
 71064cb2-a8e8-4871-9267-ed1ad5abe7b6,talks.company,available,76,18,5,,,
@@ -6014,11 +6017,11 @@ df2160bb-98cb-4330-a227-9d057fedc476,terminating.company,available,,1,11,,,
 bfd5a6d8-a875-4d37-a7ec-e6f251b75db6,terrific.company,available,74,10,8,,,
 c674a30a-1f26-4097-bc33-f46f9ea200ba,terrified.company,available,50,2,9,,,
 e8e98518-ca44-45a5-80bd-352e6c79f13d,terrifying.company,available,54,2,10,,,
-50a5e150-d0f3-474f-8917-a28511c5e4d5,territory.company,available,70,17,9,,,
+50a5e150-d0f3-474f-8917-a28511c5e4d5,territory.company,available,70,18,9,,,
 ea9672b6-f5f9-4dbb-aa27-48fba0fadcd8,terror.company,available,64,12,6,,,
 b061108d-a013-4b02-b9df-a169bd2770e3,tertiary.company,available,60,4,8,,,
 b92bc93f-deeb-4a9e-b8b3-6eef122676f6,terzetto.company,available,56,4,8,,,
-4d9090ee-4d28-4efd-be22-20e9c26d456b,test.company,resell,72,24,4,"Key-Systems, LLC",11/07/2015 20:43,11/07/2026 20:43
+4d9090ee-4d28-4efd-be22-20e9c26d456b,test.company,resell,72,23,4,"Key-Systems, LLC",11/07/2015 20:43,11/07/2026 20:43
 cf6b0f64-492f-404e-841e-ca9c4579a36e,tested.company,available,70,9,6,,,
 d72b1f6a-623c-4da0-9ada-f1f47c92b883,testimony.company,available,68,7,9,,,
 231647b5-2357-449f-b8d6-11a6399a2bde,tetrad.company,available,58,5,6,,,
@@ -6104,7 +6107,7 @@ a3547e3b-444e-4c89-811f-41aa86da28ff,tile.company,resell,92,22,4,Dynadot Inc,07/
 6cdec1ff-8f7b-4654-99b8-bff4d4b08182,tillable.company,available,52,4,8,,,
 f5bebf3c-c0e6-4ad7-bf2b-c68fea25c031,tilldate.company,available,,1,9,,,
 95a36fd5-8a5f-4fd8-8f2b-20308d48ea6c,tilted.company,available,56,12,6,,,
-eaabc354-7593-4cac-986d-d50472f59a8d,time.company,resell,128,39,4,"Sav.com, LLC",08/08/2016 22:11,08/08/2026 22:11
+eaabc354-7593-4cac-986d-d50472f59a8d,time.company,resell,128,38,4,"Sav.com, LLC",08/08/2016 22:11,08/08/2026 22:11
 eef3f421-a9ec-4927-b668-2fdc81e970e9,timeabout.company,available,,1,10,,,
 cb77961a-2735-4919-aef8-43f7f505ecb5,times.company,resell,80,22,5,Dynadot Inc,02/04/2021 00:02,02/04/2026 00:02
 5631fc7b-9e3d-4c72-baa0-37b4faffcf1b,timeworn.company,available,38,2,8,,,
@@ -6173,7 +6176,7 @@ bc08b816-4f6a-4974-a440-6a9634185e8d,traction.company,available,90,17,8,,,
 013ab3d8-9923-45ab-8ea2-3f0843d431d3,trade.company,resell,116,42,5,"Sav.com, LLC",24/06/2015 16:01,24/06/2026 16:01
 62fc5df6-f128-40e2-9004-af98f9177773,tradeunion.company,available,,4,11,,,
 3e15fc59-034c-4583-9268-68a0e6e40208,tradition.company,available,88,13,9,,,
-39fb455d-a300-48fe-a253-7019fc76f00d,traffic.company,resell,102,29,7,Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn),08/05/2020 09:52,08/05/2026 09:52
+39fb455d-a300-48fe-a253-7019fc76f00d,traffic.company,resell,102,28,7,Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn),08/05/2020 09:52,08/05/2026 09:52
 d67ff894-ee70-434c-ae61-9ad5838e1334,tragic.company,available,80,6,6,,,
 4e91bce8-6458-4d45-a28d-e977a98baf9a,train.company,available,72,23,5,,,
 53d86541-e08f-4b34-8528-9c22cf2ee087,trained.company,available,74,5,7,,,
@@ -6202,7 +6205,7 @@ b2211ab6-fed5-4d12-8e56-ff241d2e2427,trillionaire.company,available,80,13,12,,,
 dfd51a84-7d49-4bdf-acb6-04b83fa65f28,trimback.company,available,67,1,9,,,
 7e75a494-c3c0-4f8b-b0e1-68ce0da2f896,trimdown.company,available,69,1,9,,,
 4ff4f3fe-554b-4c03-9e50-9b83cd1c5cbf,trinity.company,available,72,17,7,,,
-ba3d3e8a-76fe-4a98-af30-e8d8b4cad50c,trip.company,resell,110,33,4,Dynadot Inc,16/11/2023 15:15,16/11/2028 15:15
+ba3d3e8a-76fe-4a98-af30-e8d8b4cad50c,trip.company,resell,110,32,4,Dynadot Inc,16/11/2023 15:15,16/11/2028 15:15
 5c3cfe5c-1813-4c68-891a-439edcf11162,trite.company,available,66,4,5,,,
 f3786927-98d3-4985-8501-6208ee20a393,trivial.company,available,78,9,7,,,
 7c0b5832-2815-4024-88e6-a4afd856ebda,troika.company,available,62,8,6,,,
@@ -6291,7 +6294,7 @@ e3cfcfa2-2572-41d8-a04c-1c277e8a6ade,unfounded.company,available,33,4,9,,,
 fb3de268-505e-4378-9151-7db10cef0c21,unimportant.company,available,54,3,11,,,
 27fb52ab-9fe9-4542-87df-1205446f544f,union.company,resell,90,34,5,Dynadot Inc,02/04/2021 00:01,02/04/2026 00:01
 ae0b7352-e5d4-42a6-b701-79da98710d03,unique.company,resell,104,37,6,"Spaceship, Inc.",07/10/2020 10:47,07/10/2026 10:47
-c9222b35-1af1-4963-9bd9-33666477cb5e,unit.company,resell,88,40,4,"Sav.com, LLC - 11",09/07/2024 17:00,09/07/2026 17:00
+c9222b35-1af1-4963-9bd9-33666477cb5e,unit.company,resell,88,39,4,"Sav.com, LLC - 11",09/07/2024 17:00,09/07/2026 17:00
 845be0bb-6d2a-4b0e-92df-c6ab9fcdae2d,united.company,resell,74,37,6,"Chengdu West Dimension Digital Technology Co., Ltd.",03/06/2024 15:15,03/06/2026 15:15
 89c0b5c5-32b0-47ab-bc53-e512c01c159d,UnitedKingdom.company,available,,5,14,,,
 5ecdb174-eb9b-483b-9121-fca3e98be669,UnitedStates.company,available,,5,13,,,
@@ -6342,7 +6345,7 @@ b4d60ee9-48e9-44f0-8e86-3c45d9d2fcc9,uremic.company,available,56,1,6,,,
 0499f3a9-2ac4-45b1-9158-f233fe19f813,usage.company,available,70,5,5,,,
 9bf5b772-cfb2-4080-901e-d34c7da13914,USBdrive.company,available,72,2,9,,,
 1ce53f76-c067-472d-ad3a-90d595922aab,USdollar.company,available,72,4,9,,,
-3d87c113-d88e-4bed-bd75-43af41ad0b5d,use.company,resell,100,29,3,"GoDaddy.com, LLC",24/10/2024 16:05,24/10/2026 16:05
+3d87c113-d88e-4bed-bd75-43af41ad0b5d,use.company,resell,100,27,3,"GoDaddy.com, LLC",24/10/2024 16:05,24/10/2026 16:05
 ea7cd0e7-ee72-44b9-8d7e-6bffcabb15db,used.company,available,80,14,4,,,
 6f46c685-b542-40e2-9ed4-49316eaf745e,using.company,available,82,7,5,,,
 4502e919-c2bc-4aed-bd53-72a6221440af,usually.company,available,70,4,7,,,
@@ -6436,7 +6439,7 @@ dad35366-4927-4aea-8ae7-d50c3e6f3d54,waiter.company,available,76,9,6,,,
 95b9cddc-b772-4c8c-ac97-401b1f234615,walkabout.company,available,,10,10,,,
 a1721316-d6ee-4b20-9fec-b09d1ae97b8e,walkfree.company,available,,2,9,,,
 b7c800bc-23c9-46c9-8c6d-31b00202bce4,walking.company,available,96,14,7,,,
-9ce03b39-a14a-47fb-9289-2541c21dc8e6,wall.company,resell,72,25,4,"Sav.com, LLC - 20",26/01/2024 15:15,26/01/2026 15:15
+9ce03b39-a14a-47fb-9289-2541c21dc8e6,wall.company,resell,72,24,4,"Sav.com, LLC - 20",26/01/2024 15:15,26/01/2026 15:15
 0164f747-fc99-4da6-ba25-903469b9d55a,wallet.company,resell,74,51,6,"GoDaddy.com, LLC",11/09/2017 01:14,11/09/2026 01:14
 f80c0846-fdcb-423a-b560-fc01eae9438c,walloping.company,available,70,1,9,,,
 f62cecbf-d77c-4ccd-a65f-3e52875243f1,Walmart.company,available,92,40,7,,,
@@ -6543,7 +6546,7 @@ fbd6d227-8399-4550-8334-87584e9985c0,WinterHaven.company,available,,4,12,,,
 4c7ad301-a6b4-4177-9422-726b8b3f533a,wintertime.company,available,,3,11,,,
 43269201-4d8a-4361-aa96-53ca97aa79ab,wintertire.company,available,72,1,11,,,
 2149f8c4-a890-4fa5-88b3-4fb40df094e5,wipeup.company,available,70,1,7,,,
-cd84cad5-11bb-4ee4-a81d-5747ae5feeca,wire.company,resell,58,25,4,Porkbun LLC,11/06/2020 14:41,11/06/2026 14:41
+cd84cad5-11bb-4ee4-a81d-5747ae5feeca,wire.company,resell,58,26,4,Porkbun LLC,11/06/2020 14:41,11/06/2026 14:41
 fdfb2683-5058-400f-ad07-8e1341e3e10c,wisdom.company,resell,72,34,6,Porkbun LLC,09/10/2024 15:15,09/10/2026 15:15
 a014b5f2-e34d-4ef9-8a15-056ed3519ee6,wise.company,resell,98,35,4,"Spaceship, Inc.",16/07/2015 14:35,16/07/2026 14:35
 5f4ed739-61ee-422a-b97a-f2d4f2c8a27b,wishful.company,available,48,5,7,,,
