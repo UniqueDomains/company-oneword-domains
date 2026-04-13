@@ -75,10 +75,10 @@ print(df.head())
 | healthcare.company | premium   | $520      | $520          | 76             | 33     | 10     | namecheap                                           |
 | critical.company   | available | $3.99     | $23.99        | 82             | 24     | 8      | name.com                                            |
 | artificial.company | resell    | —         | —             | 68             | 98     | 10     | Porkbun LLC                                         |
-| medical.company    | premium   | $250      | $250          | 100            | 32     | 7      | name.com                                            |
+| concrete.company   | premium   | $520      | $520          | 102            | 32     | 8      | namecheap                                           |
 | debate.company     | available | $3.99     | $23.99        | 90             | 23     | 6      | name.com                                            |
 | test.company       | resell    | —         | —             | 72             | 89     | 4      | Key-Systems, LLC                                    |
-| concrete.company   | premium   | $520      | $520          | 102            | 31     | 8      | namecheap                                           |
+| medical.company    | premium   | $250      | $250          | 100            | 32     | 7      | name.com                                            |
 | later.company      | available | $3.99     | $23.99        | 74             | 22     | 5      | name.com                                            |
 | prime.company      | resell    | —         | —             | 76             | 82     | 5      | GoDaddy.com, LLC                                    |
 | lang.company       | premium   | $16.90    | $16.90        | 72             | 31     | 4      | namecheap                                           |
