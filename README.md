@@ -16,7 +16,7 @@ Daily-updated dataset of available and resale .company one-word domains from Uni
 
 **Public extract:** 7,655 rows · **Live catalog:** 7,654 domains
 
-**Last updated:** 2026-04-12  
+**Last updated:** 2026-04-13  
 **Canonical page:** `https://unique.domains/domains/tld/company`  
 **Best for:** founders, investors, studios
 
@@ -69,7 +69,7 @@ print(df.head())
 | athletics.company  | premium   | $85.80    | $85.80        | 69             | 52     | 9      | namecheap                                           |
 | trinity.company    | available | $3.99     | $23.99        | 72             | 25     | 7      | name.com                                            |
 | gas.company        | resell    | —         | —             | 72             | 99     | 3      | 1API GmbH                                           |
-| mix.company        | premium   | $82.50    | $82.50        | 66             | 44     | 3      | name.com                                            |
+| mix.company        | premium   | $82.50    | $82.50        | 66             | 45     | 3      | name.com                                            |
 | remedial.company   | available | $3.99     | $23.99        | 86             | 24     | 8      | name.com                                            |
 | link.company       | resell    | —         | —             | 68             | 99     | 4      | GoDaddy.com, LLC                                    |
 | healthcare.company | premium   | $520      | $520          | 76             | 33     | 10     | namecheap                                           |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .COMPANY One-Word Domains*. Version 2026-04-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .COMPANY One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
