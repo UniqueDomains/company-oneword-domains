@@ -1,10 +1,10 @@
-# Available .COMPANY One-Word Domains (9,795)
+# Available .COMPANY One-Word Domains (10,369)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-9%2C795%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-10%2C369%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .company one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **9,795 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **10,369 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 9,795 domains
+**Public extract:** 1,000 rows · **Live catalog:** 10,369 domains
 
-**Last updated:** 2026-04-26  
+**Last updated:** 2026-05-01  
 **Canonical page:** `https://unique.domains/domains/tld/company`  
 **Best for:** founders, investors, studios
 
@@ -67,23 +67,23 @@ print(df.head())
 | echoes.company      | available | $3.99     | —             | 56             | 24     | 6      | name.com                                    |
 | online.company      | resell    | —         | —             | 70             | 62     | 7      | GoDaddy Online Services Cayman Islands Ltd. |
 | quotes.company      | premium   | $18.20    | $18.20        | 58             | 29     | 6      | namecheap                                   |
-| Places.company      | available | $27.98    | —             | 74             | 22     | 6      | namecheap                                   |
-| cars.company        | resell    | —         | —             | 66             | 47     | 4      | Name.com, Inc.                              |
-| KFC.company         | premium   | $18.20    | $18.20        | 74             | 27     | 3      | namecheap                                   |
 | Tests.company       | available | $27.98    | —             | 49             | 21     | 5      | namecheap                                   |
-| project.company     | resell    | —         | —             | 82             | 43     | 7      | Porkbun LLC                                 |
+| cars.company        | resell    | —         | —             | 66             | 47     | 4      | Name.com, Inc.                              |
 | doctors.company     | premium   | $18.20    | $18.20        | 56             | 26     | 7      | namecheap                                   |
 | HarryPotter.company | available | $27.98    | —             | 72             | 20     | 12     | namecheap                                   |
 | events.company      | resell    | —         | —             | 68             | 37     | 6      | Spaceship, Inc.                             |
 | loans.company       | premium   | $500      | —             | 58             | 24     | 5      | name.com                                    |
 | snaps.company       | available | $3.99     | —             | 52             | 20     | 5      | name.com                                    |
-| partners.company    | resell    | —         | —             | 61             | 32     | 8      | Spaceship, Inc.                             |
-| bubbles.company     | premium   | $18.20    | $18.20        | 72             | 21     | 7      | namecheap                                   |
-| loops.company       | available | $3.99     | —             | 70             | 19     | 5      | name.com                                    |
 | blocks.company      | resell    | —         | —             | 53             | 29     | 6      | Sav.com, LLC - 23                           |
 | children.company    | premium   | $18.20    | $18.20        | 68             | 21     | 8      | namecheap                                   |
+| rivals.company      | available | $3.99     | —             | 48             | 20     | 6      | name.com                                    |
+| backyard.company    | resell    | —         | —             | 80             | 27     | 9      | Sav.com, LLC - 41                           |
+| wheels.company      | premium   | $18.20    | $18.20        | 76             | 20     | 6      | namecheap                                   |
+| loops.company       | available | $3.99     | —             | 70             | 19     | 5      | name.com                                    |
+| systems.company     | resell    | —         | —             | 46             | 27     | 7      | Spaceship, Inc.                             |
+| stepup.company      | premium   | $18.20    | $18.20        | 78             | 19     | 7      | namecheap                                   |
 | mathematics.company | available | $3.99     | —             | 68             | 19     | 11     | name.com                                    |
-| dogs.company        | resell    | —         | —             | 76             | 28     | 4      | Spaceship, Inc.                             |
+| sites.company       | resell    | —         | —             | 53             | 26     | 5      | Sav.com, LLC - 26                           |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 1,000-row public sample | 9,795 live domains                               |
+| 1,000-row public sample | 10,369 live domains                              |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .COMPANY One-Word Domains*. Version 2026-04-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .COMPANY One-Word Domains*. Version 2026-05-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
