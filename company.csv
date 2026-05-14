@@ -272,6 +272,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 18eba7e4-c4bd-4285-b360-a71c70dba8cf,getoutsideof.company,available,3.99,,66,1,14,name.com,,
 19146391-3ae9-42ed-8798-57c6ab00ef3d,vents.company,available,3.99,,52,6,5,name.com,,
 191620ff-e04e-4d4f-b819-e0f6210b947a,scallops.company,available,3.99,,52,3,8,name.com,,
+1954096d-a859-4326-85a4-8ad1a3ea5670,sued.company,premium,,,38,6,4,,,
 196d9d54-a530-4e9f-a374-44679b2d59af,inpatient.company,available,3.99,,68,3,10,name.com,,
 1987b871-e65f-45cf-85e4-6a52c8c998fc,replies.company,available,3.99,,54,7,7,name.com,,
 1994a358-c9a7-49ef-bdd7-01e239b52401,littlepeople.company,available,3.99,,70,4,13,name.com,,
@@ -998,4 +999,3 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 61365004-7b98-4047-b8bc-33b037fdc3a6,chickenroll.company,available,3.99,,76,2,12,name.com,,
 6143a50b-71ba-4ce4-9f26-f0e03c146ce8,strapin.company,available,3.99,,68,1,8,name.com,,
 61529677-d78e-446f-acd0-c99368a67325,Americanway.company,available,27.98,,72,4,12,namecheap,,
-617dfb70-1a75-45eb-92d2-9a80170d17f3,hitwith.company,available,3.99,,76,2,8,name.com,,
