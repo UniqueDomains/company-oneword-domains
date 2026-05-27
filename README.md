@@ -1,10 +1,10 @@
-# Available .COMPANY One-Word Domains (10,376)
+# Available .COMPANY One-Word Domains (10,375)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-10%2C376%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-10%2C375%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .company one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **10,376 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **10,375 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 10,376 domains · **Median ask:** $8.59 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 10,375 domains · **Median ask:** $8.59 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-17  
+**Last updated:** 2026-05-27  
 **Canonical page:** `https://unique.domains/domains/tld/company`  
 **Best for:** founders, investors, studios
 
@@ -75,13 +75,13 @@ print(df.head())
 | loans.company       | premium   | $500      | —             | 58             | 24     | 5      | name.com                                    |
 | snaps.company       | available | $3.99     | —             | 52             | 20     | 5      | name.com                                    |
 | blocks.company      | resell    | —         | —             | 53             | 29     | 6      | Sav.com, LLC - 23                           |
-| children.company    | premium   | $18.20    | $18.20        | 68             | 21     | 8      | namecheap                                   |
+| wheels.company      | premium   | $18.20    | $18.20        | 76             | 20     | 6      | namecheap                                   |
 | rivals.company      | available | $3.99     | —             | 48             | 20     | 6      | name.com                                    |
 | backyard.company    | resell    | —         | —             | 80             | 27     | 9      | Sav.com, LLC - 41                           |
-| wheels.company      | premium   | $18.20    | $18.20        | 76             | 20     | 6      | namecheap                                   |
+| stepup.company      | premium   | $18.20    | $18.20        | 78             | 19     | 7      | namecheap                                   |
 | gobeyond.company    | available | $3.99     | —             | 76             | 19     | 9      | name.com                                    |
 | systems.company     | resell    | —         | —             | 46             | 27     | 7      | Spaceship, Inc.                             |
-| stepup.company      | premium   | $18.20    | $18.20        | 78             | 19     | 7      | namecheap                                   |
+| icons.company       | premium   | $18.20    | $18.20        | 68             | 19     | 5      | namecheap                                   |
 | loops.company       | available | $3.99     | —             | 70             | 19     | 5      | name.com                                    |
 | sites.company       | resell    | —         | —             | 53             | 26     | 5      | Sav.com, LLC - 26                           |
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 10,376 live domains                        |
+| 1,000-row public sample | 10,375 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 0 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .COMPANY One-Word Domains*. Version 2026-05-17. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .COMPANY One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
