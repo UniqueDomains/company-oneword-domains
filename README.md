@@ -1,10 +1,10 @@
-# Available .COMPANY One-Word Domains (10,375)
+# Available .COMPANY One-Word Domains (10,374)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-10%2C375%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-10%2C374%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,12 +12,12 @@
 Daily-updated public extract of available and resale .company one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **10,375 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **10,374 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 10,375 domains · **Median ask:** $8.59 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 10,374 domains · **Median ask:** $9.29 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-27  
-**Canonical page:** `https://unique.domains/domains/tld/company`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/company`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .COMPANY one-word doma
 
 ### Files
 
-- `company.csv` — public CSV extract (1,000 rows)
-- `company.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `company.csv`, public CSV extract (1,000 rows)
+- `company.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain              | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                   |
-| ------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------------------- |
-| echoes.company      | available | $3.99     | —             | 56             | 24     | 6      | name.com                                    |
-| online.company      | resell    | —         | —             | 70             | 62     | 7      | GoDaddy Online Services Cayman Islands Ltd. |
-| quotes.company      | premium   | $18.20    | $18.20        | 58             | 29     | 6      | namecheap                                   |
-| Tests.company       | available | $27.98    | —             | 49             | 21     | 5      | namecheap                                   |
-| cars.company        | resell    | —         | —             | 66             | 47     | 4      | Name.com, Inc.                              |
-| doctors.company     | premium   | $18.20    | $18.20        | 56             | 26     | 7      | namecheap                                   |
-| HarryPotter.company | available | $27.98    | —             | 72             | 20     | 12     | namecheap                                   |
-| events.company      | resell    | —         | —             | 68             | 37     | 6      | Spaceship, Inc.                             |
-| loans.company       | premium   | $500      | —             | 58             | 24     | 5      | name.com                                    |
-| snaps.company       | available | $3.99     | —             | 52             | 20     | 5      | name.com                                    |
-| blocks.company      | resell    | —         | —             | 53             | 29     | 6      | Sav.com, LLC - 23                           |
-| wheels.company      | premium   | $18.20    | $18.20        | 76             | 20     | 6      | namecheap                                   |
-| rivals.company      | available | $3.99     | —             | 48             | 20     | 6      | name.com                                    |
-| backyard.company    | resell    | —         | —             | 80             | 27     | 9      | Sav.com, LLC - 41                           |
-| stepup.company      | premium   | $18.20    | $18.20        | 78             | 19     | 7      | namecheap                                   |
-| gobeyond.company    | available | $3.99     | —             | 76             | 19     | 9      | name.com                                    |
-| systems.company     | resell    | —         | —             | 46             | 27     | 7      | Spaceship, Inc.                             |
-| icons.company       | premium   | $18.20    | $18.20        | 68             | 19     | 5      | namecheap                                   |
-| loops.company       | available | $3.99     | —             | 70             | 19     | 5      | name.com                                    |
-| sites.company       | resell    | —         | —             | 53             | 26     | 5      | Sav.com, LLC - 26                           |
+| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                    |
+| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------------------------------- |
+| okay.company      | resell    | —         | —             | high           | low    | 4      | Dynadot Inc                                  |
+| nothing.company   | premium   | $15.34    | $15.34        | high           | low    | 7      | namesilo                                     |
+| jesus.company     | available | —         | —             | high           | medium | 5      | —                                            |
+| YouTube.company   | available | —         | —             | high           | medium | 7      | —                                            |
+| chocolate.company | resell    | —         | —             | high           | low    | 9      | Spaceship, Inc.                              |
+| yur.company       | available | $3.99     | —             | high           | low    | 3      | name.com                                     |
+| ale.company       | resell    | —         | —             | medium         | low    | 3      | GoDaddy.com, LLC                             |
+| Ann.company       | premium   | $242      | $242          | high           | low    | 3      | namesilo                                     |
+| aunt.company      | available | $3.99     | —             | high           | low    | 4      | name.com                                     |
+| god.company       | resell    | —         | —             | high           | medium | 3      | GoDaddy.com, LLC                             |
+| cot.company       | premium   | $242      | $242          | high           | low    | 3      | namesilo                                     |
+| been.company      | available | $3.99     | —             | medium         | low    | 4      | name.com                                     |
+| kid.company       | resell    | —         | —             | high           | low    | 3      | GoDaddy.com, LLC                             |
+| dew.company       | premium   | $78.54    | $78.54        | medium         | low    | 3      | namesilo                                     |
+| brie.company      | available | $3.99     | —             | high           | low    | 4      | name.com                                     |
+| map.company       | resell    | —         | —             | high           | medium | 3      | Xiamen ChinaSource Internet Service Co., Ltd |
+| don.company       | premium   | $242      | $242          | high           | low    | 3      | namesilo                                     |
+| cows.company      | available | $3.99     | —             | medium         | low    | 4      | name.com                                     |
+| oil.company       | resell    | —         | —             | high           | low    | 3      | Sav.com, LLC                                 |
+| far.company       | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo                                     |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 10,375 live domains                        |
+| 1,000-row public sample | 10,374 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 0 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This selection is entirely one-word .company domains. The set ranges from broad dictionary words such as english.company and doubt.company to more specific terms like athlete.company and cleansing.company, plus short forms such as sub.company. For founders, the main question is whether the word is easy to say, easy to remember, and credible with a .company ending. For investors, the key check is whether the word is commercially broad enough to attract multiple buyer types at the current ask. With a median ask of 8.59, price is one input, but the stronger differentiator in this set is name quality and fit.
+This list includes 10,374 one-word domain names on the .company extension, drawn from everyday vocabulary such as okay.company, quiet.company, and time.company. With a median ask near $9, most names in this set are priced for direct registration rather than resale. Because .company is a broad, less common extension, availability tends to favor short, literal words over invented brand terms. When comparing names here, weigh word recognition, spelling simplicity, and renewal cost against how directly each word fits an intended use—corporate, product, or personal.
 
-- One-word .company names only
-- 10,374 domains in this selection
-- Median ask across the set is 8.59
-- Favor clear words that fit a company identity
+- 10,374 one-word .company domain names in this selection
+- Median ask near $9 for direct registration
+- Everyday words like okay, quiet, clean, and time
+- Compare spelling, tone, and renewal cost before choosing
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .COMPANY One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .COMPANY One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
