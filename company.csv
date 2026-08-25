@@ -55,7 +55,7 @@ ccfb7f52-0a17-4585-84d3-846d3d57738d,bank.company,resell,,,high,low,4,Dynadot In
 0dbf06cf-68d8-452e-926c-bc1c6b3881f9,executing.company,available,3.99,,medium,low,9,name.com,,
 401760f9-ef24-4d29-84b9-937d2d9f8522,bought.company,available,3.99,,high,low,6,name.com,,
 069e351b-f13d-4498-a6db-c2c93ff8ca3b,worse.company,available,3.99,,high,low,5,name.com,,
-a84a19dc-996f-48d7-8b03-8c56ba0d4498,leaves.company,available,3.99,,medium,low,6,name.com,,
+a84a19dc-996f-48d7-8b03-8c56ba0d4498,leaves.company,available,3.99,23.99,low,low,6,name.com,,
 849f0add-e379-4c40-b8d3-fade139d19e3,pubichair.company,available,3.99,,low,low,10,name.com,,
 148a235d-2899-40a2-b1da-cd60ca48f4d0,insure.company,resell,,,high,low,6,GoDaddy Online Services Cayman Islands Ltd.,17/03/2014 16:00,17/03/2027 16:00
 aabe3dc6-3b4c-44c3-9ba8-ff0bff309345,below.company,available,,,medium,low,5,,,
@@ -421,7 +421,7 @@ dcec32cd-386c-414c-aeb6-894bdbdbb7c7,far.company,premium,78.54,78.54,high,low,3,
 c3986232-5054-4470-b62a-26dd41e78793,hang.company,premium,15.34,15.34,high,low,4,namesilo,,
 a396df1b-9d9d-4239-b240-a2d4e9c98f33,forgetting.company,available,3.99,,high,low,10,name.com,,
 59a284fc-14d1-47ab-b853-9db9ced018ba,person.company,resell,,,high,low,6,"Chengdu West Dimension Digital Technology Co., Ltd.",14/05/2024 15:15,14/05/2034 15:15
-d464b06f-dccd-40a1-8916-a68a3e12ede0,drink.company,resell,,,high,low,5,"GoDaddy.com, LLC",30/08/2017 18:12,30/08/2028 18:12
+d464b06f-dccd-40a1-8916-a68a3e12ede0,drink.company,resell,,,medium,low,5,"GoDaddy.com, LLC",30/08/2017 18:12,30/08/2028 18:12
 a960d793-91b5-4415-8cf0-8b9803aa8051,blanched.company,available,3.99,23.99,low,low,8,name.com,,
 fa442166-f3a8-41f0-bbaa-337c23a8249b,Carribean.company,available,3.99,,high,low,9,name.com,,
 8f108917-0597-4fc1-a695-a3cc8fa3e96a,telecom.company,resell,,,high,low,7,"Name.com, Inc.",27/06/2016 10:01,27/06/2028 10:01
@@ -500,7 +500,7 @@ d7536f49-6113-46bb-bc59-417649df9455,lastly.company,available,3.99,,medium,low,6
 0169eccd-fc65-4df1-b92b-f2928dbf6005,journey.company,resell,,,high,low,7,Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn),18/01/2022 13:15,18/01/2027 13:15
 5b0ef05f-ee7e-4232-9f7c-c4329f807bf3,gold.company,resell,,,high,medium,4,"Name.com, Inc.",03/06/2019 16:52,03/06/2028 16:52
 80700f2f-9421-4aad-b32e-092b25ab58c7,havethetime.company,available,3.99,,high,low,13,name.com,,
-638dd93a-ce75-4b2a-85b2-50d36ce2e414,related.company,premium,15.34,15.34,medium,low,7,namesilo,,
+638dd93a-ce75-4b2a-85b2-50d36ce2e414,related.company,premium,15.34,15.34,low,low,7,namesilo,,
 bc2e14f0-3926-4082-9d1f-232ba99f9d41,ancient.company,premium,15.34,15.34,high,low,7,namesilo,,
 df8de1b7-1f29-4ff3-a472-39dbfa23c768,luminous.company,available,,,medium,low,8,,,
 69a870ce-b07e-4e39-936b-c40d13aa8dc3,inthis.company,available,3.99,,medium,low,7,name.com,,
