@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .company one-word domains f
 
 **Public extract:** 1,000 rows · **Live catalog:** 17,693 domains · **Median ask:** $7.45 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-09-05
+**Last updated:** 2026-09-06
 **Canonical page:** `https://unique.domains/domains/tld/company`
 **Best for:** founders, investors, studios
 
@@ -64,7 +64,6 @@ print(df.head())
 
 | domain       | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                    |
 | ------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------------------------------- |
-| okay.company | resell    | —         | —             | high           | low    | 4      | Dynadot Inc                                  |
 | lxi.company  | available | $3.99     | $23.99        | low            | low    | 3      | name.com                                     |
 | ale.company  | resell    | —         | —             | medium         | low    | 3      | GoDaddy.com, LLC                             |
 | Ann.company  | premium   | $242      | $242          | high           | low    | 3      | namesilo                                     |
@@ -84,6 +83,7 @@ print(df.head())
 | shh.company  | resell    | —         | —             | medium         | low    | 3      | Dynadot Inc                                  |
 | hum.company  | premium   | $242      | $242          | high           | low    | 3      | namesilo                                     |
 | awed.company | available | $3.99     | $23.99        | low            | low    | 4      | name.com                                     |
+| auto.company | resell    | —         | —             | medium         | medium | 4      | Spaceship, Inc.                              |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .COMPANY One-Word Domains*. Version 2026-09-05. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .COMPANY One-Word Domains*. Version 2026-09-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
