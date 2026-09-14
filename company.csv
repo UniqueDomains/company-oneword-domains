@@ -333,7 +333,7 @@ c11d3efd-8e70-4d5b-a27d-52c130337dba,findout.company,available,3.99,,high,low,8,
 4fa26f37-8a66-4b85-8a79-a15d8046e558,youknow.company,available,3.99,,high,low,8,name.com,,
 6af492d7-4167-4c98-b75f-a9aa94735c08,limit.company,available,3.99,,high,low,5,name.com,,
 9b26ccda-f15d-40a1-8d3c-3738b9fffd59,violation.company,available,3.99,,medium,low,9,name.com,,
-ce1311d2-077c-4a88-a06f-4dab83fbcb61,licensed.company,premium,16.9,16.9,medium,low,8,namecheap,,
+ce1311d2-077c-4a88-a06f-4dab83fbcb61,licensed.company,premium,15.34,15.34,medium,low,8,namesilo,,
 a6e31880-ddf9-4e9e-92e4-4de1dd4a3ebe,cornered.company,available,3.99,23.99,low,low,8,name.com,,
 3e3e6c63-1560-4f0d-a3cd-72c4f6a125d8,cuba.company,available,,,medium,low,4,,,
 c5801cea-9581-4c52-940f-4d658e976663,relish.company,premium,15.34,15.34,high,low,6,namesilo,,
@@ -356,7 +356,7 @@ fe09a125-580e-4af4-981b-39451f7533e9,silverprint.company,available,3.99,,low,low
 61b9858b-6e8a-4d10-98d7-99aaae42e22d,coruscant.company,available,3.99,23.99,low,low,9,name.com,,
 1c04fdb2-0bcd-46d1-a4e4-9c9984203325,lately.company,available,3.99,,medium,low,6,name.com,,
 75ed43a6-eb46-4307-a63f-524c60f6b25a,bristly.company,available,3.99,23.99,low,low,7,name.com,,
-e7bdc4a5-ca6d-4f74-bccf-3459fdff03c5,stone.company,resell,,,medium,low,5,"Spaceship, Inc.",11/09/2019 18:12,11/09/2026 18:12
+e7bdc4a5-ca6d-4f74-bccf-3459fdff03c5,stone.company,resell,,,medium,low,5,"Spaceship, Inc.",11/09/2019 18:12,11/09/2027 18:12
 abca05b2-aa56-4b58-94eb-67075aa6b471,guess.company,available,,,high,low,5,,,
 5174900d-ebd1-4b99-9d85-48972066f4e3,totime.company,available,3.99,,low,low,7,name.com,,
 526f3c61-d186-4861-909d-5f6434793f66,xmas.company,premium,16.9,16.9,high,low,4,namecheap,,
@@ -500,7 +500,7 @@ d7536f49-6113-46bb-bc59-417649df9455,lastly.company,available,3.99,,medium,low,6
 0169eccd-fc65-4df1-b92b-f2928dbf6005,journey.company,resell,,,high,low,7,Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn),18/01/2022 13:15,18/01/2027 13:15
 5b0ef05f-ee7e-4232-9f7c-c4329f807bf3,gold.company,resell,,,high,medium,4,"Name.com, Inc.",03/06/2019 16:52,03/06/2028 16:52
 80700f2f-9421-4aad-b32e-092b25ab58c7,havethetime.company,available,3.99,,high,low,13,name.com,,
-638dd93a-ce75-4b2a-85b2-50d36ce2e414,related.company,premium,15.34,15.34,low,low,7,namesilo,,
+638dd93a-ce75-4b2a-85b2-50d36ce2e414,related.company,premium,15.34,15.34,medium,low,7,namesilo,,
 bc2e14f0-3926-4082-9d1f-232ba99f9d41,ancient.company,premium,15.34,15.34,high,low,7,namesilo,,
 df8de1b7-1f29-4ff3-a472-39dbfa23c768,luminous.company,available,,,medium,low,8,,,
 69a870ce-b07e-4e39-936b-c40d13aa8dc3,inthis.company,available,3.99,,medium,low,7,name.com,,
@@ -596,7 +596,7 @@ e2b8c0dc-fe3b-4324-a0fd-0a92ceeb94a1,rather.company,available,3.99,,medium,low,6
 ef47c9b6-9c77-4ce7-9409-95ce670e9379,acid.company,available,3.99,23.99,low,low,4,name.com,,
 4b50e2bc-b4ad-4ebf-8f58-09474a250834,anatomical.company,available,3.99,23.99,low,low,10,name.com,,
 14ad224f-4716-4586-b33c-7af02511e1a3,cold.company,resell,,,high,low,4,Squarespace Domains II LLC,26/07/2019 09:14,26/07/2028 09:14
-08294e36-5fd2-4283-b8e6-9d3bdefa03e6,overagain.company,available,3.99,,low,low,10,name.com,,
+08294e36-5fd2-4283-b8e6-9d3bdefa03e6,overagain.company,available,21.98,27.98,low,low,10,namecheap,,
 30bc54d6-9207-4660-adf2-c7711a8686b0,neighboring.company,available,3.99,,low,low,11,name.com,,
 84cafa05-448a-49e8-a88a-10f7188b5f8a,bumpinto.company,available,3.99,,medium,low,9,name.com,,
 2aaf9026-1806-42dd-8d6f-22717e6ed324,aerolitic.company,available,3.99,23.99,low,low,9,name.com,,
@@ -628,7 +628,7 @@ bae23f46-eb53-4f81-bf7c-78f2b6264fe7,agreeable.company,available,3.99,23.99,high
 5d4a57f3-c105-4136-9e62-428212e898ae,whereabouts.company,premium,18.2,18.2,low,low,11,namecheap,,
 dd4157b1-6d4f-4a75-8e19-3fa5597158e8,dissent.company,available,3.99,,high,low,7,name.com,,
 582d1a40-a2e5-4efe-83a4-c25bde770f26,bloodless.company,available,3.99,23.99,low,low,9,name.com,,
-d47766ce-cffe-4b4f-98e6-e29af0d18bd7,outloud.company,available,3.99,,low,low,8,name.com,,
+d47766ce-cffe-4b4f-98e6-e29af0d18bd7,outloud.company,available,21.98,27.98,low,low,8,namecheap,,
 858b7fbc-5f16-4fc7-81c6-efd2061c54e4,autumnal.company,available,3.99,23.99,low,low,8,name.com,,
 986dc15e-f30d-442c-b8c7-4cccec23ce89,boarded.company,available,3.99,,medium,low,7,name.com,,
 1a195294-2d8a-4b2b-99ba-6105cfa8b9ba,beon.company,available,3.99,,high,low,5,name.com,,
