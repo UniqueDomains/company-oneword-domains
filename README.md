@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .company one-word domains f
 
 **Public extract:** 1,000 rows · **Live catalog:** 20,924 domains · **Median ask:** $9.43 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-09-14
+**Last updated:** 2026-09-15
 **Canonical page:** `https://unique.domains/domains/tld/company`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain       | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                    |
-| ------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------------------------------- |
-| lxi.company  | available | $3.99     | $23.99        | low            | low    | 3      | name.com                                     |
-| ale.company  | resell    | —         | —             | medium         | low    | 3      | GoDaddy.com, LLC                             |
-| Ann.company  | premium   | $242      | $242          | high           | low    | 3      | namesilo                                     |
-| yur.company  | available | $3.99     | —             | high           | low    | 3      | name.com                                     |
-| god.company  | resell    | —         | —             | high           | medium | 3      | GoDaddy.com, LLC                             |
-| cot.company  | premium   | $242      | $242          | high           | low    | 3      | namesilo                                     |
-| acid.company | available | $3.99     | $23.99        | low            | low    | 4      | name.com                                     |
-| kid.company  | resell    | —         | —             | high           | low    | 3      | GoDaddy.com, LLC                             |
-| dew.company  | premium   | $78.54    | $78.54        | medium         | low    | 3      | namesilo                                     |
-| asat.company | available | $3.99     | $23.99        | low            | low    | 4      | name.com                                     |
-| map.company  | resell    | —         | —             | high           | medium | 3      | Xiamen ChinaSource Internet Service Co., Ltd |
-| don.company  | premium   | $242      | $242          | high           | low    | 3      | namesilo                                     |
-| ashy.company | available | $3.99     | $23.99        | low            | low    | 4      | name.com                                     |
-| oil.company  | resell    | —         | —             | high           | low    | 3      | Sav.com, LLC                                 |
-| far.company  | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo                                     |
-| aunt.company | available | $3.99     | —             | high           | low    | 4      | name.com                                     |
-| shh.company  | resell    | —         | —             | medium         | low    | 3      | Dynadot Inc                                  |
-| hum.company  | premium   | $242      | $242          | high           | low    | 3      | namesilo                                     |
-| awed.company | available | $3.99     | $23.99        | low            | low    | 4      | name.com                                     |
-| auto.company | resell    | —         | —             | medium         | medium | 4      | Spaceship, Inc.                              |
+| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                    |
+| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------------------------------- |
+| okay.company      | resell    | —         | —             | high           | low    | 4      | Dynadot Inc                                  |
+| nothing.company   | premium   | $15.34    | $15.34        | high           | low    | 7      | namesilo                                     |
+| jesus.company     | available | —         | —             | high           | medium | 5      | —                                            |
+| YouTube.company   | available | —         | —             | high           | medium | 7      | —                                            |
+| chocolate.company | resell    | —         | —             | high           | low    | 9      | Spaceship, Inc.                              |
+| lxi.company       | available | $3.99     | $23.99        | low            | low    | 3      | name.com                                     |
+| ale.company       | resell    | —         | —             | medium         | low    | 3      | GoDaddy.com, LLC                             |
+| Ann.company       | premium   | $242      | $242          | high           | low    | 3      | namesilo                                     |
+| yur.company       | available | $3.99     | —             | high           | low    | 3      | name.com                                     |
+| god.company       | resell    | —         | —             | high           | medium | 3      | GoDaddy.com, LLC                             |
+| cot.company       | premium   | $242      | $242          | high           | low    | 3      | namesilo                                     |
+| acid.company      | available | $3.99     | $23.99        | low            | low    | 4      | name.com                                     |
+| kid.company       | resell    | —         | —             | high           | low    | 3      | GoDaddy.com, LLC                             |
+| dew.company       | premium   | $78.54    | $78.54        | medium         | low    | 3      | namesilo                                     |
+| asat.company      | available | $3.99     | $23.99        | low            | low    | 4      | name.com                                     |
+| map.company       | resell    | —         | —             | high           | medium | 3      | Xiamen ChinaSource Internet Service Co., Ltd |
+| don.company       | premium   | $242      | $242          | high           | low    | 3      | namesilo                                     |
+| ashy.company      | available | $3.99     | $23.99        | low            | low    | 4      | name.com                                     |
+| oil.company       | resell    | —         | —             | high           | low    | 3      | Sav.com, LLC                                 |
+| far.company       | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo                                     |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .COMPANY One-Word Domains*. Version 2026-09-14. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .COMPANY One-Word Domains*. Version 2026-09-15. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
