@@ -455,7 +455,7 @@ f450f93c-97ef-4e36-b152-755de4098228,toothenamel.company,available,3.99,,low,low
 de414124-7691-4cf4-ad63-3b8e101ba424,agitated.company,available,3.99,23.99,low,low,8,name.com,,,
 a9d75a22-e057-4005-9948-b27b244601df,unjustified.company,available,3.99,,medium,low,11,name.com,,,
 852db4ca-4c4e-486b-b5a2-0f212c43acbe,garlic.company,available,,,high,low,6,,,,
-3b1ae011-1fe2-4443-9606-8a25b3f16b7e,creation.company,resell,,,high,low,8,"Spaceship, Inc.",13/08/2022 13:15,13/08/2026 13:15,
+3b1ae011-1fe2-4443-9606-8a25b3f16b7e,creation.company,resell,,,high,low,8,"Spaceship, Inc.",13/08/2022 13:15,13/08/2027 13:15,20/09/2026 20:11
 13781639-9e10-456f-9e55-a552eb2a4913,archean.company,available,3.99,23.99,low,low,7,name.com,,,06/08/2026 15:05
 c24abc59-7a4d-4ec3-abd2-f41eb6451aba,canada.company,available,,,high,low,6,,,,
 8ade8c7c-69e0-4d9e-8abd-add15aeda545,bob.company,available,,,high,high,3,,,,
@@ -474,6 +474,7 @@ c5d55c3a-79be-4ffd-87e9-3eba005bdbf9,unhappiness.company,available,3.99,,low,low
 f9698278-cfaf-4e76-8075-02ba4ef5463f,ill.company,premium,78.54,78.54,medium,low,3,namesilo,,,
 d07319ed-0547-4552-8b48-86ab71f9ad2b,abstruse.company,available,3.99,23.99,low,low,8,name.com,,,
 20972074-63f0-4b44-b71d-da8044d3dfea,upabove.company,available,3.99,,low,low,8,name.com,,,
+8664124b-7ff5-4c62-bf51-83cf055ae352,movie.company,resell,,,medium,low,5,"Spaceship, Inc.",27/05/2024 15:15,27/05/2027 15:15,20/09/2026 03:25
 7f299b0b-5699-42ae-a630-91c345931123,asthenic.company,available,3.99,23.99,low,low,8,name.com,,,07/08/2026 09:16
 6b6caeed-f42b-4618-99cd-d8b4cd7996ae,behaviouralscience.company,available,3.99,,high,low,19,name.com,,,
 a4882352-b1b4-41b1-a4d5-d70afd68717d,ashy.company,available,3.99,23.99,low,low,4,name.com,,,07/08/2026 02:04
@@ -574,7 +575,7 @@ b3c20b0c-538e-4632-88ff-deb20f1fab1e,myson.company,available,3.99,,high,low,6,na
 3afff7bf-d148-46fb-a852-6cbfba77df44,comeintotheworld.company,available,3.99,,high,low,19,name.com,,,
 6ffade5b-100b-4a2e-8c80-95544f4b3893,tobacco.company,resell,,,medium,low,7,"Name.com, Inc.",05/09/2017 20:26,05/09/2028 20:26,
 3d03bc3d-2710-47d3-8610-b5312302796b,alopecic.company,available,3.99,23.99,low,low,8,name.com,,,
-93689f22-9c94-430a-86d5-fb213dc131de,chiefly.company,available,20.99,20.99,low,low,7,namesilo,,,19/09/2026 02:53
+93689f22-9c94-430a-86d5-fb213dc131de,chiefly.company,available,20.99,20.99,low,low,7,namesilo,,,20/09/2026 23:12
 000052bb-d887-4a0b-b678-7f91377011cb,jumping.company,available,20.99,20.99,medium,low,7,namesilo,,,08/09/2026 06:49
 92c0ad33-d0a4-4ca4-8b9e-b3c3d9bedbd2,tues.company,available,3.99,,high,low,4,name.com,,,
 0e5a09be-acff-4526-bd67-71cbd9456df8,changethesubject.company,available,3.99,,medium,low,18,name.com,,,
@@ -684,7 +685,7 @@ e53d6349-8033-4a33-afcc-2e31adb0b862,abnormal.company,available,3.99,23.99,high,
 ff7a3516-b75c-480e-a192-aa27c8e0df68,throwoff.company,available,3.99,,medium,low,9,name.com,,,
 7d13ca31-b981-41ee-b702-d3efedffd5ea,taketowife.company,available,3.99,,low,low,12,name.com,,,
 11949a6c-cbf0-4043-87e2-9d39fcbf9526,conducting.company,available,3.99,,medium,low,10,name.com,,,
-01370c25-0d28-49d2-83d3-3b07a33d3824,date.company,resell,,,high,low,4,Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn),12/08/2021 08:21,12/08/2026 08:21,
+01370c25-0d28-49d2-83d3-3b07a33d3824,date.company,resell,,,high,low,4,Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn),12/08/2021 08:21,12/08/2027 08:21,20/09/2026 18:56
 425cafb1-e95f-4339-971b-b59a2b1e63dd,choice.company,resell,,,high,low,6,Unstoppable Domains Inc,28/12/2020 08:11,28/12/2026 08:11,
 10374e19-6b9d-4f64-b20b-f0c919712414,put.company,premium,242,242,high,low,3,namesilo,,,
 9273cb01-6e92-4ef0-815e-c8d047a7bebb,englishmedium.company,available,3.99,,medium,low,14,name.com,,,
@@ -852,7 +853,7 @@ e3f06e14-c21f-41a5-be02-e455779f2759,equivocal.company,available,3.99,23.99,low,
 b96c0dd8-3df8-47eb-8e6e-5485bb738a45,handin.company,available,3.99,,medium,low,7,name.com,,,
 fa66ffb4-cdd5-435e-93b3-2d7d80dce1ec,antepartum.company,available,3.99,,high,low,10,name.com,,,
 4f8980d8-12ce-453e-9a98-30f2f0215ec0,guide.company,resell,,,high,low,5,"Spaceship, Inc.",07/01/2025 15:15,07/01/2027 15:15,
-9d95bdc2-4a4c-4a97-ac5d-da88aa50f41d,logo.company,resell,,,medium,low,4,"Spaceship, Inc.",20/08/2019 09:08,20/08/2026 09:08,
+9d95bdc2-4a4c-4a97-ac5d-da88aa50f41d,logo.company,resell,,,medium,low,4,"Spaceship, Inc.",20/08/2019 09:08,20/08/2027 09:08,21/09/2026 04:04
 004b279f-af99-4729-82bd-f61953beac5e,oldest.company,available,3.99,,high,low,6,name.com,,,
 202ef91f-93af-46bd-b6c7-9f9e5d4277ad,socialliberal.company,available,3.99,,low,low,14,name.com,,,
 72e40435-088e-47e9-a38b-c175a157ba04,justiceofthepeace.company,available,3.99,,medium,low,20,name.com,,,
@@ -969,7 +970,6 @@ cbb9fb87-3472-40a2-bb48-093e658dc5bd,doyoumind.company,available,3.99,,medium,lo
 f3cd2812-936a-4db8-9c80-ecebb4669513,sold.company,premium,15.34,15.34,high,low,4,namesilo,,,
 fe11afa7-6802-440f-8e22-b6cff2e31033,successor.company,available,3.99,,medium,low,9,name.com,,,
 7d91270c-aabe-4f71-a99a-c8507f17787e,lookupanddown.company,available,3.99,,medium,low,16,name.com,,,
-f325fcd1-4da0-4f4f-81b5-24e6e53f2165,youtube.company,available,,,high,medium,7,,,,
 6e267782-d4f0-4edf-9679-7d3a5e9e02d7,newzealand.company,available,,,medium,low,11,,,,
 4b260fb6-1df1-48ae-ad81-2ee49163c3f5,videochat.company,available,3.99,,medium,low,10,name.com,,,
 3263b2ae-20eb-43ff-88f9-c8af4ea5ac3d,prairie.company,premium,15.34,15.34,medium,low,7,namesilo,,,
