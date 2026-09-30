@@ -1,10 +1,10 @@
-# Available .COMPANY One-Word Domains (21,164)
+# Available .COMPANY One-Word Domains (22,752)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-21%2C164%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-22%2C752%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .company one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **21,164 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **22,752 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 21,164 domains · **Median ask:** $17.34 · **High-demand under $2,500:** 1
+**Public extract:** 1,000 rows · **Live catalog:** 22,752 domains · **Median ask:** $17.61 · **High-demand under $2,500:** 1
 
-**Last updated:** 2026-09-29
+**Last updated:** 2026-09-30
 **Canonical page:** `https://unique.domains/domains/tld/company`
 **Best for:** founders, investors, studios
 
@@ -64,25 +64,25 @@ print(df.head())
 
 | domain       | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                   |
 | ------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------------------- |
-| fey.company  | available | $3.99     | $23.99        | medium         | low    | 3      | name.com                                    |
+| dhs.company  | available | $22       | —             | high           | low    | 3      | unstoppable                                 |
 | apr.company  | resell    | —         | —             | high           | low    | 3      | Dynadot Inc                                 |
 | atf.company  | premium   | $260      | $260          | high           | low    | 3      | namecheap                                   |
-| ult.company  | available | $3.99     | $23.99        | high           | low    | 3      | name.com                                    |
+| fey.company  | available | $3.99     | $23.99        | medium         | low    | 3      | name.com                                    |
 | fia.company  | resell    | —         | —             | medium         | low    | 3      | —                                           |
 | che.company  | premium   | $242      | $242          | high           | low    | 3      | namesilo                                    |
-| uut.company  | available | $20.99    | $20.99        | medium         | low    | 3      | namesilo                                    |
+| ult.company  | available | $3.99     | $23.99        | high           | low    | 3      | name.com                                    |
 | law.company  | resell    | —         | —             | high           | medium | 3      | GoDaddy.com, LLC                            |
-| fag.company  | premium   | $242      | $242          | medium         | low    | 3      | namesilo                                    |
-| aery.company | available | $3.99     | $23.99        | medium         | low    | 4      | name.com                                    |
+| fag.company  | premium   | $242      | $242          | high           | low    | 3      | namesilo                                    |
+| uut.company  | available | $20.99    | $20.99        | medium         | low    | 3      | namesilo                                    |
 | pod.company  | resell    | —         | —             | high           | medium | 3      | GoDaddy Online Services Cayman Islands Ltd. |
-| gal.company  | premium   | $242      | $242          | high           | low    | 3      | namesilo                                    |
-| amun.company | available | $21.98    | $27.98        | medium         | low    | 4      | namecheap                                   |
+| gal.company  | premium   | $207.20   | $207.20       | high           | low    | 3      | spaceship                                   |
+| aery.company | available | $3.99     | $23.99        | high           | low    | 4      | name.com                                    |
 | apis.company | resell    | —         | —             | high           | medium | 4      | Sav.com, LLC - 6                            |
 | hog.company  | premium   | $242      | $242          | high           | low    | 3      | namesilo                                    |
-| amur.company | available | $20.99    | $20.99        | high           | low    | 4      | namesilo                                    |
+| amun.company | available | $21.98    | $27.98        | medium         | low    | 4      | namecheap                                   |
 | caps.company | resell    | —         | —             | high           | low    | 4      | —                                           |
 | lie.company  | premium   | $242      | $242          | high           | low    | 3      | namesilo                                    |
-| atop.company | available | $16.20    | $16.20        | medium         | low    | 4      | cloudflare                                  |
+| amur.company | available | $20.99    | $20.99        | high           | low    | 4      | namesilo                                    |
 | deal.company | resell    | —         | —             | high           | low    | 4      | Unstoppable Domains Inc                     |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 21,164 live domains                        |
+| 1,000-row public sample | 22,752 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 1 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .COMPANY One-Word Domains*. Version 2026-09-29. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .COMPANY One-Word Domains*. Version 2026-09-30. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
